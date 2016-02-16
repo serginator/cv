@@ -1,0 +1,33 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "My CV following FRESH standard",
+  "main": "index.js",
+  "scripts": {
+    "start": "node node_modules/hackmyresume/dist/cli/index.js BUILD generic.json TO out/resume.all -t positive",
+    "test": "node node_modules/hackmyresume/dist/cli/index.js VALIDATE generic.json",
+    "analyze": "node node_modules/hackmyresume/dist/cli/index.js ANALYZE generic.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/serginator/cv.git"
+  },
+  "keywords": [
+    "cv",
+    "fresh",
+    "fresca",
+    "resume",
+    "currículum",
+    "vitae"
+  ],
+  "author": "Sergio Ruiz (@serginator)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serginator/cv/issues"
+  },
+  "homepage": "https://github.com/serginator/cv#readme",
+  "devDependencies": {
+    "hackmyresume": "^1.8.0",
+    "phantomjs": "^2.1.3"
+  }
+}
