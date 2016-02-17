@@ -4,13 +4,13 @@ Email: serginator@gmail.com
 
 Web: http://www.serginator.com
 
-**FullStack JavaScript developer with 5+ years industry experience, since age of 6 with computers and since age of 12 dealing with code**, with strong skills in code quality, performance and continuous integration. I have the capacity to learn new languages and adaptability to new environments in no time thanks to my overall knowledge of languages and operative systems.
+**FullStack JavaScript developer with 5+ years industry experience, since age of 6 with computers and since age of 12 dealing with code**, with strong skills in code quality, performance and continuous integration. Capacity to learn new languages and adaptability to new environments in no time thanks to his overall knowledge of languages and operative systems.
 
 ## SKILLS
 
-  - Web Development: HTML5 CSS3 JavaScript REST AJAX Node.js 
+  - Web: HTML5 CSS3 JavaScript REST AJAX 
   - JavaScript: jQuery AngularJS Node.js Zepto.js Underscore 
-  - Continuous Integration: Jenkins Sonar Grunt.js Unix 
+  - CI: Jenkins Sonar Grunt.js Unix Docker 
   - Databases: MySQL SQLite NoSQL MongoDB 
   - SCM: Git Github SVN TFS 
 
@@ -36,50 +36,50 @@ Junior Programmer at System Integration developing a social network.
 A website I made as a portfolio for a Japanese company I was going to work for before the tsunami in 2011.
 An arcade machine
 
-### *Contributor*, [DTH Hybrid - Movistar TV](http://www.movistar.com) (2015-01 — Present)
+### *Developer*, [Movistar TV - DTH Hybrid](http://www.movistar.com) (2015-01 — Present)
 
 A set-top box (STB) with satellital and internet connection for TVApps and VOD
-Development of the UI using SVG and JavaScript to communicate with the middleware. Also I've installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically with new translations from the OBs.
+Development of the UI of a set-top box (STB) with satellital and internet connection for TVApps and VOD, using SVG and JavaScript to communicate with the middleware. Also I've installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.
 
-### *Contributor*, [Movistar TV GO](http://go.movistar.com) (2015-02 — 2015-03)
+### *Developer*, [Movistar TV - GO](http://www.movistar.com) (2015-02 — 2015-03)
 
 Movistar TV web application, which allows to watch Live TV and VOD content, and handle your subscriptions, view the EPG and more.
-Joined the team for one month to speed development of new features.
+Movistar TV web application, which allows to watch Live TV and VOD content, and handle your subscriptions, view the EPG and more. Joined the team for one month to speed development of new features.
 
-### *Contributor*, [Chromecast Receiver for Movistar TV GO](http://www.movistar.com) (2015-01 — Present)
+### *Main developer*, [Movistar TV - Chromecast Receiver](http://www.movistar.com) (2015-01 — Present)
 
 Chromecast Receiver for the mobile applications of Movistar TV, which handles to play Live TV and VOD on Chromecast.
-Developed the Chromecast Receiver for Movistar TV in Angular JS. Also installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically with new translations from the OBs.
+Chromecast Receiver for the mobile applications of Movistar TV, which handles to play Live TV and VOD on Chromecast. Developed in Angular JS. Also installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.
 
-### *Contributor*, [CSB - Cloud Service Broker](http://www.o2.co.uk/business/products-and-services/business-apps/mcafee-multi-access) (2014-01 — 2014-11)
+### *Main developer*, [CSB - Cloud Service Broker](http://www.o2.co.uk/business/products-and-services/business-apps/mcafee-multi-access) (2014-01 — 2014-11)
 
 CSB is a panel to manage users, assign resources or services, handle your account as a user... It uses Parallels (POA and PBA).
-Development of an APS 1.2 to integrate McAfee Multi Access in CSB, front-end (in Dojo Toolkit) and back-end (in Node.js), for O2 (UK and GER) and VIVO (Brazil). Also made all the ci environment.
+CSB is a panel to manage users, assign resources or services, handle your account as a user... It uses Parallels (POA and PBA). Development of an APS 1.2 to integrate McAfee Multi Access in CSB, front-end (in Dojo Toolkit) and back-end (in Node.js), for O2 (UK and GER) and VIVO (Brazil). Also made all the ci environment.
 
-### *Contributor*, [DTH Hybrid - Movistar TV](http://www.movistar.com) (2012-12 — 2013-12)
+### *Developer*, [Movistar TV - DTH Hybrid](http://www.movistar.com) (2012-12 — 2013-12)
 
 A set-top box (STB) with satellital and internet connection for TVApps and VOD
-Development of the UI using SVG and JavaScript to communicate with the middleware. Also I've installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically with new translations from the OBs.
+Development of the UI of a set-top box (STB) with satellital and internet connection for TVApps and VOD, using SVG and JavaScript to communicate with the middleware. Also I've installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.
 
-### *Contributor*, [Telepizza - Mobile app development](http://www.telepizza.es) (2012-09 — 2012-12)
+### *Developer*, [Telepizza - Mobile app development](http://www.telepizza.es) (2012-09 — 2012-12)
 
 Web application which ended being wrapped in phonegap to be the mobile application for Telepizza.
 Development of the Smartphone/Tablet application, with our own javascript framework to load all sections dynamically in a single page application.
 
-### *Contributor*, [BBVA - Google App Engine (GAE) Team](http://tecnologia.elpais.com/tecnologia/2012/01/11/actualidad/1326276065_850215.html) (2012-06 — 2012-09)
+### *Developer*, [BBVA - Google App Engine (GAE) Team](http://tecnologia.elpais.com/tecnologia/2012/01/11/actualidad/1326276065_850215.html) (2012-06 — 2012-09)
 
 Use of Google Apps inside the company to handle users, data, documents...
 Development of services and apps for BBVA using Google App Engine (GAE). After the development of several REST services, I created some documentation webs for internal projects using Google Sites and developing gadgets in Google Apps Script.
 
-### *Contributor*, [Android app for HEEL](http://www.heel.es) (2012-02 — 2012-02)
+### *Main developer*, [HEEL - Android application](http://www.heel.es) (2012-02 — 2012-02)
 
 A Tablet application in Android for a pharmaceutical laboratory.
-Development of a tablet app (Android) for a pharmaceutical laboratory. This app is used to let pharmacists to fill and sign contracts of sale and purchase, with a pharmacy database. It captures the form as a digital image and stores the filled form in CVS format to post-process it.
+Development of a tablet application (Android) for a pharmaceutical laboratory. This app is used to let pharmacists to fill and sign contracts of sale and purchase, with a pharmacy database. It captures the form as a digital image and stores the filled form in CVS format to post-process it.
 
-### *Contributor*, [Development of a Social Network](http://www.tuyyou.com) (2011-06 — 2012-06)
+### *Developer*, [TUYYOU - Development of a Social Network](http://www.tuyyou.com) (2011-06 — 2012-06)
 
 Social network which pretends to join a buying platform with a professional network, offering the possibility to earn money from your referrals.
-Social network development using ELGG and modifying it's core. It was running for two or three years, being announced in several media around the country.
+Social network development using ELGG and modifying it's core. It was running for several years, being announced in several media around the country.
 
 
 

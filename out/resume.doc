@@ -530,7 +530,7 @@
         <w:pPr>
           <w:pStyle w:val="Summary"/>
         </w:pPr>
-        <w:r><w:rPr><w:b/></w:rPr><w:t>FullStack JavaScript developer with 5+ years industry experience, since age of 6 with computers and since age of 12 dealing with code</w:t></w:r><w:r><w:rPr></w:rPr><w:t>, with strong skills in code quality, performance and continuous integration. I have the capacity to learn new languages and adaptability to new environments in no time thanks to my overall knowledge of languages and operative systems.</w:t></w:r>
+        <w:r><w:rPr><w:b/></w:rPr><w:t>FullStack JavaScript developer with 5+ years industry experience, since age of 6 with computers and since age of 12 dealing with code</w:t></w:r><w:r><w:rPr></w:rPr><w:t>, with strong skills in code quality, performance and continuous integration. Capacity to learn new languages and adaptability to new environments in no time thanks to his overall knowledge of languages and operative systems.</w:t></w:r>
       </w:p>
       <wx:sub-section>
   <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -567,7 +567,7 @@
               <w:caps/>
               <w:color w:val="989898"/>
             </w:rPr>
-            <w:t>Web Development</w:t>
+            <w:t>Web</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -582,7 +582,7 @@
               <w:caps/>
               <w:spacing w:val="22"/>
             </w:rPr>
-            <w:t>HTML5  CSS3  JavaScript  REST  AJAX  Node.js</w:t>
+            <w:t>HTML5  CSS3  JavaScript  REST  AJAX</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -641,7 +641,7 @@
               <w:caps/>
               <w:color w:val="989898"/>
             </w:rPr>
-            <w:t>Continuous Integration</w:t>
+            <w:t>CI</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -656,7 +656,7 @@
               <w:caps/>
               <w:spacing w:val="22"/>
             </w:rPr>
-            <w:t>Jenkins  Sonar  Grunt.js  Unix</w:t>
+            <w:t>Jenkins  Sonar  Grunt.js  Unix  Docker</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -973,14 +973,14 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Contributor, </w:t>
+        <w:t>developer, </w:t>
       </w:r>
       <w:hlink w:dest="http://www.movistar.com">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
           <w:rPr>
             <w:rStyle w:val="Hyperlink"/>
           </w:rPr>
-          <w:t>DTH Hybrid - Movistar TV</w:t>
+          <w:t>Movistar TV - DTH Hybrid</w:t>
         </w:r>
       </w:hlink>
       <w:r wsp:rsidR="00EA0B64">
@@ -999,7 +999,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Development of the UI using SVG and JavaScript to communicate with the middleware. Also I&apos;ve installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically with new translations from the OBs.</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Development of the UI of a set-top box (STB) with satellital and internet connection for TVApps and VOD, using SVG and JavaScript to communicate with the middleware. Also I&apos;ve installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.</w:t></w:r>
     </w:p>
 
 
@@ -1015,14 +1015,14 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Contributor, </w:t>
+        <w:t>developer, </w:t>
       </w:r>
-      <w:hlink w:dest="http://go.movistar.com">
+      <w:hlink w:dest="http://www.movistar.com">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
           <w:rPr>
             <w:rStyle w:val="Hyperlink"/>
           </w:rPr>
-          <w:t>Movistar TV GO</w:t>
+          <w:t>Movistar TV - GO</w:t>
         </w:r>
       </w:hlink>
       <w:r wsp:rsidR="00EA0B64">
@@ -1041,7 +1041,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Joined the team for one month to speed development of new features.</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Movistar TV web application, which allows to watch Live TV and VOD content, and handle your subscriptions, view the EPG and more. Joined the team for one month to speed development of new features.</w:t></w:r>
     </w:p>
 
 
@@ -1057,14 +1057,14 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Contributor, </w:t>
+        <w:t>main developer, </w:t>
       </w:r>
       <w:hlink w:dest="http://www.movistar.com">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
           <w:rPr>
             <w:rStyle w:val="Hyperlink"/>
           </w:rPr>
-          <w:t>Chromecast Receiver for Movistar TV GO</w:t>
+          <w:t>Movistar TV - Chromecast Receiver</w:t>
         </w:r>
       </w:hlink>
       <w:r wsp:rsidR="00EA0B64">
@@ -1083,7 +1083,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Developed the Chromecast Receiver for Movistar TV in Angular JS. Also installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically with new translations from the OBs.</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Chromecast Receiver for the mobile applications of Movistar TV, which handles to play Live TV and VOD on Chromecast. Developed in Angular JS. Also installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.</w:t></w:r>
     </w:p>
 
 
@@ -1099,7 +1099,7 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Contributor, </w:t>
+        <w:t>main developer, </w:t>
       </w:r>
       <w:hlink w:dest="http://www.o2.co.uk/business/products-and-services/business-apps/mcafee-multi-access">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
@@ -1125,7 +1125,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Development of an APS 1.2 to integrate McAfee Multi Access in CSB, front-end (in Dojo Toolkit) and back-end (in Node.js), for O2 (UK and GER) and VIVO (Brazil). Also made all the ci environment.</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>CSB is a panel to manage users, assign resources or services, handle your account as a user... It uses Parallels (POA and PBA). Development of an APS 1.2 to integrate McAfee Multi Access in CSB, front-end (in Dojo Toolkit) and back-end (in Node.js), for O2 (UK and GER) and VIVO (Brazil). Also made all the ci environment.</w:t></w:r>
     </w:p>
 
 
@@ -1141,14 +1141,14 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Contributor, </w:t>
+        <w:t>developer, </w:t>
       </w:r>
       <w:hlink w:dest="http://www.movistar.com">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
           <w:rPr>
             <w:rStyle w:val="Hyperlink"/>
           </w:rPr>
-          <w:t>DTH Hybrid - Movistar TV</w:t>
+          <w:t>Movistar TV - DTH Hybrid</w:t>
         </w:r>
       </w:hlink>
       <w:r wsp:rsidR="00EA0B64">
@@ -1167,7 +1167,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Development of the UI using SVG and JavaScript to communicate with the middleware. Also I&apos;ve installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically with new translations from the OBs.</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Development of the UI of a set-top box (STB) with satellital and internet connection for TVApps and VOD, using SVG and JavaScript to communicate with the middleware. Also I&apos;ve installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.</w:t></w:r>
     </w:p>
 
 
@@ -1183,7 +1183,7 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Contributor, </w:t>
+        <w:t>developer, </w:t>
       </w:r>
       <w:hlink w:dest="http://www.telepizza.es">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
@@ -1225,7 +1225,7 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Contributor, </w:t>
+        <w:t>developer, </w:t>
       </w:r>
       <w:hlink w:dest="http://tecnologia.elpais.com/tecnologia/2012/01/11/actualidad/1326276065_850215.html">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
@@ -1267,14 +1267,14 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Contributor, </w:t>
+        <w:t>main developer, </w:t>
       </w:r>
       <w:hlink w:dest="http://www.heel.es">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
           <w:rPr>
             <w:rStyle w:val="Hyperlink"/>
           </w:rPr>
-          <w:t>Android app for HEEL</w:t>
+          <w:t>HEEL - Android application</w:t>
         </w:r>
       </w:hlink>
       <w:r wsp:rsidR="00EA0B64">
@@ -1293,7 +1293,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Development of a tablet app (Android) for a pharmaceutical laboratory. This app is used to let pharmacists to fill and sign contracts of sale and purchase, with a pharmacy database. It captures the form as a digital image and stores the filled form in CVS format to post-process it.</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Development of a tablet application (Android) for a pharmaceutical laboratory. This app is used to let pharmacists to fill and sign contracts of sale and purchase, with a pharmacy database. It captures the form as a digital image and stores the filled form in CVS format to post-process it.</w:t></w:r>
     </w:p>
 
 
@@ -1309,14 +1309,14 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Contributor, </w:t>
+        <w:t>developer, </w:t>
       </w:r>
       <w:hlink w:dest="http://www.tuyyou.com">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
           <w:rPr>
             <w:rStyle w:val="Hyperlink"/>
           </w:rPr>
-          <w:t>Development of a Social Network</w:t>
+          <w:t>TUYYOU - Development of a Social Network</w:t>
         </w:r>
       </w:hlink>
       <w:r wsp:rsidR="00EA0B64">
@@ -1335,7 +1335,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Social network development using ELGG and modifying it&apos;s core. It was running for two or three years, being announced in several media around the country.</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Social network development using ELGG and modifying it&apos;s core. It was running for several years, being announced in several media around the country.</w:t></w:r>
     </w:p>
 
 

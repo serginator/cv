@@ -5,7 +5,7 @@ meta:
 info:
   label: 'FullStack JavaScript Developer'
   characterClass: Programmer
-  brief: '**FullStack JavaScript developer with 5+ years industry experience, since age of 6 with computers and since age of 12 dealing with code**, with strong skills in code quality, performance and continuous integration. I have the capacity to learn new languages and adaptability to new environments in no time thanks to my overall knowledge of languages and operative systems.'
+  brief: '**FullStack JavaScript developer with 5+ years industry experience, since age of 6 with computers and since age of 12 dealing with code**, with strong skills in code quality, performance and continuous integration. Capacity to learn new languages and adaptability to new environments in no time thanks to his overall knowledge of languages and operative systems.'
 disposition:
   travel: 10
   remote: true
@@ -135,13 +135,13 @@ projects:
       - HTML5
       - CSS3
   -
-    title: 'DTH Hybrid - Movistar TV'
+    title: 'Movistar TV - DTH Hybrid'
     category: commercial
-    role: Contributor
+    role: developer
     url: 'http://www.movistar.com'
     start: 2015-01
     description: 'A set-top box (STB) with satellital and internet connection for TVApps and VOD'
-    summary: 'Development of the UI using SVG and JavaScript to communicate with the middleware. Also I''ve installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically with new translations from the OBs.'
+    summary: 'Development of the UI of a set-top box (STB) with satellital and internet connection for TVApps and VOD, using SVG and JavaScript to communicate with the middleware. Also I''ve installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.'
     keywords:
       - JavaScript
       - jQuery
@@ -151,6 +151,7 @@ projects:
       - Unix
       - Jenkins
       - Sonar
+      - Docker
       - Scrum
       - JIRA
       - SVN
@@ -161,14 +162,14 @@ projects:
       - drm
       - opentv
   -
-    title: 'Movistar TV GO'
+    title: 'Movistar TV - GO'
     category: commercial
-    role: Contributor
-    url: 'http://go.movistar.com'
+    role: developer
+    url: 'http://www.movistar.com'
     start: 2015-02
     end: 2015-03
     description: 'Movistar TV web application, which allows to watch Live TV and VOD content, and handle your subscriptions, view the EPG and more.'
-    summary: 'Joined the team for one month to speed development of new features.'
+    summary: 'Movistar TV web application, which allows to watch Live TV and VOD content, and handle your subscriptions, view the EPG and more. Joined the team for one month to speed development of new features.'
     keywords:
       - JavaScript
       - AngularJS
@@ -186,13 +187,13 @@ projects:
       - Jenkins
       - Grunt.js
   -
-    title: 'Chromecast Receiver for Movistar TV GO'
+    title: 'Movistar TV - Chromecast Receiver'
     category: commercial
-    role: Contributor
+    role: 'main developer'
     url: 'http://www.movistar.com'
-    description: 'Chromecast Receiver for the mobile applications of Movistar TV, which handles to play Live TV and VOD on Chromecast.'
     start: 2015-01
-    summary: 'Developed the Chromecast Receiver for Movistar TV in Angular JS. Also installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically with new translations from the OBs.'
+    description: 'Chromecast Receiver for the mobile applications of Movistar TV, which handles to play Live TV and VOD on Chromecast.'
+    summary: 'Chromecast Receiver for the mobile applications of Movistar TV, which handles to play Live TV and VOD on Chromecast. Developed in Angular JS. Also installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.'
     keywords:
       - JavaScript
       - AngularJS
@@ -204,18 +205,19 @@ projects:
       - Jenkins
       - Sonar
       - Grunt.js
+      - Docker
       - 'video streaming'
       - hd
       - drm
   -
     title: 'CSB - Cloud Service Broker'
     category: commercial
-    role: Contributor
+    role: 'main developer'
     url: 'http://www.o2.co.uk/business/products-and-services/business-apps/mcafee-multi-access'
     start: 2014-01
     end: 2014-11
     description: 'CSB is a panel to manage users, assign resources or services, handle your account as a user... It uses Parallels (POA and PBA).'
-    summary: 'Development of an APS 1.2 to integrate McAfee Multi Access in CSB, front-end (in Dojo Toolkit) and back-end (in Node.js), for O2 (UK and GER) and VIVO (Brazil). Also made all the ci environment.'
+    summary: 'CSB is a panel to manage users, assign resources or services, handle your account as a user... It uses Parallels (POA and PBA). Development of an APS 1.2 to integrate McAfee Multi Access in CSB, front-end (in Dojo Toolkit) and back-end (in Node.js), for O2 (UK and GER) and VIVO (Brazil). Also made all the ci environment.'
     keywords:
       - JavaScript
       - HTML
@@ -236,14 +238,14 @@ projects:
       - Jenkins
       - Grunt.js
   -
-    title: 'DTH Hybrid - Movistar TV'
+    title: 'Movistar TV - DTH Hybrid'
     category: commercial
-    role: Contributor
+    role: developer
     url: 'http://www.movistar.com'
     start: 2012-12
     end: 2013-12
     description: 'A set-top box (STB) with satellital and internet connection for TVApps and VOD'
-    summary: 'Development of the UI using SVG and JavaScript to communicate with the middleware. Also I''ve installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically with new translations from the OBs.'
+    summary: 'Development of the UI of a set-top box (STB) with satellital and internet connection for TVApps and VOD, using SVG and JavaScript to communicate with the middleware. Also I''ve installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.'
     keywords:
       - JavaScript
       - jQuery
@@ -265,7 +267,7 @@ projects:
   -
     title: 'Telepizza - Mobile app development'
     category: commercial
-    role: Contributor
+    role: developer
     url: 'http://www.telepizza.es'
     start: 2012-09
     end: 2012-12
@@ -284,7 +286,7 @@ projects:
   -
     title: 'BBVA - Google App Engine (GAE) Team'
     category: commercial
-    role: Contributor
+    role: developer
     url: 'http://tecnologia.elpais.com/tecnologia/2012/01/11/actualidad/1326276065_850215.html'
     start: 2012-06
     end: 2012-09
@@ -300,27 +302,27 @@ projects:
       - 'Google Apps Script'
       - 'PSD to HTML5/4 and CSS3/2'
   -
-    title: 'Android app for HEEL'
+    title: 'HEEL - Android application'
     category: commercial
-    role: Contributor
+    role: 'main developer'
     url: 'http://www.heel.es'
     start: 2012-02
     end: 2012-02
     description: 'A Tablet application in Android for a pharmaceutical laboratory.'
-    summary: 'Development of a tablet app (Android) for a pharmaceutical laboratory. This app is used to let pharmacists to fill and sign contracts of sale and purchase, with a pharmacy database. It captures the form as a digital image and stores the filled form in CVS format to post-process it.'
+    summary: 'Development of a tablet application (Android) for a pharmaceutical laboratory. This app is used to let pharmacists to fill and sign contracts of sale and purchase, with a pharmacy database. It captures the form as a digital image and stores the filled form in CVS format to post-process it.'
     keywords:
       - Java
       - 'Android SDK'
       - SQLite
   -
-    title: 'Development of a Social Network'
+    title: 'TUYYOU - Development of a Social Network'
     category: commercial
-    role: Contributor
+    role: developer
     url: 'http://www.tuyyou.com'
     start: 2011-06
     end: 2012-06
     description: 'Social network which pretends to join a buying platform with a professional network, offering the possibility to earn money from your referrals.'
-    summary: 'Social network development using ELGG and modifying it''s core. It was running for two or three years, being announced in several media around the country.'
+    summary: 'Social network development using ELGG and modifying it''s core. It was running for several years, being announced in several media around the country.'
     keywords:
       - PHP
       - ELGG
@@ -340,7 +342,7 @@ projects:
 skills:
   sets:
     -
-      name: 'Web Development'
+      name: Web
       level: Advanced
       skills:
         - HTML5
@@ -348,7 +350,6 @@ skills:
         - JavaScript
         - REST
         - AJAX
-        - Node.js
     -
       name: JavaScript
       level: Expert
@@ -359,13 +360,14 @@ skills:
         - Zepto.js
         - Underscore
     -
-      name: 'Continuous Integration'
+      name: CI
       level: Advanced
       skills:
         - Jenkins
         - Sonar
         - Grunt.js
         - Unix
+        - Docker
     -
       name: Databases
       level: Intermediate
@@ -425,6 +427,9 @@ skills:
     -
       name: Unix
       level: Expert
+    -
+      name: Docker
+      level: Intermediate
     -
       name: MySQL
       level: Intermediate

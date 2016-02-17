@@ -2,7 +2,7 @@
   "basics": {
     "name": "Sergio Ruiz",
     "label": "FullStack JavaScript Developer",
-    "summary": "**FullStack JavaScript developer with 5+ years industry experience, since age of 6 with computers and since age of 12 dealing with code**, with strong skills in code quality, performance and continuous integration. I have the capacity to learn new languages and adaptability to new environments in no time thanks to my overall knowledge of languages and operative systems.",
+    "summary": "**FullStack JavaScript developer with 5+ years industry experience, since age of 6 with computers and since age of 12 dealing with code**, with strong skills in code quality, performance and continuous integration. Capacity to learn new languages and adaptability to new environments in no time thanks to his overall knowledge of languages and operative systems.",
     "website": "http://www.serginator.com",
     "email": "serginator@gmail.com",
     "location": {
@@ -102,15 +102,14 @@
   ],
   "skills": [
     {
-      "name": "Web Development",
+      "name": "Web",
       "level": "Advanced",
       "keywords": [
         "HTML5",
         "CSS3",
         "JavaScript",
         "REST",
-        "AJAX",
-        "Node.js"
+        "AJAX"
       ]
     },
     {
@@ -125,13 +124,14 @@
       ]
     },
     {
-      "name": "Continuous Integration",
+      "name": "CI",
       "level": "Advanced",
       "keywords": [
         "Jenkins",
         "Sonar",
         "Grunt.js",
-        "Unix"
+        "Unix",
+        "Docker"
       ]
     },
     {
