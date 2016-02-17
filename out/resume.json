@@ -30,12 +30,11 @@
   },
   "work": [
     {
-      "company": "CIBER",
-      "website": "http://www.ciber.com/es",
-      "position": "Systems Integration Consultant - Junior Programmer",
-      "startDate": "2011-06-24",
-      "endDate": "2011-12-31",
-      "summary": "Junior Programmer at System Integration developing a social network."
+      "company": "AURIGAE",
+      "website": "http://www.aurigae.com/",
+      "position": "Analyst Programmer",
+      "startDate": "2011-12-10",
+      "summary": "Software Developer at Telefónica I+D"
     },
     {
       "company": "CIBER",
@@ -46,11 +45,12 @@
       "summary": "Programmer at System Integration, I've been developing a social network, Android apps, rest services at BBVA GAE project, sites with Google Sites for internal documentation at BBVA and Telepizza's mobile app."
     },
     {
-      "company": "AURIGAE",
-      "website": "http://www.aurigae.com/",
-      "position": "Analyst Programmer",
-      "startDate": "2011-12-10",
-      "summary": "Software Developer at Telefónica I+D"
+      "company": "CIBER",
+      "website": "http://www.ciber.com/es",
+      "position": "Systems Integration Consultant - Junior Programmer",
+      "startDate": "2011-06-24",
+      "endDate": "2011-12-31",
+      "summary": "Junior Programmer at System Integration developing a social network."
     }
   ],
   "education": [
@@ -110,7 +110,6 @@
         "JavaScript",
         "REST",
         "AJAX",
-        "Bootstrap",
         "Node.js"
       ]
     },

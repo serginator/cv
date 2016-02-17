@@ -8,7 +8,7 @@ Web: http://www.serginator.com
 
 ## SKILLS
 
-  - Web Development: HTML5 CSS3 JavaScript REST AJAX Bootstrap Node.js 
+  - Web Development: HTML5 CSS3 JavaScript REST AJAX Node.js 
   - JavaScript: jQuery AngularJS Node.js Zepto.js Underscore 
   - Continuous Integration: Jenkins Sonar Grunt.js Unix 
   - Databases: MySQL SQLite NoSQL MongoDB 
@@ -16,17 +16,17 @@ Web: http://www.serginator.com
 
 ## EMPLOYMENT
 
-### *Systems Integration Consultant - Junior Programmer*, [CIBER](http://www.ciber.com/es) (2011-06 — 2011-12)
+### *Analyst Programmer*, [AURIGAE](http://www.aurigae.com/) (2011-12 — Present)
 
-Junior Programmer at System Integration developing a social network.
+Software Developer at Telefónica I+D
 
 ### *Systems Integration Consultant - Programmer*, [CIBER](http://www.ciber.com/es) (2012-01 — 2012-12)
 
 Programmer at System Integration, I've been developing a social network, Android apps, rest services at BBVA GAE project, sites with Google Sites for internal documentation at BBVA and Telepizza's mobile app.
 
-### *Analyst Programmer*, [AURIGAE](http://www.aurigae.com/) (2011-12 — Present)
+### *Systems Integration Consultant - Junior Programmer*, [CIBER](http://www.ciber.com/es) (2011-06 — 2011-12)
 
-Software Developer at Telefónica I+D
+Junior Programmer at System Integration developing a social network.
 
 
 ## PROJECTS
@@ -51,15 +51,15 @@ Joined the team for one month to speed development of new features.
 Chromecast Receiver for the mobile applications of Movistar TV, which handles to play Live TV and VOD on Chromecast.
 Developed the Chromecast Receiver for Movistar TV in Angular JS. Also installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically with new translations from the OBs.
 
-### *Contributor*, [DTH Hybrid - Movistar TV](http://www.movistar.com) (2012-12 — 2013-12)
-
-A set-top box (STB) with satellital and internet connection for TVApps and VOD
-Development of the UI using SVG and JavaScript to communicate with the middleware. Also I've installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically with new translations from the OBs.
-
 ### *Contributor*, [CSB - Cloud Service Broker](http://www.o2.co.uk/business/products-and-services/business-apps/mcafee-multi-access) (2014-01 — 2014-11)
 
 CSB is a panel to manage users, assign resources or services, handle your account as a user... It uses Parallels (POA and PBA).
 Development of an APS 1.2 to integrate McAfee Multi Access in CSB, front-end (in Dojo Toolkit) and back-end (in Node.js), for O2 (UK and GER) and VIVO (Brazil). Also made all the ci environment.
+
+### *Contributor*, [DTH Hybrid - Movistar TV](http://www.movistar.com) (2012-12 — 2013-12)
+
+A set-top box (STB) with satellital and internet connection for TVApps and VOD
+Development of the UI using SVG and JavaScript to communicate with the middleware. Also I've installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically with new translations from the OBs.
 
 ### *Contributor*, [Telepizza - Mobile app development](http://www.telepizza.es) (2012-09 — 2012-12)
 
@@ -113,10 +113,6 @@ Angular JS course
 
 ## AFFILIATION
 
-### *Member*, [Grupo de Estudio de JavaScript](http://gejs.jottit.com/) (2011-08 — 2011-09)
-
-Study group formed by several members of the JavaScript community in Madrid to learn and debate about JavaScript ecosystem.
-
 ### *Co-Organizer and member*, [MadridJS Meetup](http://www.meetup.com/es/madridjs/) (2011-08 — Present)
 
 Co-Organizer of MadridJS, helping with talks and organization but with the lack of time, just member since 2015
@@ -124,6 +120,10 @@ Co-Organizer of MadridJS, helping with talks and organization but with the lack 
 ### *Member*, [HTML5 Spain Meetup](http://www.meetup.com/es/HTML5-Spain/) (2012-02 — Present)
 
 Member of HTML5 Spain
+
+### *Member*, [JavaScript study group](http://gejs.jottit.com/) (2011-08 — 2011-09)
+
+Study group formed by several members of the JavaScript community in Madrid to learn and debate about JavaScript ecosystem.
 
 
 

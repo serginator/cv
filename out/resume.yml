@@ -44,50 +44,6 @@ employment:
   summary: '5+ years industry IT and software development experience.'
   history:
     -
-      employer: CIBER
-      url: 'http://www.ciber.com/es'
-      position: 'Systems Integration Consultant - Junior Programmer'
-      summary: 'Junior Programmer at System Integration developing a social network.'
-      start: '2011-06-24'
-      end: '2011-12-31'
-      keywords:
-        - HTML
-        - CSS
-        - JavaScript
-        - AJAX
-        - PHP
-        - ELGG
-        - MySQL
-        - Unix
-    -
-      employer: CIBER
-      url: 'http://www.ciber.com/es'
-      position: 'Systems Integration Consultant - Programmer'
-      summary: 'Programmer at System Integration, I''ve been developing a social network, Android apps, rest services at BBVA GAE project, sites with Google Sites for internal documentation at BBVA and Telepizza''s mobile app.'
-      start: '2012-01-01'
-      end: '2012-12-09'
-      keywords:
-        - HTML
-        - HTML5
-        - CSS
-        - CSS3
-        - JavaScript
-        - PHP
-        - ELGG
-        - Android
-        - GAE
-        - Java
-        - 'Google Sites'
-        - 'C#'
-        - 'ASP.NET MVC 4'
-        - Zepto.js
-        - jQuery
-        - AJAX
-        - JSON
-        - REST
-        - Apache
-        - nginx
-    -
       employer: AURIGAE
       url: 'http://www.aurigae.com/'
       position: 'Analyst Programmer'
@@ -121,6 +77,50 @@ employment:
         - POA
         - PBA
         - 'Clean Code'
+    -
+      employer: CIBER
+      url: 'http://www.ciber.com/es'
+      position: 'Systems Integration Consultant - Programmer'
+      summary: 'Programmer at System Integration, I''ve been developing a social network, Android apps, rest services at BBVA GAE project, sites with Google Sites for internal documentation at BBVA and Telepizza''s mobile app.'
+      start: '2012-01-01'
+      end: '2012-12-09'
+      keywords:
+        - HTML
+        - HTML5
+        - CSS
+        - CSS3
+        - JavaScript
+        - PHP
+        - ELGG
+        - Android
+        - GAE
+        - Java
+        - 'Google Sites'
+        - 'C#'
+        - 'ASP.NET MVC 4'
+        - Zepto.js
+        - jQuery
+        - AJAX
+        - JSON
+        - REST
+        - Apache
+        - nginx
+    -
+      employer: CIBER
+      url: 'http://www.ciber.com/es'
+      position: 'Systems Integration Consultant - Junior Programmer'
+      summary: 'Junior Programmer at System Integration developing a social network.'
+      start: '2011-06-24'
+      end: '2011-12-31'
+      keywords:
+        - HTML
+        - CSS
+        - JavaScript
+        - AJAX
+        - PHP
+        - ELGG
+        - MySQL
+        - Unix
 projects:
   -
     title: 'JS Test Lab'
@@ -208,33 +208,6 @@ projects:
       - hd
       - drm
   -
-    title: 'DTH Hybrid - Movistar TV'
-    category: commercial
-    role: Contributor
-    url: 'http://www.movistar.com'
-    start: 2012-12
-    end: 2013-12
-    description: 'A set-top box (STB) with satellital and internet connection for TVApps and VOD'
-    summary: 'Development of the UI using SVG and JavaScript to communicate with the middleware. Also I''ve installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically with new translations from the OBs.'
-    keywords:
-      - JavaScript
-      - jQuery
-      - jasmine
-      - AJAX
-      - SVG
-      - Unix
-      - Jenkins
-      - Sonar
-      - Scrum
-      - JIRA
-      - SVN
-      - Git
-      - Github
-      - 'video straming'
-      - hd
-      - drm
-      - opentv
-  -
     title: 'CSB - Cloud Service Broker'
     category: commercial
     role: Contributor
@@ -262,6 +235,33 @@ projects:
       - Unix
       - Jenkins
       - Grunt.js
+  -
+    title: 'DTH Hybrid - Movistar TV'
+    category: commercial
+    role: Contributor
+    url: 'http://www.movistar.com'
+    start: 2012-12
+    end: 2013-12
+    description: 'A set-top box (STB) with satellital and internet connection for TVApps and VOD'
+    summary: 'Development of the UI using SVG and JavaScript to communicate with the middleware. Also I''ve installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically with new translations from the OBs.'
+    keywords:
+      - JavaScript
+      - jQuery
+      - jasmine
+      - AJAX
+      - SVG
+      - Unix
+      - Jenkins
+      - Sonar
+      - Scrum
+      - JIRA
+      - SVN
+      - Git
+      - Github
+      - 'video straming'
+      - hd
+      - drm
+      - opentv
   -
     title: 'Telepizza - Mobile app development'
     category: commercial
@@ -348,7 +348,6 @@ skills:
         - JavaScript
         - REST
         - AJAX
-        - Bootstrap
         - Node.js
     -
       name: JavaScript
@@ -399,9 +398,6 @@ skills:
     -
       name: AJAX
       level: Advanced
-    -
-      name: Bootstrap
-      level: Intermediate
     -
       name: jQuery
       level: Intermediate
@@ -550,13 +546,6 @@ affiliation:
   summary: 'Member of several professional groups and organizations.'
   history:
     -
-      role: Member
-      organization: 'Grupo de Estudio de JavaScript'
-      url: 'http://gejs.jottit.com/'
-      start: 2011-08
-      end: 2011-09
-      summary: 'Study group formed by several members of the JavaScript community in Madrid to learn and debate about JavaScript ecosystem.'
-    -
       role: 'Co-Organizer and member'
       organization: 'MadridJS Meetup'
       url: 'http://www.meetup.com/es/madridjs/'
@@ -568,6 +557,13 @@ affiliation:
       url: 'http://www.meetup.com/es/HTML5-Spain/'
       start: 2012-02
       summary: 'Member of HTML5 Spain'
+    -
+      role: Member
+      organization: 'JavaScript study group'
+      url: 'http://gejs.jottit.com/'
+      start: 2011-08
+      end: 2011-09
+      summary: 'Study group formed by several members of the JavaScript community in Madrid to learn and debate about JavaScript ecosystem.'
 extracurricular:
   -
     title: 'Codemotion ES'
