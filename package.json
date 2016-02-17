@@ -4,9 +4,10 @@
   "description": "My CV following FRESH standard",
   "main": "index.js",
   "scripts": {
-    "start": "node node_modules/hackmyresume/dist/cli/index.js BUILD generic.json TO out/resume.all -t positive",
-    "test": "node node_modules/hackmyresume/dist/cli/index.js VALIDATE generic.json",
-    "analyze": "node node_modules/hackmyresume/dist/cli/index.js ANALYZE generic.json"
+    "start": "hackmyresume BUILD generic.json TO out/resume.all -t positive && mkdir -p dist && cp out/resume.html dist/index.html",
+    "test": "hackmyresume VALIDATE generic.json",
+    "analyze": "hackmyresume ANALYZE generic.json",
+    "deploy": "gh-pages -d dist -m 'Pushed gh-pages'"
   },
   "repository": {
     "type": "git",
@@ -25,8 +26,9 @@
   "bugs": {
     "url": "https://github.com/serginator/cv/issues"
   },
-  "homepage": "https://github.com/serginator/cv#readme",
+  "homepage": "https://serginator.github.io/cv",
   "devDependencies": {
+    "gh-pages": "^0.10.0",
     "hackmyresume": "^1.8.0",
     "phantomjs": "^2.1.3"
   }

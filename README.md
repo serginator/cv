@@ -30,3 +30,6 @@ To be able to create pdf you have to install [wkhtmltopdf](http://wkhtmltopdf.or
 ## analyze to retrieve stats
 `npm run analyze`
 
+## deploy to gh-pages
+`npm run deploy`
+
