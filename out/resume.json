@@ -1,0 +1,209 @@
+{
+  "basics": {
+    "name": "Sergio Ruiz",
+    "label": "FullStack JavaScript Developer",
+    "summary": "**FullStack JavaScript developer with 5+ years industry experience, since age of 6 with computers and since age of 12 dealing with code**, with strong skills in code quality, performance and continuous integration. I have the capacity to learn new languages and adaptability to new environments in no time thanks to my overall knowledge of languages and operative systems.",
+    "website": "http://www.serginator.com",
+    "email": "serginator@gmail.com",
+    "location": {
+      "postalCode": "28009",
+      "city": "Madrid",
+      "countryCode": "ES"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "serginator",
+        "url": "https://github.com/serginator"
+      },
+      {
+        "network": "Twitter",
+        "username": "serginator",
+        "url": "https://twitter.com/serginator"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "serginator",
+        "url": "https://www.linkedin.com/in/serginator"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "CIBER",
+      "website": "http://www.ciber.com/es",
+      "position": "Systems Integration Consultant - Junior Programmer",
+      "startDate": "2011-06-24",
+      "endDate": "2011-12-31",
+      "summary": "Junior Programmer at System Integration developing a social network."
+    },
+    {
+      "company": "CIBER",
+      "website": "http://www.ciber.com/es",
+      "position": "Systems Integration Consultant - Programmer",
+      "startDate": "2012-01-01",
+      "endDate": "2012-12-09",
+      "summary": "Programmer at System Integration, I've been developing a social network, Android apps, rest services at BBVA GAE project, sites with Google Sites for internal documentation at BBVA and Telepizza's mobile app."
+    },
+    {
+      "company": "AURIGAE",
+      "website": "http://www.aurigae.com/",
+      "position": "Analyst Programmer",
+      "startDate": "2011-12-10",
+      "summary": "Software Developer at Telefónica I+D"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Complutense de Madrid - UCM",
+      "startDate": "2005-10",
+      "endDate": "2010-12"
+    },
+    {
+      "institution": "Universidad Nacional de Educación a Distancia - UNED",
+      "gpa": "10",
+      "courses": [
+        "Android",
+        "UX",
+        "Programming",
+        "Design"
+      ],
+      "startDate": "2011",
+      "endDate": "2012"
+    },
+    {
+      "institution": "Universidad Complutense de Madrid - UCM",
+      "startDate": "2010",
+      "endDate": "2010"
+    },
+    {
+      "institution": "Rice University",
+      "gpa": "99.2%",
+      "courses": [
+        "game development",
+        "python"
+      ],
+      "startDate": "2013",
+      "endDate": "2013"
+    },
+    {
+      "institution": "Imagina Formación",
+      "gpa": "100%",
+      "courses": [
+        "angularjs",
+        "javascript",
+        "html5",
+        "css3",
+        "animations"
+      ],
+      "startDate": "2015-12",
+      "endDate": "2016-02"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Advanced",
+      "keywords": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "REST",
+        "AJAX",
+        "Bootstrap",
+        "Node.js"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Expert",
+      "keywords": [
+        "jQuery",
+        "AngularJS",
+        "Node.js",
+        "Zepto.js",
+        "Underscore"
+      ]
+    },
+    {
+      "name": "Continuous Integration",
+      "level": "Advanced",
+      "keywords": [
+        "Jenkins",
+        "Sonar",
+        "Grunt.js",
+        "Unix"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Intermediate",
+      "keywords": [
+        "MySQL",
+        "SQLite",
+        "NoSQL",
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "SCM",
+      "level": "Advanced",
+      "keywords": [
+        "Git",
+        "Github",
+        "SVN",
+        "TFS"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "travelling",
+      "summary": "Culture and landscapes everywhere!"
+    },
+    {
+      "name": "reading",
+      "summary": "I love to read, books, comics or manga. Action, Sci-Fi, Fantastic, Horror..."
+    },
+    {
+      "name": "watching movies and tv shows",
+      "summary": "I like movies and tv shows. Action, Sci-Fi, Fantastic, Horror..."
+    },
+    {
+      "name": "video games",
+      "summary": "I love to play video games, PC, consoles, handhelds... And make them!"
+    },
+    {
+      "name": "music lover",
+      "summary": "I think life without music has no meaning, so I try to listen music every time I can. Rock, blues, jazz, hard rock, heavy metal, classical music..."
+    },
+    {
+      "name": "guitar playing",
+      "summary": "I've played guitar since 2003 during 8 years, currently on hold due to lack of time."
+    },
+    {
+      "name": "magic tricks",
+      "summary": "Studied and practice card tricks for several years, currently on hold due to lack of time."
+    },
+    {
+      "name": "Japanese",
+      "summary": "Studied Japanese for two years (2009, 2010), levels A1.1 and A1.2 at CSIM."
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "level": "10"
+    },
+    {
+      "language": "English",
+      "level": "8",
+      "years": 20
+    },
+    {
+      "language": "Japanese",
+      "level": "2",
+      "years": 2
+    }
+  ]
+}
