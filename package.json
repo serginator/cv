@@ -4,10 +4,10 @@
   "description": "My CV following FRESH standard",
   "main": "index.js",
   "scripts": {
-    "start": "hackmyresume BUILD generic.json TO out/resume.all -t positive && mkdir -p dist && cp out/resume.html dist/index.html",
-    "to-jrs": "hackmyresume CONVERT generic.json out/resume-jrs.json",
-    "test": "hackmyresume VALIDATE generic.json",
-    "analyze": "hackmyresume ANALYZE generic.json",
+    "start": "hackmyresume BUILD resume.json TO out/resume.all -t positive && mkdir -p dist && cp out/resume.html dist/index.html",
+    "to-jrs": "hackmyresume CONVERT resume.json out/resume-jrs.json",
+    "test": "hackmyresume VALIDATE resume.json",
+    "analyze": "hackmyresume ANALYZE resume.json",
     "deploy": "gh-pages -d dist -m 'Pushed gh-pages'"
   },
   "repository": {
