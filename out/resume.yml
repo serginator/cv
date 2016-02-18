@@ -588,31 +588,31 @@ affiliation:
       summary: 'Study group formed by several members of the JavaScript community in Madrid to learn and debate about JavaScript ecosystem.'
 extracurricular:
   -
-    title: 'Codemotion ES'
+    title: 'Codemotion ES 2012'
     activity: 'Event plenty of conferences about development. More info [here](http://lanyrd.com/2012/codemotion-espana/)'
     location: Madrid
     start: '2012-03-24'
     end: '2012-03-24'
   -
-    title: SpainJS
+    title: 'SpainJS 2012'
     activity: 'Event plenty of conferences about JavaScript. More info [here](http://lanyrd.com/2012/spainjs/)'
     location: Madrid
     start: '2012-07-05'
     end: '2012-07-07'
   -
-    title: SpainJS
+    title: 'SpainJS 2013'
     activity: 'Event plenty of conferences about JavaScript. More info [here](http://lanyrd.com/2013/spainjs/)'
     location: Madrid
     start: '2013-07-04'
     end: '2013-07-06'
   -
-    title: 'SmashingConf Barcelona'
+    title: 'SmashingConf Barcelona 2015'
     activity: 'Event plenty of conferences about JavaScript, CSS and Design. More info [here](http://lanyrd.com/2015/smashingconf-barcelona/) and [here](http://smashingconf.com/barcelona-2015/).'
     location: Barcelona
     start: '2015-10-20'
     end: '2015-10-21'
   -
-    title: 'XP Week'
+    title: 'XP Week 2013'
     activity: 'Workshops about XP, TDD, Clean Code, CI, Grunt... I made some [slides](http://www.serginator.com/xpweek/) to talk what I''ve learnt to my colleages at Telefonica I+D.'
     location: Madrid
     start: '2013-04-24'
