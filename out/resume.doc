@@ -793,7 +793,7 @@
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>Dec 2011 — Present</w:t>
+        <w:t>Dec 2012 — Present</w:t>
       </w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -802,7 +802,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Software Developer at Telefónica I+D</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Software Developer at Telefónica I+D. I&apos;ve worked mainly focused in full-stack javascript, continuous integration and evangelist of best practices, most of the time at video area.</w:t></w:r>
     </w:p>
 
 
