@@ -14,6 +14,7 @@ Output files created using [HackMyResume](http://please.hackmyresume.com/)
 - [PNG](out/resume.png)
 - [JSON](out/resume.json)
 - [YML](out/resume.yml)
+- [JSON Resume](out/resume-jrs.json)
 
 # DEV
 
@@ -23,6 +24,9 @@ Output files created using [HackMyResume](http://please.hackmyresume.com/)
 ## generate all formats
 `npm start`
 To be able to create pdf you have to install [wkhtmltopdf](http://wkhtmltopdf.org/)
+
+## convert to JSON Resume
+`npm run to-jrs`
 
 ## check format
 `npm test`

@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "hackmyresume BUILD generic.json TO out/resume.all -t positive && mkdir -p dist && cp out/resume.html dist/index.html",
+    "to-jrs": "hackmyresume CONVERT generic.json out/resume-jrs.json",
     "test": "hackmyresume VALIDATE generic.json",
     "analyze": "hackmyresume ANALYZE generic.json",
     "deploy": "gh-pages -d dist -m 'Pushed gh-pages'"
