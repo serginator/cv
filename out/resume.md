@@ -56,6 +56,11 @@ Chromecast Receiver for the mobile applications of Movistar TV, which handles to
 CSB is a panel to manage users, assign resources or services, handle your account as a user... It uses Parallels (POA and PBA).
 CSB is a panel to manage users, assign resources or services, handle your account as a user... It uses Parallels (POA and PBA). Development of an APS 1.2 to integrate McAfee Multi Access in CSB, front-end (in Dojo Toolkit) and back-end (in Node.js), for O2 (UK and GER) and VIVO (Brazil). Also made all the ci environment.
 
+### *Developer*, FeedApp (2013-07 — 2014-02)
+
+Web application connected to internal LDAP server which allows to send feedback to people personally or anonymously about projects, behaviour...
+Web application made with the magic of Meteor.js and Lungo.js, connected to our internal LDAP server to handle logins. After finishing it, we ported all the Lungo.js part to Firefox building blocks as some of the members of the team were members of Firefox OS and wanted to use it in their devices. This app allows to send feedback to people personally or anonymously about projects, behaviour...
+
 ### *Developer*, [Movistar TV - DTH Hybrid](http://www.movistar.com) (2012-12 — 2013-12)
 
 A set-top box (STB) with satellital and internet connection for TVApps and VOD

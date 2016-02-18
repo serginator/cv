@@ -238,6 +238,23 @@ projects:
       - Jenkins
       - Grunt.js
   -
+    title: FeedApp
+    category: commercial
+    role: developer
+    start: 2013-07
+    end: 2014-02
+    description: 'Web application connected to internal LDAP server which allows to send feedback to people personally or anonymously about projects, behaviour...'
+    summary: 'Web application made with the magic of Meteor.js and Lungo.js, connected to our internal LDAP server to handle logins. After finishing it, we ported all the Lungo.js part to Firefox building blocks as some of the members of the team were members of Firefox OS and wanted to use it in their devices. This app allows to send feedback to people personally or anonymously about projects, behaviour...'
+    keywords:
+      - HTML5
+      - CSS3
+      - JavaScript
+      - Lungo.js
+      - Meteor.js
+      - Git
+      - Github
+      - LDAP
+  -
     title: 'Movistar TV - DTH Hybrid'
     category: commercial
     role: developer
