@@ -4,7 +4,7 @@ Email: serginator@gmail.com
 Web: http://www.serginator.com
 ================================================================================
 
-**FullStack JavaScript developer with 5+ years industry experience, since age of 6 with computers and since age of 12 dealing with code**, with strong skills in code quality, performance and continuous integration. Capacity to learn new languages and adaptability to new environments in no time thanks to his overall knowledge of languages and operative systems.
+**FullStack JavaScript developer with 5+ years industry experience, since the age of 6 with computers and since the age of 12 dealing with code**, with strong skills in code quality, performance and continuous integration. Capacity to learn new languages and adaptability to new environments in no time thanks to his overall knowledge of languages and operative systems.
 
 SKILLS -------------------------------------------------------------------------
 
@@ -76,8 +76,11 @@ Social network development using ELGG and modifying it's core. It was running fo
 
 EDUCATION ----------------------------------------------------------------------
 
-Universidad Complutense de Madrid - UCM (2005-10 — 2010-12)
-Studied Engineering in Computer Science until 3rd grade, passed all programming labs.
+Imagina Formación (2015-12 — 2016-02)
+Angular JS course
+
+Rice University (2013-01 — 2013-01)
+A course by Rice University at Coursera, Graded with distinction: https://www.coursera.org/records/XKhb4VhWeYRPvHnc
 
 Universidad Nacional de Educación a Distancia - UNED (2011-01 — 2012-01)
 Android development
@@ -85,11 +88,8 @@ Android development
 Universidad Complutense de Madrid - UCM (2010-01 — 2010-01)
 Course certified by UCM about HTML4, CSS2 and Dreamweaver.
 
-Rice University (2013-01 — 2013-01)
-A course by Rice University at Coursera, Graded with distinction: https://www.coursera.org/records/XKhb4VhWeYRPvHnc
-
-Imagina Formación (2015-12 — 2016-02)
-Angular JS course
+Universidad Complutense de Madrid - UCM (2005-10 — 2010-12)
+Studied Engineering in Computer Science until 3rd grade, passed all programming labs.
 
 
 AFFILIATION --------------------------------------------------------------------

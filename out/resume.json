@@ -2,7 +2,7 @@
   "basics": {
     "name": "Sergio Ruiz",
     "label": "FullStack JavaScript Developer",
-    "summary": "**FullStack JavaScript developer with 5+ years industry experience, since age of 6 with computers and since age of 12 dealing with code**, with strong skills in code quality, performance and continuous integration. Capacity to learn new languages and adaptability to new environments in no time thanks to his overall knowledge of languages and operative systems.",
+    "summary": "**FullStack JavaScript developer with 5+ years industry experience, since the age of 6 with computers and since the age of 12 dealing with code**, with strong skills in code quality, performance and continuous integration. Capacity to learn new languages and adaptability to new environments in no time thanks to his overall knowledge of languages and operative systems.",
     "website": "http://www.serginator.com",
     "email": "serginator@gmail.com",
     "location": {
@@ -55,9 +55,27 @@
   ],
   "education": [
     {
-      "institution": "Universidad Complutense de Madrid - UCM",
-      "startDate": "2005-10",
-      "endDate": "2010-12"
+      "institution": "Imagina Formación",
+      "gpa": "100%",
+      "courses": [
+        "angularjs",
+        "javascript",
+        "html5",
+        "css3",
+        "animations"
+      ],
+      "startDate": "2015-12",
+      "endDate": "2016-02"
+    },
+    {
+      "institution": "Rice University",
+      "gpa": "99.2%",
+      "courses": [
+        "game development",
+        "python"
+      ],
+      "startDate": "2013",
+      "endDate": "2013"
     },
     {
       "institution": "Universidad Nacional de Educación a Distancia - UNED",
@@ -77,27 +95,9 @@
       "endDate": "2010"
     },
     {
-      "institution": "Rice University",
-      "gpa": "99.2%",
-      "courses": [
-        "game development",
-        "python"
-      ],
-      "startDate": "2013",
-      "endDate": "2013"
-    },
-    {
-      "institution": "Imagina Formación",
-      "gpa": "100%",
-      "courses": [
-        "angularjs",
-        "javascript",
-        "html5",
-        "css3",
-        "animations"
-      ],
-      "startDate": "2015-12",
-      "endDate": "2016-02"
+      "institution": "Universidad Complutense de Madrid - UCM",
+      "startDate": "2005-10",
+      "endDate": "2010-12"
     }
   ],
   "skills": [

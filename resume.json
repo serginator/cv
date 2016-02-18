@@ -9,7 +9,7 @@
   "info": {
     "label": "FullStack JavaScript Developer",
     "characterClass": "Programmer",
-    "brief": "**FullStack JavaScript developer with 5+ years industry experience, since age of 6 with computers and since age of 12 dealing with code**, with strong skills in code quality, performance and continuous integration. Capacity to learn new languages and adaptability to new environments in no time thanks to his overall knowledge of languages and operative systems."
+    "brief": "**FullStack JavaScript developer with 5+ years industry experience, since the age of 6 with computers and since the age of 12 dealing with code**, with strong skills in code quality, performance and continuous integration. Capacity to learn new languages and adaptability to new environments in no time thanks to his overall knowledge of languages and operative systems."
   },
 
   "disposition": {
@@ -341,12 +341,24 @@
     "level": "some-college",
     "history": [
       {
-        "institution": "Universidad Complutense de Madrid - UCM",
-        "title": "Engineering in Computer Science",
-        "url": "https://www.ucm.es",
-        "start": "2005-10",
-        "end": "2010-12",
-        "summary": "Studied Engineering in Computer Science until 3rd grade, passed all programming labs."
+        "institution": "Imagina Formación",
+        "title": "Web development with Angular JS",
+        "url": "http://www.imaginaformacion.com",
+        "start": "2015-12",
+        "end": "2016-02",
+        "grade": "100%",
+        "summary": "Angular JS course",
+        "curriculum": ["angularjs", "javascript", "html5", "css3", "animations"]
+      },
+      {
+        "institution": "Rice University",
+        "title": "An Introduction to Interactive Programming in Python",
+        "url": "https://www.coursera.org",
+        "start": "2013",
+        "end": "2013",
+        "grade": "99.2%",
+        "summary": "A course by Rice University at Coursera, Graded with distinction: https://www.coursera.org/records/XKhb4VhWeYRPvHnc",
+        "curriculum": ["game development","python"]
       },
       {
         "institution": "Universidad Nacional de Educación a Distancia - UNED",
@@ -367,24 +379,12 @@
         "summary": "Course certified by UCM about HTML4, CSS2 and Dreamweaver."
       },
       {
-        "institution": "Rice University",
-        "title": "An Introduction to Interactive Programming in Python",
-        "url": "https://www.coursera.org",
-        "start": "2013",
-        "end": "2013",
-        "grade": "99.2%",
-        "summary": "A course by Rice University at Coursera, Graded with distinction: https://www.coursera.org/records/XKhb4VhWeYRPvHnc",
-        "curriculum": ["game development","python"]
-      },
-      {
-        "institution": "Imagina Formación",
-        "title": "Web development with Angular JS",
-        "url": "http://www.imaginaformacion.com",
-        "start": "2015-12",
-        "end": "2016-02",
-        "grade": "100%",
-        "summary": "Angular JS course",
-        "curriculum": ["angularjs", "javascript", "html5", "css3", "animations"]
+        "institution": "Universidad Complutense de Madrid - UCM",
+        "title": "Engineering in Computer Science",
+        "url": "https://www.ucm.es",
+        "start": "2005-10",
+        "end": "2010-12",
+        "summary": "Studied Engineering in Computer Science until 3rd grade, passed all programming labs."
       }
     ]
   },

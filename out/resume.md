@@ -4,7 +4,7 @@ Email: serginator@gmail.com
 
 Web: http://www.serginator.com
 
-**FullStack JavaScript developer with 5+ years industry experience, since age of 6 with computers and since age of 12 dealing with code**, with strong skills in code quality, performance and continuous integration. Capacity to learn new languages and adaptability to new environments in no time thanks to his overall knowledge of languages and operative systems.
+**FullStack JavaScript developer with 5+ years industry experience, since the age of 6 with computers and since the age of 12 dealing with code**, with strong skills in code quality, performance and continuous integration. Capacity to learn new languages and adaptability to new environments in no time thanks to his overall knowledge of languages and operative systems.
 
 ## SKILLS
 
@@ -90,9 +90,14 @@ Social network development using ELGG and modifying it's core. It was running fo
 
 ## EDUCATION
 
-### [Universidad Complutense de Madrid - UCM](https://www.ucm.es) (2005-10 — 2010-12)
+### [Imagina Formación](http://www.imaginaformacion.com) (2015-12 — 2016-02)
 
-Studied Engineering in Computer Science until 3rd grade, passed all programming labs.
+Angular JS course
+
+
+### [Rice University](https://www.coursera.org) (2013-01 — 2013-01)
+
+A course by Rice University at Coursera, Graded with distinction: https://www.coursera.org/records/XKhb4VhWeYRPvHnc
 
 
 ### [Universidad Nacional de Educación a Distancia - UNED](https://en.wikipedia.org/wiki/Medfield_College) (2011-01 — 2012-01)
@@ -105,14 +110,9 @@ Android development
 Course certified by UCM about HTML4, CSS2 and Dreamweaver.
 
 
-### [Rice University](https://www.coursera.org) (2013-01 — 2013-01)
+### [Universidad Complutense de Madrid - UCM](https://www.ucm.es) (2005-10 — 2010-12)
 
-A course by Rice University at Coursera, Graded with distinction: https://www.coursera.org/records/XKhb4VhWeYRPvHnc
-
-
-### [Imagina Formación](http://www.imaginaformacion.com) (2015-12 — 2016-02)
-
-Angular JS course
+Studied Engineering in Computer Science until 3rd grade, passed all programming labs.
 
 
 
