@@ -58,6 +58,21 @@
       "institution": "Imagina Formación",
       "gpa": "100%",
       "courses": [
+        "rwd",
+        "javascript",
+        "html5",
+        "css3",
+        "base",
+        "bootstrap",
+        "foundation"
+      ],
+      "startDate": "2016-02",
+      "endDate": "2016-04"
+    },
+    {
+      "institution": "Imagina Formación",
+      "gpa": "100%",
+      "courses": [
         "angularjs",
         "javascript",
         "html5",

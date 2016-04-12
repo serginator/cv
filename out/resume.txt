@@ -76,6 +76,9 @@ Social network development using ELGG and modifying it's core. It was running fo
 
 EDUCATION ----------------------------------------------------------------------
 
+Imagina Formación (2016-02 — 2016-04)
+Responsive Frameworks course
+
 Imagina Formación (2015-12 — 2016-02)
 Angular JS course
 
