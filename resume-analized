@@ -1,0 +1,60 @@
+
+> cv@1.0.0 analyze /Users/serginator/projects/mine/cv
+> hackmyresume ANALYZE resume.json
+
+
+*** HackMyResume v1.8.0 ***
+Reading FRESH resume: resume.json
+Analyzing FRESH resume: resume.json
+
+SECTIONS (10)
+
+        employment:      3
+          projects:     11
+         education:      6
+           service:      -
+            skills:      5
+           writing:      -
+          speaking:      2
+           reading:      -
+            social:      3
+        references:      -
+      testimonials:      -
+         languages:      3
+         interests:      8
+
+COVERAGE (99.9%)
+
+        Total Days:   1755
+          Employed:   1753
+              Gaps:      2  [1 1]
+          Overlaps:         []
+
+KEYWORDS (23)
+
+             HTML5:     13 mentions
+              CSS3:     11 mentions
+        JavaScript:     36 mentions
+              REST:      6 mentions
+              AJAX:     12 mentions
+            jQuery:      8 mentions
+         AngularJS:      6 mentions
+           Node.js:      4 mentions
+          Zepto.js:      4 mentions
+        Underscore:      2 mentions
+           Jenkins:     11 mentions
+             Sonar:      9 mentions
+          Grunt.js:      9 mentions
+              Unix:      8 mentions
+            Docker:      4 mentions
+             MySQL:      4 mentions
+            SQLite:      3 mentions
+             NoSQL:      2 mentions
+           MongoDB:      2 mentions
+               Git:      8 mentions
+            Github:     10 mentions
+               SVN:      6 mentions
+               TFS:      3 mentions
+    -------------------------------
+       23 KEYWORDS     181 mentions
+
