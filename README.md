@@ -1,6 +1,8 @@
 CV
 ==
 
+[![Build Status](https://travis-ci.org/serginator/cv.svg?branch=master)](https://travis-ci.org/serginator/cv)
+
 My CV following [FRESH](https://github.com/fresh-standard/FRESCA) standard.
 Output files created using [HackMyResume](http://please.hackmyresume.com/)
 
