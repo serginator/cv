@@ -29,8 +29,8 @@
   },
   "homepage": "https://serginator.github.io/cv",
   "devDependencies": {
-    "gh-pages": "^0.10.0",
+    "gh-pages": "^0.11.0",
     "hackmyresume": "^1.8.0",
-    "phantomjs": "^2.1.3"
+    "phantomjs": "^2.1.7"
   }
 }
