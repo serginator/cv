@@ -25,8 +25,8 @@ SECTIONS (10)
 
 COVERAGE (99.9%)
 
-        Total Days:   1767
-          Employed:   1765
+        Total Days:   1839
+          Employed:   1837
               Gaps:      2  [1 1]
           Overlaps:         []
 
@@ -34,7 +34,7 @@ KEYWORDS (23)
 
              HTML5:     13 mentions
               CSS3:     11 mentions
-        JavaScript:     36 mentions
+        JavaScript:     37 mentions
               REST:      6 mentions
               AJAX:     12 mentions
             jQuery:      8 mentions
@@ -56,5 +56,5 @@ KEYWORDS (23)
                SVN:      6 mentions
                TFS:      3 mentions
     -------------------------------
-       23 KEYWORDS     181 mentions
+       23 KEYWORDS     182 mentions
 
