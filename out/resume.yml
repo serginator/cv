@@ -659,6 +659,12 @@ extracurricular:
     location: Madrid
     start: '2015-05-19'
     end: '2015-05-20'
+  -
+    title: 'JSDayES 2016'
+    activity: 'Development conference about JavaScript'
+    location: Madrid
+    start: '2016-04-29'
+    end: '2016-04-30'
 interests:
   -
     name: travelling
