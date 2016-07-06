@@ -30,7 +30,7 @@
   "homepage": "https://serginator.github.io/cv",
   "devDependencies": {
     "gh-pages": "^0.11.0",
-    "hackmyresume": "^1.8.0",
+    "hackmyresume": "https://github.com/hacksalot/hackmyresume#dev",
     "phantomjs": "^2.1.7"
   }
 }
