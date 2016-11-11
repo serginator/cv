@@ -58,6 +58,24 @@
       "institution": "Imagina Formación",
       "gpa": "100%",
       "courses": [
+        "nodejs",
+        "javascript",
+        "html5",
+        "bootstrap",
+        "mongodb",
+        "express",
+        "tdd",
+        "optimization",
+        "heroku",
+        "deployment"
+      ],
+      "startDate": "2016-09",
+      "endDate": "2016-10"
+    },
+    {
+      "institution": "Imagina Formación",
+      "gpa": "100%",
+      "courses": [
         "rwd",
         "javascript",
         "html5",

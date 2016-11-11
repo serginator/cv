@@ -11,7 +11,7 @@ SECTIONS (10)
 
         employment:      3
           projects:     11
-         education:      6
+         education:      7
            service:      -
             skills:      5
            writing:      -
@@ -25,21 +25,21 @@ SECTIONS (10)
 
 COVERAGE (99.9%)
 
-        Total Days:   1839
-          Employed:   1837
+        Total Days:   1967
+          Employed:   1965
               Gaps:      2  [1 1]
           Overlaps:         []
 
 KEYWORDS (23)
 
-             HTML5:     13 mentions
+             HTML5:     14 mentions
               CSS3:     11 mentions
-        JavaScript:     37 mentions
+        JavaScript:     38 mentions
               REST:      6 mentions
               AJAX:     12 mentions
             jQuery:      8 mentions
          AngularJS:      6 mentions
-           Node.js:      4 mentions
+           Node.js:      6 mentions
           Zepto.js:      4 mentions
         Underscore:      2 mentions
            Jenkins:     11 mentions
@@ -50,11 +50,11 @@ KEYWORDS (23)
              MySQL:      4 mentions
             SQLite:      3 mentions
              NoSQL:      2 mentions
-           MongoDB:      2 mentions
+           MongoDB:      3 mentions
                Git:      8 mentions
             Github:     10 mentions
                SVN:      6 mentions
                TFS:      3 mentions
     -------------------------------
-       23 KEYWORDS     182 mentions
+       23 KEYWORDS     187 mentions
 

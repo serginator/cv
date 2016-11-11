@@ -90,6 +90,11 @@ Social network development using ELGG and modifying it's core. It was running fo
 
 ## EDUCATION
 
+### [Imagina Formación](http://www.imaginaformacion.com) (2016-09 — 2016-10)
+
+Node.js course
+
+
 ### [Imagina Formación](http://www.imaginaformacion.com) (2016-02 — 2016-04)
 
 Responsive Frameworks course

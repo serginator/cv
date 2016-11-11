@@ -10,7 +10,7 @@ disposition:
   travel: 10
   remote: true
   relocation:
-    willing: 'At the moment I prefer to work from Spain'
+    willing: 'At the moment I just can work from Spain'
     destinations: []
 contact:
   website: 'http://www.serginator.com'
@@ -489,6 +489,25 @@ education:
   summary: 'Using computers since age of 6, surfing the internet in early 90s and focused on security and programming, I''ve studied Computer Science at Universidad Complutense de Madrid, but in 3rd year I felt I wasn''t learning **as much as I should** to be a **great developer**, so I left it and studied on my own, and **in a short time I was working**. I''ve completed courses, gave **presentations** and **workshops**, and became an **important asset** at every company I''ve worked for. I''ve also been specialized in clean code, code quality, best practices.'
   level: some-college
   history:
+    -
+      institution: 'Imagina Formación'
+      title: 'Web development with Node.js'
+      url: 'http://www.imaginaformacion.com'
+      start: 2016-09
+      end: 2016-10
+      grade: 100%
+      summary: 'Node.js course'
+      curriculum:
+        - nodejs
+        - javascript
+        - html5
+        - bootstrap
+        - mongodb
+        - express
+        - tdd
+        - optimization
+        - heroku
+        - deployment
     -
       institution: 'Imagina Formación'
       title: 'Responsive Frameworks'
