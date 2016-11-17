@@ -5,6 +5,7 @@ meta:
 info:
   label: 'FullStack JavaScript Developer'
   class: Programmer
+  image: 'https://s.gravatar.com/avatar/8ed40a0d594ec378fdcfb59daa4150a5?s=250'
   brief: '**FullStack JavaScript developer with 5+ years industry experience, since the age of 6 with computers and since the age of 12 dealing with code**, with strong skills in code quality, performance and continuous integration. Capacity to learn new languages and adaptability to new environments in no time thanks to his overall knowledge of languages and operative systems.'
 disposition:
   travel: 10
@@ -94,7 +95,7 @@ employment:
       position: 'Systems Integration Consultant - Programmer'
       summary: 'Programmer at System Integration, I''ve been developing a social network, Android apps, rest services at BBVA GAE project, sites with Google Sites for internal documentation at BBVA and Telepizza''s mobile app.'
       start: '2012-01-01'
-      end: '2012-12-09'
+      end: '2012-12-10'
       location: Madrid
       keywords:
         - HTML
@@ -123,7 +124,7 @@ employment:
       position: 'Systems Integration Consultant - Junior Programmer'
       summary: 'Junior Programmer at System Integration developing a social network.'
       start: '2011-06-24'
-      end: '2011-12-31'
+      end: '2012-01-01'
       location: Madrid
       keywords:
         - HTML
@@ -265,8 +266,8 @@ projects:
     start: 2013-07
     end: 2014-02
     location: Madrid
-    description: 'Web application connected to internal LDAP server which allows to send feedback to people personally or anonymously about projects, behaviour...'
-    summary: 'Web application made with the magic of Meteor.js and Lungo.js, connected to our internal LDAP server to handle logins. After finishing it, we ported all the Lungo.js part to Firefox building blocks as some of the members of the team were members of Firefox OS and wanted to use it in their devices. This app allows to send feedback to people personally or anonymously about projects, behaviour...'
+    description: 'Web application connected to internal LDAP server which allows to send feedback to people personally or anonymously about projects, behavior...'
+    summary: 'Web application made with the magic of Meteor.js and Lungo.js, connected to our internal LDAP server to handle logins. After finishing it, we ported all the Lungo.js part to Firefox building blocks as some of the members of the team were members of Firefox OS and wanted to use it in their devices. This app allows to send feedback to people personally or anonymously about projects, behavior...'
     keywords:
       - HTML5
       - CSS3
@@ -509,13 +510,13 @@ education:
       institution: 'Imagina Formación'
       title: 'Web development with Node.js'
       url: 'http://www.imaginaformacion.com'
-      area: 'Computer Science'
+      area: 'Web development with Node.js'
       studyType: Course
       start: 2016-09
       end: 2016-10
       grade: 100%
-      summary: 'Node.js course'
-      curriculum:
+      summary: 'Node.js 5.4 course, with express, mongodb, template engines like Jade or Handlebars, using TDD with mocha, optimization with Grunt.js and deployment with Heroku.'
+      keywords:
         - nodejs
         - javascript
         - html5
@@ -530,13 +531,13 @@ education:
       institution: 'Imagina Formación'
       title: 'Responsive Frameworks'
       url: 'http://www.imaginaformacion.com'
-      area: 'Computer Science'
+      area: 'Responsive Frameworks'
       studyType: Course
       start: 2016-02
       end: 2016-04
       grade: 100%
-      summary: 'Responsive Frameworks course'
-      curriculum:
+      summary: 'Responsive Frameworks course using some frameworks like Base, Bootstrap and Foundation.'
+      keywords:
         - rwd
         - javascript
         - html5
@@ -548,13 +549,13 @@ education:
       institution: 'Imagina Formación'
       title: 'Web development with Angular JS'
       url: 'http://www.imaginaformacion.com'
-      area: 'Computer Science'
+      area: 'Web development with Angular JS'
       studyType: Course
       start: 2015-12
       end: 2016-02
       grade: 100%
-      summary: 'Angular JS course'
-      curriculum:
+      summary: 'Angular JS course.'
+      keywords:
         - angularjs
         - javascript
         - html5
@@ -564,26 +565,26 @@ education:
       institution: 'Rice University'
       title: 'An Introduction to Interactive Programming in Python'
       url: 'https://www.coursera.org'
-      area: 'Computer Science'
+      area: 'An Introduction to Interactive Programming in Python'
       studyType: Course
       start: '2013'
       end: '2013'
       grade: 99.2%
       summary: 'A course by Rice University at Coursera, Graded with distinction: https://www.coursera.org/records/XKhb4VhWeYRPvHnc'
-      curriculum:
+      keywords:
         - 'game development'
         - python
     -
       institution: 'Universidad Nacional de Educación a Distancia - UNED'
       title: 'Software development for Android devices'
       url: 'http://www.fundacion.uned.es/publico_calendario/3142'
-      area: 'Computer Science'
+      area: 'Software development for Android devices'
       studyType: Course
       start: '2011'
       end: '2012'
-      grade: '10'
-      summary: 'Android development'
-      curriculum:
+      grade: 100%
+      summary: 'Android development, giving some hints about design and UX.'
+      keywords:
         - Android
         - UX
         - Programming
@@ -592,7 +593,7 @@ education:
       institution: 'Universidad Complutense de Madrid - UCM'
       title: 'Dreamweaver CS4'
       url: 'https://www.ucm.es'
-      area: 'Computer Science'
+      area: 'Dreamweaver CS4'
       studyType: Course
       start: '2010'
       end: '2010'
@@ -601,11 +602,11 @@ education:
       institution: 'Universidad Complutense de Madrid - UCM'
       title: 'Engineering in Computer Science'
       url: 'https://www.ucm.es'
-      area: 'Computer Science'
+      area: 'Engineering in Computer Science'
       studyType: Engineering
       start: 2005-10
       end: 2010-12
-      summary: 'Studied Engineering in Computer Science until 3rd grade, passed all programming labs.'
+      summary: 'Studied Engineering in Computer Science until 3rd grade, passed all programming practices.'
 speaking:
   -
     title: 'Game development in JavaScript'

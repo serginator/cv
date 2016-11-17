@@ -21,12 +21,35 @@ Output files created using [HackMyResume](http://please.hackmyresume.com/)
 
 # DEV
 
+## config themes
+There's a [config](config) file which you can edit to use a specific theme on all, html or pdf. It allows the three original themes
+added in HackMyResume (positive, modern, compact, minimist) and installed themes using npm. I have installed some to
+change the style from time to time:
+`jsonresume-theme-elegant`, `jsonresume-theme-kendall`, `jsonresume-theme-material`, `jsonresume-theme-material-moon`,
+`jsonresume-theme-moon`, `jsonresume-theme-stackoverflow`.
+
+The file has the following structure:
+```
+[config]
+  all-theme=positive
+  html-theme=node_modules/jsonresume-theme-kendall
+  pdf-theme=positive
+```
+
 ## init repo
 `npm install`
 
 ## generate all formats
 `npm start`
 To be able to create pdf you have to install [wkhtmltopdf](http://wkhtmltopdf.org/)
+
+## generate just html
+`npm run generate-html`
+To generate just resume.html file in order to use another theme configured in `config` file.
+
+## generate just pdf
+`npm run generate-pdf`
+To generate just resume.pdf file in order to use another theme configured in `config` file.
 
 ## convert to JSON Resume
 `npm run to-jrs`

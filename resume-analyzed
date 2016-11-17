@@ -23,11 +23,11 @@ SECTIONS (10)
          languages:      3
          interests:      8
 
-COVERAGE (99.9%)
+COVERAGE (100.0%)
 
         Total Days:   1973
-          Employed:   1971
-              Gaps:      2  [1 1]
+          Employed:   1973
+              Gaps:         []
           Overlaps:         []
 
 KEYWORDS (23)
@@ -39,22 +39,22 @@ KEYWORDS (23)
               AJAX:     12 mentions
             jQuery:      8 mentions
          AngularJS:      6 mentions
-           Node.js:      6 mentions
+           Node.js:      7 mentions
           Zepto.js:      4 mentions
         Underscore:      2 mentions
            Jenkins:     11 mentions
              Sonar:      9 mentions
-          Grunt.js:      9 mentions
+          Grunt.js:     10 mentions
               Unix:      8 mentions
             Docker:      4 mentions
              MySQL:      4 mentions
             SQLite:      3 mentions
              NoSQL:      2 mentions
-           MongoDB:      3 mentions
+           MongoDB:      4 mentions
                Git:      8 mentions
             Github:     10 mentions
                SVN:      6 mentions
                TFS:      3 mentions
     -------------------------------
-       23 KEYWORDS     187 mentions
+       23 KEYWORDS     190 mentions
 

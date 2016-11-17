@@ -6,6 +6,7 @@
     "summary": "**FullStack JavaScript developer with 5+ years industry experience, since the age of 6 with computers and since the age of 12 dealing with code**, with strong skills in code quality, performance and continuous integration. Capacity to learn new languages and adaptability to new environments in no time thanks to his overall knowledge of languages and operative systems.",
     "website": "http://www.serginator.com",
     "email": "serginator@gmail.com",
+    "picture": "https://s.gravatar.com/avatar/8ed40a0d594ec378fdcfb59daa4150a5?s=250",
     "location": {
       "postalCode": "28045",
       "city": "Madrid",
@@ -42,7 +43,7 @@
       "website": "http://www.ciber.com/es",
       "position": "Systems Integration Consultant - Programmer",
       "startDate": "2012-01-01",
-      "endDate": "2012-12-09",
+      "endDate": "2012-12-10",
       "summary": "Programmer at System Integration, I've been developing a social network, Android apps, rest services at BBVA GAE project, sites with Google Sites for internal documentation at BBVA and Telepizza's mobile app."
     },
     {
@@ -50,7 +51,7 @@
       "website": "http://www.ciber.com/es",
       "position": "Systems Integration Consultant - Junior Programmer",
       "startDate": "2011-06-24",
-      "endDate": "2011-12-31",
+      "endDate": "2012-01-01",
       "summary": "Junior Programmer at System Integration developing a social network."
     }
   ],
@@ -58,93 +59,55 @@
     {
       "institution": "Imagina Formación",
       "gpa": "100%",
-      "courses": [
-        "nodejs",
-        "javascript",
-        "html5",
-        "bootstrap",
-        "mongodb",
-        "express",
-        "tdd",
-        "optimization",
-        "heroku",
-        "deployment"
-      ],
       "startDate": "2016-09",
       "endDate": "2016-10",
-      "area": "Computer Science",
+      "area": "Web development with Node.js",
       "studyType": "Course"
     },
     {
       "institution": "Imagina Formación",
       "gpa": "100%",
-      "courses": [
-        "rwd",
-        "javascript",
-        "html5",
-        "css3",
-        "base",
-        "bootstrap",
-        "foundation"
-      ],
       "startDate": "2016-02",
       "endDate": "2016-04",
-      "area": "Computer Science",
+      "area": "Responsive Frameworks",
       "studyType": "Course"
     },
     {
       "institution": "Imagina Formación",
       "gpa": "100%",
-      "courses": [
-        "angularjs",
-        "javascript",
-        "html5",
-        "css3",
-        "animations"
-      ],
       "startDate": "2015-12",
       "endDate": "2016-02",
-      "area": "Computer Science",
+      "area": "Web development with Angular JS",
       "studyType": "Course"
     },
     {
       "institution": "Rice University",
       "gpa": "99.2%",
-      "courses": [
-        "game development",
-        "python"
-      ],
       "startDate": "2013",
       "endDate": "2013",
-      "area": "Computer Science",
+      "area": "An Introduction to Interactive Programming in Python",
       "studyType": "Course"
     },
     {
       "institution": "Universidad Nacional de Educación a Distancia - UNED",
-      "gpa": "10",
-      "courses": [
-        "Android",
-        "UX",
-        "Programming",
-        "Design"
-      ],
+      "gpa": "100%",
       "startDate": "2011",
       "endDate": "2012",
-      "area": "Computer Science",
+      "area": "Software development for Android devices",
       "studyType": "Course"
     },
     {
       "institution": "Universidad Complutense de Madrid - UCM",
       "startDate": "2010",
       "endDate": "2010",
-      "area": "Computer Science",
+      "area": "Dreamweaver CS4",
       "studyType": "Course"
     },
     {
       "institution": "Universidad Complutense de Madrid - UCM",
       "startDate": "2005-10",
       "endDate": "2010-12",
-      "area": "Computer Science",
+      "area": "Engineering in Computer Science",
       "studyType": "Engineering"
     }
   ],

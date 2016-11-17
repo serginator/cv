@@ -24,7 +24,7 @@ Software Developer at Telefónica I+D. I've worked mainly focused in full-stack 
 
 Programmer at System Integration, I've been developing a social network, Android apps, rest services at BBVA GAE project, sites with Google Sites for internal documentation at BBVA and Telepizza's mobile app.
 
-### *Systems Integration Consultant - Junior Programmer*, [CIBER](http://www.ciber.com/es) (2011-06 — 2011-12)
+### *Systems Integration Consultant - Junior Programmer*, [CIBER](http://www.ciber.com/es) (2011-06 — 2012-01)
 
 Junior Programmer at System Integration developing a social network.
 
@@ -58,8 +58,8 @@ CSB is a panel to manage users, assign resources or services, handle your accoun
 
 ### *Developer*, FeedApp (2013-07 — 2014-02)
 
-Web application connected to internal LDAP server which allows to send feedback to people personally or anonymously about projects, behaviour...
-Web application made with the magic of Meteor.js and Lungo.js, connected to our internal LDAP server to handle logins. After finishing it, we ported all the Lungo.js part to Firefox building blocks as some of the members of the team were members of Firefox OS and wanted to use it in their devices. This app allows to send feedback to people personally or anonymously about projects, behaviour...
+Web application connected to internal LDAP server which allows to send feedback to people personally or anonymously about projects, behavior...
+Web application made with the magic of Meteor.js and Lungo.js, connected to our internal LDAP server to handle logins. After finishing it, we ported all the Lungo.js part to Firefox building blocks as some of the members of the team were members of Firefox OS and wanted to use it in their devices. This app allows to send feedback to people personally or anonymously about projects, behavior...
 
 ### *Developer*, [Movistar TV - DTH Hybrid](http://www.movistar.com) (2012-12 — 2013-12)
 
@@ -92,17 +92,17 @@ Social network development using ELGG and modifying it's core. It was running fo
 
 ### [Imagina Formación](http://www.imaginaformacion.com) (2016-09 — 2016-10)
 
-Node.js course
+Node.js 5.4 course, with express, mongodb, template engines like Jade or Handlebars, using TDD with mocha, optimization with Grunt.js and deployment with Heroku.
 
 
 ### [Imagina Formación](http://www.imaginaformacion.com) (2016-02 — 2016-04)
 
-Responsive Frameworks course
+Responsive Frameworks course using some frameworks like Base, Bootstrap and Foundation.
 
 
 ### [Imagina Formación](http://www.imaginaformacion.com) (2015-12 — 2016-02)
 
-Angular JS course
+Angular JS course.
 
 
 ### [Rice University](https://www.coursera.org) (2013-01 — 2013-01)
@@ -112,7 +112,7 @@ A course by Rice University at Coursera, Graded with distinction: https://www.co
 
 ### [Universidad Nacional de Educación a Distancia - UNED](http://www.fundacion.uned.es/publico_calendario/3142) (2011-01 — 2012-01)
 
-Android development
+Android development, giving some hints about design and UX.
 
 
 ### [Universidad Complutense de Madrid - UCM](https://www.ucm.es) (2010-01 — 2010-01)
@@ -122,7 +122,7 @@ Course certified by UCM about HTML4, CSS2 and Dreamweaver.
 
 ### [Universidad Complutense de Madrid - UCM](https://www.ucm.es) (2005-10 — 2010-12)
 
-Studied Engineering in Computer Science until 3rd grade, passed all programming labs.
+Studied Engineering in Computer Science until 3rd grade, passed all programming practices.
 
 
 

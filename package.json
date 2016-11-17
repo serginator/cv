@@ -4,13 +4,15 @@
   "description": "My CV following FRESH standard",
   "main": "index.js",
   "scripts": {
-    "start": "npm run analyze > resume-analyzed && npm run to-jrs && hackmyresume BUILD resume.json TO out/resume.all -t positive && mkdir -p dist && cp out/resume.html dist/index.html && npm run jsonresume-publish",
+    "start": "npm run analyze > resume-analyzed && npm run to-jrs && npm run generate-all && mkdir -p dist && cp out/resume.html dist/index.html",
+    "generate-all": "hackmyresume BUILD resume.json TO out/resume.all -t $(awk -F \"=\" '/all-theme/ {print $2}' config)",
+    "generate-html": "hackmyresume BUILD resume.json TO out/resume.html -t $(awk -F \"=\" '/html-theme/ {print $2}' config)  && mkdir -p dist && cp out/resume.html dist/index.html",
+    "generate-pdf": "hackmyresume BUILD resume.json TO out/resume.pdf -t $(awk -F \"=\" '/pdf-theme/ {print $2}' config)",
     "to-jrs": "hackmyresume CONVERT resume.json out/jsonresume/resume.json",
     "test": "hackmyresume VALIDATE resume.json",
     "analyze": "hackmyresume ANALYZE resume.json",
-    "deploy": "gh-pages -d dist -m 'Pushed gh-pages'",
-    "jsonresume-publish": "cd out/jsonresume && node ../../node_modules/resume-cli/index.js publish"
-
+    "jsonresume-publish": "cd out/jsonresume && node ../../node_modules/resume-cli/index.js publish",
+    "deploy": "gh-pages -d dist -m 'Pushed gh-pages' && npm run jsonresume-publish"
   },
   "repository": {
     "type": "git",
@@ -33,6 +35,12 @@
   "devDependencies": {
     "gh-pages": "^0.11.0",
     "hackmyresume": "https://github.com/hacksalot/hackmyresume#dev",
+    "jsonresume-theme-elegant": "^1.6.10",
+    "jsonresume-theme-kendall": "^0.1.13",
+    "jsonresume-theme-material": "^1.1.2",
+    "jsonresume-theme-material-moon": "^0.1.18",
+    "jsonresume-theme-moon": "^1.7.22",
+    "jsonresume-theme-stackoverflow": "^1.0.4",
     "phantomjs": "^2.1.7",
     "resume-cli": "^0.4.14"
   }
