@@ -1,527 +1,711 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
     
     <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta charset="utf-8">
-        <title>Sergio Ruiz</title>
-        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic'
-        rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-        <style>
-            html, body, main, section, header, ul, p, h1, h2, h3 {
-              font-family: 'Calibri', 'Open Sans', 'sans-serif';
-              font-size: 14px;
-              margin: 0; padding: 0;
-              display: block;
-            }
-            
-            a {
-              color: #C00000;
-              text-decoration: none;
-            }
-            
-            a:visited {
-              color: #7B0796;
-            }
-            
-            a:hover {
-              text-decoration: underline;
-            }
-            
-            h1 {
-              text-transform: uppercase;
-              font-size:
-            }
-            
-            h2 {
-              text-transform: uppercase;
-              color: #898989;
-              font-size: 2em;
-              position: relative;
-              font-weight: 400;
-            }
-            
-            h3, .tenure {
-              font-size: 1.5em;
-              font-weight: 300;
-            }
-            
-            h3 {
-              margin-top: 0;
-              width: 66%;
-              float: left;
-            }
-            
-            table {
-              width: 100%;
-              text-transform: uppercase;
-              font-size: 1.3em;
-            }
-            
-            td:first-child {
-              text-align: right;
-              color: #A9A9A9;
-              letter-spacing: 5px;
-              font-weight: bold;
-            }
-            
-            td:last-child {
-              text-align: justify; /* HTML justification sucks, but in this case... */
-            }
-            
-            hr {
-              display: none;
-            }
-            
-            main {
-              padding: 15px;
-              max-width: 800px;
-              margin: 0 auto;
-            }
-            
-            section {
-              margin-top: 1em;
-            }
-            
-            section > div {
-              margin-top: 1em;
-              overflow: hidden; /* Clear floated children */
-            }
-            
-            section > div p {
-              clear: both;
-            }
-            
-            section > header {
-              position: relative;
-            }
-            
-            ul {
-              clear: both;
-            }
-            
-            li {
-              margin-left: 2em;
-            }
-            
-            p, li {
-              text-align: justify;
-            }
-            
-            .tenure {
-              float: right;
-              color: #6F6F6F;
-              background-color: #F5F5F5;
-              border-radius: 6px;
-              padding: 4px 6px;
-              font-size: 85%;
-            }
-            
-            span.keywords {
-              font-size: 10px;
-              color: #B16666;
-            }
-            
-            thead {
-              display: none;
-            }
-            
-            main > header {
-              width: 100%;
-              float: left;
-              margin-bottom: 1em;
-            }
-            
-            h1 {
-              float: left;
-            }
-            
-            h1, h2, .label {
-              font-size: 2.5em;
-              text-transform: uppercase;
-              font-weight: 300;
-              font-family: 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Lato', 'sans-serif'
-            }
-            
-            #contact {
-             clear: both;
-             float: right;
-            }
-            
-            header > span.fa {
-              text-align: center;
-              margin-right: 3px;
-              position: absolute;
-              width: 40px;
-              top: 10px;
-              font-size: 30px;
-              /*transform: translateX(-110%); PDF no likey */
-              margin-left: -50px;
-              color: #DADADA;
-            }
-            
-            .label {
-              float: right;
-              color: #DADADA;
-            }
-            
-            #summary {
-              color: #717171;
-              font-size: 1.25em;
-            }
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Resume of Sergio Ruiz</title>
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+        rel="stylesheet">
+        <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"
+        rel="stylesheet">
+        <style type="text/css">
+            @import url(//fonts.googleapis.com/css?family=Open+Sans:400,600,700,800);
+        @charset "utf-8";
+        @-webkit-viewport   { width: device-width; }
+        @-moz-viewport      { width: device-width; }
+        @-ms-viewport       { width: device-width; }
+        @-o-viewport        { width: device-width; }
+        @viewport           { width: device-width; }
+        
+        body{
+          font-family: 'Open Sans', Arial, Tahoma;
+          font-weight: 400;
+          color: #363636;
+          background: #334960;
+        }
+        blockquote {
+          font-size: 1em;
+        }
+        
+        .container{
+          margin-top: 80px;
+          margin-bottom: 15px;
+          background: #fff;
+        }
+        
+        #photo-header{
+          margin-top: -75px;
+        }
+        #photo{
+          width: 160px;
+          height: 160px;
+          border-radius: 50%;
+          overflow: hidden;
+          padding: 5px;
+          background: #334960;
+          display: inline-block;
+        }
+        #photo img{
+          width: 150px;
+          height: 150px;
+          border-radius: 50%;
+        }
+        #text-header h1{
+          margin: 0;
+          padding: 0;
+          font-size: 1.5em;
+          font-weight: 700;
+          text-transform: uppercase;
+          letter-spacing: -1px;
+        }
+        #text-header h1::first-line{
+          font-size: 1.5em;
+          font-weight: 800;
+          line-height: 1.5em;
+        }
+        #text-header h1 span{
+          color: #334960;
+          opacity: 0.7;
+        }
+        #text-header h1 sup{
+          opacity: 0.5;
+        }
+        #text-header:after{
+          width: 100%;
+          height: 3px;
+          border-bottom: 1px solid #ddd;
+          margin-top: 15px;
+          content: '';
+          display: block;
+        }
+        
+        .box{
+          padding-bottom: 10px;
+          margin-bottom: 25px;
+        }
+        .box h2{
+          color: #227c74;
+          font-size: 1.5em;
+          font-weight: 700;
+          text-transform: uppercase;
+        }
+        
+        #awards,
+        #education{
+          margin-top: 20px;
+          margin-bottom: 0;
+          position: relative;
+          padding: 1em 0;
+          list-style: none;
+        }
+        #awards:before,
+        #education:before {
+          width: 5px;
+          height: 100%;
+          position: absolute;
+          left: 35px;
+          top: 0;
+          content: ' ';
+          display: block;
+          background: #32475c;
+          background: -moz-linear-gradient(top,  #ffffff 0%, #32475c 7%, #32475c 89%, #ffffff 100%);
+          background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(7%,#32475c), color-stop(89%,#32475c), color-stop(100%,#ffffff));
+          background: -webkit-linear-gradient(top,  #ffffff 0%,#32475c 7%,#32475c 89%,#ffffff 100%);
+          background: -o-linear-gradient(top,  #ffffff 0%,#32475c 7%,#32475c 89%,#ffffff 100%);
+          background: -ms-linear-gradient(top,  #ffffff 0%,#32475c 7%,#32475c 89%,#ffffff 100%);
+          background: linear-gradient(to bottom,  #ffffff 0%,#32475c 7%,#32475c 89%,#ffffff 100%);
+          filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0 );
+        }
+        #awards li,
+        #education li{
+          width: 100%;
+          z-index: 2;
+          position: relative;
+          float: left;
+        }
+        #awards .year,
+        #education .year{
+          width: 14%;
+          background: #fff;
+          padding: 10px;
+          font-weight: 700;
+          display: inline-block;
+        }
+        #awards .description,
+        #education .description{
+          width: 83%;
+          display: inline-block;
+          background: #eee;
+          margin-bottom: 10px;
+          position: relative;
+          padding: 10px;
+          border-bottom: 1px solid #ccc;
+          border-right: 1px solid #ccc;
+        }
+        #awards .description:after,
+        #education .description:after {
+          content: '';
+          position: absolute;
+          top: 15px;
+          right: 0;
+          left: -16px;
+          height: 0;
+          width: 0;
+          border: solid transparent;
+          border-right-color: #eee;
+          border-width: 8px;
+          pointer-events: none;
+        }
+        #awards .description h3,
+        #education .description h3{
+          font-size: 1.2em;
+          margin: 0;
+          padding: 0;
+          font-weight: 700;
+        }
+        #awards .description p,
+        #education .description p{
+          margin-top: 5px;
+          padding: 0;
+        }
+        
+        .job{
+          margin-bottom: 15px;
+        }
+        .job .details {
+          margin-left: 3%;
+          width: 95%;
+          padding: 10px;
+          margin-bottom: 10px;
+          background: #eee;
+          border-bottom: 1px solid #ccc;
+          border-right: 1px solid #ccc;
+        }
+        .job .where{
+          font-size: 1.2em;
+          font-weight: bold;
+        }
+        .job .year{
+          opacity: 0.7;
+        }
+        .job .profession{
+          font-size: 1.2em;
+          font-weight: bold;
+        }
+        .job .description{
+          line-height: 1.5em;
+        }
+        .job .highlights{
+          padding: 5px 0;
+          font-weight: bold;
+        }
+        .job .job-details {
+          padding-left: 5%;
+          width: 100%;
+        }
+        .publication {
+          margin-bottom: 0;
+        }
+        .publication .name{
+          font-size: 1em;
+          font-weight: bold;
+        }
+        .publication .year{
+            opacity: 0.7;
+        }
+        .publication p{
+          margin: 0;
+          padding-top: 10px;
+        }
+        
+        .contact-item{
+          width: 100%;
+          float: left;
+        }
+        .contact-item .icon{
+          padding: 10px;
+          border-right: 1px solid #ccc;
+          border-bottom: 1px solid #ccc;
+          color: #32475c;
+          background: #eee;
+        }
+        .contact-item:last-child .icon{
+          border-bottom: none;
+        }
+        .contact-item .title{
+          width: 80%;
+          width: calc(100% - 55px);
+          font-weight: 700;
+          opacity: 0.9;
+        }
+        .contact-item .title.only{
+          margin-top: 10px;
+        }
+        .contact-item .description{
+          width: 80%;
+          width: calc(100% - 55px);
+          color: #334960;
+        }
+        
+        .item-interests,
+        .item-skills{
+          height: 30px;
+          color: #334960;
+          padding: 5px 10px;
+          margin-bottom: 5px;
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          font-size: 1.1em;
+          font-weight: 600;
+        }
+        .interest,
+        .skill{
+          color: #fff;
+          display: inline-block;
+          margin-right: 5px;
+          margin-bottom: 5px;
+          padding: 5px 10px;
+          background: #32475c;
+          position: relative;
+          font-size: .85em;
+        }
+        .skill-level {
+          background-color: #227c74;
+          border-radius: 4px;
+          color: #fff;
+          padding: 1px 8px;
+          font-size: .75em;
+          position: absolute;
+          margin: 1px 10px;
+        }
+        
+        #language-skills .skill{
+          margin: 10px 0;
+          padding-bottom: 10px;
+          border-bottom: 1px solid #eee;
+        }
+        </style>
+        <style type="text/css" media="print">
+            body {
+          font-size: .95em;
+          -webkit-print-color-adjust: exact;
+        }
+        
+        a[href]:after {
+          content: none !important;
+        }
+        
+        #photo{
+          display: none;
+        }
+        
+        .box {
+          margin-bottom: -10px;
+        }
+        .col-sm-5{
+          width: 40%;
+          padding: 0 15px;
+        }
+        
+        .col-sm-7{
+          width: 60%;
+          padding: 0 15px;
+        }
+        
+        .skills .col-sm-offset-1,
+        .interests .col-sm-offset-1{
+          margin-top: -10px;
+          margin-bottom: 5px;
+        }
+        
+        #education {
+          margin: 0;
+          margin-bottom: -20px;
+        }
+        #awards:before,
+        #education:before {
+          background: none;
+        }
+        
+        #awards .description,
+        #education .description,
+        .job .details {
+          border: 1px solid #eee;
+        }
+        .publication,
+        .publication .panel-heading,
+        .publication .name{
+          margin: 0;
+          padding: 0 5px;
+          border: none;
+        }
+        .publication .panel-body {
+          padding: 0 10px;
+          margin: 0;
+        }
+        
+        .badge {
+          margin: 0;
+        }
+        
+        .list-group-item{
+          border: none;
+          margin: 0;
+          padding: 5px 15px;
+        }
+        .list-group-item:after{
+          content: '';
+          position: absolute;
+          top: 8px;
+          right: 0;
+          left: -1px;
+          height: 0;
+          width: 0;
+          border: solid transparent;
+          border-right-color: #999;
+          border-width: 4px;
+          pointer-events: none;
+         }
         </style>
     </head>
     
     <body>
-        <main>
-            <header>
-                 <h1>Sergio <span style="color: #C00000;">Ruiz</span></h1>
- <span class="label">FullStack JavaScript Developer</span>
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <div id="photo-header" class="text-center">
+                        <!-- PHOTO (AVATAR) -->
+                        <div id="photo">
+                            <img src="https:&#x2F;&#x2F;s.gravatar.com&#x2F;avatar&#x2F;8ed40a0d594ec378fdcfb59daa4150a5?s=250"
+                            alt="avatar">
+                        </div>
+                        <div id="text-header">
+                             <h1>Sergio Ruiz<br><span>FullStack JavaScript Developer</span></h1>
 
-                <p id="contact"> <span class="email"><a href="mailto:serginator@gmail.com">serginator@gmail.com</a></span>
-
-                    <span
-                    class="website"><a href="http://www.serginator.com"><a href="http://www.serginator.com">http://www.serginator.com</a></a>
-                        </span>
-                </p>
-            </header>
-            <section id="summary"> <strong>FullStack JavaScript developer with 5+ years industry experience, since the age of 6 with computers and since the age of 12 dealing with code</strong>,
-                with strong skills in code quality, performance and continuous integration.
-                Capacity to learn new languages and adaptability to new environments in
-                no time thanks to his overall knowledge of languages and operative systems.</section>
-            <hr>
-            <section id="skills">
-                <header> <span class="fa fa-lg fa-code"></span> 
-                     <h2>skills</h2>
-
-                </header>
-                <table>
-                    <thead>
-                        <tr>
-                            <th>Skill</th>
-                            <th>Keywords</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td style="width: 25%;">Web</td>
-                            <td class="keywords">HTML5 CSS3 JavaScript REST AJAX</td>
-                        </tr>
-                        <tr>
-                            <td style="width: 25%;">JavaScript</td>
-                            <td class="keywords">jQuery AngularJS Node.js Zepto.js Underscore</td>
-                        </tr>
-                        <tr>
-                            <td style="width: 25%;">CI</td>
-                            <td class="keywords">Jenkins Sonar Grunt.js Unix Docker</td>
-                        </tr>
-                        <tr>
-                            <td style="width: 25%;">Databases</td>
-                            <td class="keywords">MySQL SQLite NoSQL MongoDB</td>
-                        </tr>
-                        <tr>
-                            <td style="width: 25%;">SCM</td>
-                            <td class="keywords">Git Github SVN TFS</td>
-                        </tr>
-                    </tbody>
-                </table>
-            </section>
-            <hr>
-            <section id="employment">
-                <header> <span class="fa fa-lg fa-building"></span> 
-                     <h2>employment</h2>
-
-                </header>
-                <div>
-                     <h3><em>Analyst Programmer</em>,
-              <a href="http://www.aurigae.com/">AURIGAE</a>
-              </h3>
- <span class="tenure">2012-12 — Present</span>
-
-                    <p>
-                        <p>Software Developer at Telefónica I+D. I&#39;ve worked mainly focused in
-                            full-stack javascript, continuous integration and evangelist of best practices,
-                            most of the time at video area.</p>
-                    </p> <span class="keywords">HTML5 CSS3 JavaScript Unix AngularJS Mocha Sinon Chai LESS Git Github Scrum JIRA Jenkins Grunt.js Jasmine Google Cast SDK SVN jQuery SVG Sonar AJAX Node.js APS POA PBA Clean Code video opentv dth cable vod pvr stb </span> 
+                        </div>
+                    </div>
                 </div>
-                <div>
-                     <h3><em>Systems Integration Consultant - Programmer</em>,
-              <a href="http://www.ciber.com/es">CIBER</a>
-              </h3>
- <span class="tenure">2012-01 — 2012-12</span>
+            </div>
+            <div class="row">
+                <div class="col-xs-12 col-sm-7">
+                    <!-- ABOUT ME -->
+                    <div class="box">
+                         <h2><i class="fa fa-user ico"></i> About</h2>
 
-                    <p>
-                        <p>Programmer at System Integration, I&#39;ve been developing a social network,
-                            Android apps, rest services at BBVA GAE project, sites with Google Sites
-                            for internal documentation at BBVA and Telepizza&#39;s mobile app.</p>
-                    </p> <span class="keywords">HTML HTML5 CSS CSS3 JavaScript PHP ELGG Android GAE Java Google Sites C# ASP.NET MVC 4 Zepto.js jQuery AJAX JSON REST Apache nginx </span> 
+                        <p><strong>FullStack JavaScript developer with 5+ years industry experience, since the age of 6 with computers and since the age of 12 dealing with code</strong>,
+                            with strong skills in code quality, performance and continuous integration.
+                            Capacity to learn new languages and adaptability to new environments in
+                            no time thanks to his overall knowledge of languages and operative systems.</p>
+                    </div>
+                    <!-- WORK EXPERIENCE -->
+                    <div class="box">
+                         <h2><i class= "fa fa-suitcase ico"></i> Work Experience</h2>
+
+                        <div class="job clearfix">
+                            <div class="row">
+                                <div class="details">
+                                    <div class="where">AURIGAE</div>
+                                    <div class="address"> <a href="http:&#x2F;&#x2F;www.aurigae.com&#x2F;" target="_blank"><i class="fa fa-globe ico"></i> http:&#x2F;&#x2F;www.aurigae.com&#x2F;</a>
+
+                                    </div>
+                                    <div class="year">December 2012 – Present</div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="job-details col-xs-11">
+                                    <div class="profession">Analyst Programmer</div>
+                                    <div class="description">Software Developer at Telefónica I+D. I&#39;ve worked mainly focused in
+                                        full-stack javascript, continuous integration and evangelist of best practices,
+                                        most of the time at video area.</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="job clearfix">
+                            <div class="row">
+                                <div class="details">
+                                    <div class="where">CIBER</div>
+                                    <div class="address"> <a href="http:&#x2F;&#x2F;www.ciber.com&#x2F;es" target="_blank"><i class="fa fa-globe ico"></i> http:&#x2F;&#x2F;www.ciber.com&#x2F;es</a>
+
+                                    </div>
+                                    <div class="year">January 2012 – December 2012</div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="job-details col-xs-11">
+                                    <div class="profession">Systems Integration Consultant - Programmer</div>
+                                    <div class="description">Programmer at System Integration, I&#39;ve been developing a social network,
+                                        Android apps, rest services at BBVA GAE project, sites with Google Sites
+                                        for internal documentation at BBVA and Telepizza&#39;s mobile app.</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="job clearfix">
+                            <div class="row">
+                                <div class="details">
+                                    <div class="where">CIBER</div>
+                                    <div class="address"> <a href="http:&#x2F;&#x2F;www.ciber.com&#x2F;es" target="_blank"><i class="fa fa-globe ico"></i> http:&#x2F;&#x2F;www.ciber.com&#x2F;es</a>
+
+                                    </div>
+                                    <div class="year">June 2011 – December 2011</div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="job-details col-xs-11">
+                                    <div class="profession">Systems Integration Consultant - Junior Programmer</div>
+                                    <div class="description">Junior Programmer at System Integration developing a social network.</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-                <div>
-                     <h3><em>Systems Integration Consultant - Junior Programmer</em>,
-              <a href="http://www.ciber.com/es">CIBER</a>
-              </h3>
- <span class="tenure">2011-06 — 2011-12</span>
+                <div class="col-xs-12 col-sm-5">
+                    <!-- CONTACT -->
+                    <div class="box clearfix">
+                         <h2><i class="fa fa-bullseye ico"></i> Contact</h2>
 
-                    <p>
-                        <p>Junior Programmer at System Integration developing a social network.</p>
-                    </p> <span class="keywords">HTML CSS JavaScript AJAX PHP ELGG MySQL Unix </span> 
+                        <div class="contact-item">
+                            <div class="icon pull-left text-center"><span class="fa fa-map-marker fa-fw"></span>
+                            </div>
+                            <div class="title only  pull-right">Madrid 28045 ES</div>
+                        </div>
+                        <div class="contact-item">
+                            <div class="icon pull-left text-center"><span class="fa fa-envelope fa-fw"></span>
+                            </div>
+                            <div class="title only pull-right"><a href="mailto:serginator@gmail.com" target="_blank">serginator@gmail.com</a>
+                            </div>
+                        </div>
+                        <div class="contact-item">
+                            <div class="icon pull-left text-center"><span class="fa fa-globe fa-fw"></span>
+                            </div>
+                            <div class="title only pull-right"><a href="http:&#x2F;&#x2F;www.serginator.com" target="_blank">http:&#x2F;&#x2F;www.serginator.com</a>
+                            </div>
+                        </div>
+                        <div class="contact-item">
+                            <div class="icon pull-left text-center"><span class="fa fa-github-square fa-fw"></span>
+                            </div>
+                            <div class="title pull-right">GitHub</div>
+                            <div class="description pull-right"><a href="https:&#x2F;&#x2F;github.com&#x2F;serginator" target="_blank">serginator</a>
+                            </div>
+                        </div>
+                        <div class="contact-item">
+                            <div class="icon pull-left text-center"><span class="fa fa-twitter-square fa-fw"></span>
+                            </div>
+                            <div class="title pull-right">Twitter</div>
+                            <div class="description pull-right"><a href="https:&#x2F;&#x2F;twitter.com&#x2F;serginator" target="_blank">serginator</a>
+                            </div>
+                        </div>
+                        <div class="contact-item">
+                            <div class="icon pull-left text-center"><span class="fa fa-linkedin-square fa-fw"></span>
+                            </div>
+                            <div class="title pull-right">LinkedIn</div>
+                            <div class="description pull-right"><a href="https:&#x2F;&#x2F;www.linkedin.com&#x2F;in&#x2F;serginator" target="_blank">serginator</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- EDUCATION -->
+                    <div class="box">
+                         <h2><i class="fa fa-university ico"></i> Education</h2>
+
+                        <ul id="education" class="clearfix">
+                            <li>
+                                <div class="year pull-left">2016 2016</div>
+                                <div class="description pull-right">
+                                     <h3>Imagina Formación</h3>
+
+                                    <p><i class="fa fa-graduation-cap ico"></i> Course</p>
+                                    <p>Web development with Node.js</p>
+                                    <p>GPA: 100%</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="year pull-left">2016 2016</div>
+                                <div class="description pull-right">
+                                     <h3>Imagina Formación</h3>
+
+                                    <p><i class="fa fa-graduation-cap ico"></i> Course</p>
+                                    <p>Responsive Frameworks</p>
+                                    <p>GPA: 100%</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="year pull-left">2015 2016</div>
+                                <div class="description pull-right">
+                                     <h3>Imagina Formación</h3>
+
+                                    <p><i class="fa fa-graduation-cap ico"></i> Course</p>
+                                    <p>Web development with Angular JS</p>
+                                    <p>GPA: 100%</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="year pull-left">2013 2013</div>
+                                <div class="description pull-right">
+                                     <h3>Rice University</h3>
+
+                                    <p><i class="fa fa-graduation-cap ico"></i> Course</p>
+                                    <p>An Introduction to Interactive Programming in Python</p>
+                                    <p>GPA: 99.2%</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="year pull-left">2011 2012</div>
+                                <div class="description pull-right">
+                                     <h3>Universidad Nacional de Educación a Distancia - UNED</h3>
+
+                                    <p><i class="fa fa-graduation-cap ico"></i> Course</p>
+                                    <p>Software development for Android devices</p>
+                                    <p>GPA: 100</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="year pull-left">2010 2010</div>
+                                <div class="description pull-right">
+                                     <h3>Universidad Complutense de Madrid - UCM</h3>
+
+                                    <p><i class="fa fa-graduation-cap ico"></i> Course</p>
+                                    <p>Dreamweaver CS4</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="year pull-left">2005 2010</div>
+                                <div class="description pull-right">
+                                     <h3>Universidad Complutense de Madrid - UCM</h3>
+
+                                    <p><i class="fa fa-graduation-cap ico"></i> Engineering</p>
+                                    <p>Engineering in Computer Science</p>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- SKILLS -->
+                    <div class="box">
+                         <h2><i class="fa fa-tasks ico"></i> Skills</h2>
+
+                        <div class="skills clearfix">
+                            <div class="item-skills">Web <span class="skill-level">Advanced</span>
+
+                            </div>
+                            <div class="col-sm-offset-1 col-sm-12 clearfix"> <span class="skill badge">HTML5</span>
+ <span class="skill badge">CSS3</span>
+
+                                <span
+                                class="skill badge">JavaScript</span> <span class="skill badge">REST</span>
+ <span class="skill badge">AJAX</span>
+
+                            </div>
+                        </div>
+                        <div class="skills clearfix">
+                            <div class="item-skills">JavaScript <span class="skill-level">Expert</span>
+
+                            </div>
+                            <div class="col-sm-offset-1 col-sm-12 clearfix"> <span class="skill badge">jQuery</span>
+ <span class="skill badge">AngularJS</span>
+
+                                <span
+                                class="skill badge">Node.js</span> <span class="skill badge">Zepto.js</span>
+ <span class="skill badge">Underscore</span>
+
+                            </div>
+                        </div>
+                        <div class="skills clearfix">
+                            <div class="item-skills">CI <span class="skill-level">Advanced</span>
+
+                            </div>
+                            <div class="col-sm-offset-1 col-sm-12 clearfix"> <span class="skill badge">Jenkins</span>
+ <span class="skill badge">Sonar</span>
+
+                                <span
+                                class="skill badge">Grunt.js</span> <span class="skill badge">Unix</span>
+ <span class="skill badge">Docker</span>
+
+                            </div>
+                        </div>
+                        <div class="skills clearfix">
+                            <div class="item-skills">Databases <span class="skill-level">Intermediate</span>
+
+                            </div>
+                            <div class="col-sm-offset-1 col-sm-12 clearfix"> <span class="skill badge">MySQL</span>
+ <span class="skill badge">SQLite</span>
+
+                                <span
+                                class="skill badge">NoSQL</span> <span class="skill badge">MongoDB</span>
+
+                            </div>
+                        </div>
+                        <div class="skills clearfix">
+                            <div class="item-skills">SCM <span class="skill-level">Advanced</span>
+
+                            </div>
+                            <div class="col-sm-offset-1 col-sm-12 clearfix"> <span class="skill badge">Git</span>
+ <span class="skill badge">Github</span>
+
+                                <span
+                                class="skill badge">SVN</span> <span class="skill badge">TFS</span>
+
+                            </div>
+                        </div>
+                    </div>
+                    <!-- LANGUAGES -->
+                    <div class="box">
+                         <h2><i class="fa fa-language ico"></i> Languages</h2>
+
+                        <ul class="list-group">
+                            <li class=" list-group-item">Spanish<span class="skill badge pull-right"></span>
+                            </li>
+                            <li class=" list-group-item">English<span class="skill badge pull-right"></span>
+                            </li>
+                            <li class=" list-group-item">Japanese<span class="skill badge pull-right"></span>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- HOBBIES -->
+                    <div class="box">
+                         <h2><i class="fa fa-heart ico"></i> Interests</h2>
+
+                        <div class="interests clearfix">
+                            <div class="item-interests">travelling</div>
+                            <div class="col-sm-offset-1 col-sm-12 clearfix"></div>
+                        </div>
+                        <div class="interests clearfix">
+                            <div class="item-interests">reading</div>
+                            <div class="col-sm-offset-1 col-sm-12 clearfix"></div>
+                        </div>
+                        <div class="interests clearfix">
+                            <div class="item-interests">watching movies and tv shows</div>
+                            <div class="col-sm-offset-1 col-sm-12 clearfix"></div>
+                        </div>
+                        <div class="interests clearfix">
+                            <div class="item-interests">video games</div>
+                            <div class="col-sm-offset-1 col-sm-12 clearfix"></div>
+                        </div>
+                        <div class="interests clearfix">
+                            <div class="item-interests">music</div>
+                            <div class="col-sm-offset-1 col-sm-12 clearfix"></div>
+                        </div>
+                        <div class="interests clearfix">
+                            <div class="item-interests">guitar playing</div>
+                            <div class="col-sm-offset-1 col-sm-12 clearfix"></div>
+                        </div>
+                        <div class="interests clearfix">
+                            <div class="item-interests">magic tricks</div>
+                            <div class="col-sm-offset-1 col-sm-12 clearfix"></div>
+                        </div>
+                        <div class="interests clearfix">
+                            <div class="item-interests">Japanese</div>
+                            <div class="col-sm-offset-1 col-sm-12 clearfix"></div>
+                        </div>
+                    </div>
                 </div>
-            </section>
-            <hr>
-            <section id="projects">
-                <header> <span class="fa fa-lg fa-star"></span> 
-                     <h2>projects</h2>
-
-                </header>
-                <div>
-                     <h3><em>Creator</em>,
-          <a href="http://www.serginator.com/">JS Test Lab</a>
-          </h3>
- <span class="tenure">2011-03 — Present</span>
-
-                    <p>An arcade machine</p> <span class="keywords">JavaScript HTML5 CSS3 </span> 
-                </div>
-                <div>
-                     <h3><em>Developer</em>,
-          <a href="http://www.movistar.com">Movistar TV - DTH Hybrid</a>
-          </h3>
- <span class="tenure">2015-01 — Present</span>
-
-                    <p>Development of the UI of a set-top box (STB) with satellital and internet
-                        connection for TVApps and VOD, using SVG and JavaScript to communicate
-                        with the middleware. Also I&#39;ve installed and configured all the continuous
-                        integration environment with Jenkins and Sonar, and made the Grunt.js tasks
-                        to automate everything, from linting or testing to opening pull requests
-                        automagically integrating Crowdin with new translations from the OBs.</p>
-                    <span
-                    class="keywords">JavaScript jQuery jasmine AJAX SVG Unix Jenkins Sonar Docker Scrum JIRA
-                        SVN Git Github video opentv dth cable vod pvr stb</span>
-                </div>
-                <div>
-                     <h3><em>Developer</em>,
-          <a href="http://www.movistar.com">Movistar TV - GO</a>
-          </h3>
- <span class="tenure">2015-02 — 2015-03</span>
-
-                    <p>Movistar TV web application, which allows to watch Live TV and VOD content,
-                        and handle your subscriptions, view the EPG and more. Joined the team for
-                        one month to speed development of new features.</p> <span class="keywords">JavaScript AngularJS Mocha Sinon Chai HTML5 CSS3 LESS AJAX Git Github Scrum JIRA Jenkins Grunt.js video vod pvr </span> 
-                </div>
-                <div>
-                     <h3><em>Main developer</em>,
-          <a href="http://www.movistar.com">Movistar TV - Chromecast Receiver</a>
-          </h3>
- <span class="tenure">2015-01 — Present</span>
-
-                    <p>Chromecast Receiver for the mobile applications of Movistar TV, which
-                        handles to play Live TV and VOD on Chromecast. Developed in Angular JS.
-                        Also installed and configured all the continuous integration environment
-                        with Jenkins and Sonar, and made the Grunt.js tasks to automate everything,
-                        from linting or testing to opening pull requests automagically integrating
-                        Crowdin with new translations from the OBs.</p> <span class="keywords">JavaScript AngularJS Jasmine HTML5 CSS3 Google Cast SDK AJAX Jenkins Sonar Grunt.js Docker video </span> 
-                </div>
-                <div>
-                     <h3><em>Main developer</em>,
-          <a href="http://www.o2.co.uk/business/products-and-services/business-apps/mcafee-multi-access">CSB - Cloud Service Broker</a>
-          </h3>
- <span class="tenure">2014-01 — 2014-11</span>
-
-                    <p>CSB is a panel to manage users, assign resources or services, handle your
-                        account as a user... It uses Parallels (POA and PBA). Development of an
-                        APS 1.2 to integrate McAfee Multi Access in CSB, front-end (in Dojo Toolkit)
-                        and back-end (in Node.js), for O2 (UK and GER) and VIVO (Brazil). Also
-                        made all the ci environment.</p> <span class="keywords">JavaScript HTML CSS Node.js Mocha Sinon Chai AJAX APS 1.2 POA PBA Scrum JIRA Git Github Unix Jenkins Grunt.js </span> 
-                </div>
-                <div>
-                     <h3><em>Developer</em>,
-          FeedApp
-          </h3>
- <span class="tenure">2013-07 — 2014-02</span>
-
-                    <p>Web application made with the magic of Meteor.js and Lungo.js, connected
-                        to our internal LDAP server to handle logins. After finishing it, we ported
-                        all the Lungo.js part to Firefox building blocks as some of the members
-                        of the team were members of Firefox OS and wanted to use it in their devices.
-                        This app allows to send feedback to people personally or anonymously about
-                        projects, behaviour...</p> <span class="keywords">HTML5 CSS3 JavaScript Lungo.js Meteor.js Git Github LDAP </span> 
-                </div>
-                <div>
-                     <h3><em>Developer</em>,
-          <a href="http://www.movistar.com">Movistar TV - DTH Hybrid</a>
-          </h3>
- <span class="tenure">2012-12 — 2013-12</span>
-
-                    <p>Development of the UI of a set-top box (STB) with satellital and internet
-                        connection for TVApps and VOD, using SVG and JavaScript to communicate
-                        with the middleware. Also I&#39;ve installed and configured all the continuous
-                        integration environment with Jenkins and Sonar, and made the Grunt.js tasks
-                        to automate everything, from linting or testing to opening pull requests
-                        automagically integrating Crowdin with new translations from the OBs.</p>
-                    <span
-                    class="keywords">JavaScript jQuery jasmine AJAX SVG Unix Jenkins Sonar Scrum JIRA SVN Git
-                        Github video opentv dth cable vod pvr stb</span>
-                </div>
-                <div>
-                     <h3><em>Developer</em>,
-          <a href="http://www.telepizza.es">Telepizza - Mobile app development</a>
-          </h3>
- <span class="tenure">2012-09 — 2012-12</span>
-
-                    <p>Development of the Smartphone/Tablet application, with our own javascript
-                        framework to load all sections dynamically in a single page application.</p>
-                    <span
-                    class="keywords">C# ASP.NET MVC 4 HTML5 CSS3 JavaScript Zepto.js jQuery AJAX TFS</span>
-                </div>
-                <div>
-                     <h3><em>Developer</em>,
-          <a href="http://tecnologia.elpais.com/tecnologia/2012/01/11/actualidad/1326276065_850215.html">BBVA - Google App Engine (GAE) Team</a>
-          </h3>
- <span class="tenure">2012-06 — 2012-09</span>
-
-                    <p>Development of services and apps for BBVA using Google App Engine (GAE).
-                        After the development of several REST services, I created some documentation
-                        webs for internal projects using Google Sites and developing gadgets in
-                        Google Apps Script.</p> <span class="keywords">Java Google App Engine REST JavaScript JSON Google Sites Google Apps Script PSD to HTML5/4 and CSS3/2 </span> 
-                </div>
-                <div>
-                     <h3><em>Main developer</em>,
-          <a href="http://www.heel.es">HEEL - Android application</a>
-          </h3>
- <span class="tenure">2012-02 — 2012-02</span>
-
-                    <p>Development of a tablet application (Android) for a pharmaceutical laboratory.
-                        This app is used to let pharmacists to fill and sign contracts of sale
-                        and purchase, with a pharmacy database. It captures the form as a digital
-                        image and stores the filled form in CVS format to post-process it.</p>
-                    <span
-                    class="keywords">Java Android SDK SQLite</span>
-                </div>
-                <div>
-                     <h3><em>Developer</em>,
-          <a href="http://www.tuyyou.com">TUYYOU - Development of a Social Network</a>
-          </h3>
- <span class="tenure">2011-06 — 2012-06</span>
-
-                    <p>Social network development using ELGG and modifying it&#39;s core. It
-                        was running for several years, being announced in several media around
-                        the country.</p> <span class="keywords">PHP ELGG JavaScript JSON AJAX jQuery MySQL HTML CSS Unix LAMP SVN Photoshop CS5 PSD to HTML/CSS Croww browsing (included IE7 </span> 
-                </div>
-            </section>
-            <hr>
-            <section id="education">
-                <header> <span class="fa fa-lg fa-mortar-board"></span> 
-                     <h2>education</h2>
-
-                </header>
-                <div>
-                     <h3><em>Web development with Node.js</em>, Imagina Formación</h3>
- <span class="tenure">2016-09 — 2016-10</span>
-
-                    <p>Node.js 5.4 course, with express, mongodb, template engines like Jade
-                        or Handlebars, using TDD with mocha, optimization with Grunt.js and deployment
-                        with Heroku.</p>
-                </div>
-                <div>
-                     <h3><em>Responsive Frameworks</em>, Imagina Formación</h3>
- <span class="tenure">2016-02 — 2016-04</span>
-
-                    <p>Responsive Frameworks course using some frameworks like Base, Bootstrap
-                        and Foundation.</p>
-                </div>
-                <div>
-                     <h3><em>Web development with Angular JS</em>, Imagina Formación</h3>
- <span class="tenure">2015-12 — 2016-02</span>
-
-                    <p>Angular JS course.</p>
-                </div>
-                <div>
-                     <h3><em>An Introduction to Interactive Programming in Python</em>, Rice University</h3>
- <span class="tenure">2013-01 — 2013-01</span>
-
-                    <p>A course by Rice University at Coursera, Graded with distinction: <a href="https://www.coursera.org/records/XKhb4VhWeYRPvHnc">https://www.coursera.org/records/XKhb4VhWeYRPvHnc</a>
-                    </p>
-                </div>
-                <div>
-                     <h3><em>Software development for Android devices</em>, Universidad Nacional de Educación a Distancia - UNED</h3>
- <span class="tenure">2011-01 — 2012-01</span>
-
-                    <p>Android development, giving some hints about design and UX.</p>
-                </div>
-                <div>
-                     <h3><em>Dreamweaver CS4</em>, Universidad Complutense de Madrid - UCM</h3>
- <span class="tenure">2010-01 — 2010-01</span>
-
-                    <p>Course certified by UCM about HTML4, CSS2 and Dreamweaver.</p>
-                </div>
-                <div>
-                     <h3><em>Engineering in Computer Science</em>, Universidad Complutense de Madrid - UCM</h3>
- <span class="tenure">2005-10 — 2010-12</span>
-
-                    <p>Studied Engineering in Computer Science until 3rd grade, passed all programming
-                        practices.</p>
-                </div>
-            </section>
-            <hr>
-            <section id="affiliation">
-                <header> <span class="fa fa-lg fa-share-alt"></span> 
-                     <h2>affiliation</h2>
-
-                </header>
-                <div>
-                     <h3><em>Co-Organizer and member</em>,
-              <a href="http://www.meetup.com/es/madridjs/">MadridJS Meetup</a>
-              </h3>
- <span class="tenure">2011-08 — Present</span>
-
-                    <p>Co-Organizer of MadridJS, helping with talks and organization but with
-                        the lack of time, just member since 2015</p>
-                </div>
-                <div>
-                     <h3><em>Member</em>,
-              <a href="http://www.meetup.com/es/HTML5-Spain/">HTML5 Spain Meetup</a>
-              </h3>
- <span class="tenure">2012-02 — Present</span>
-
-                    <p>Member of HTML5 Spain</p>
-                </div>
-                <div>
-                     <h3><em>Member</em>,
-              <a href="http://gejs.jottit.com/">JavaScript study group</a>
-              </h3>
- <span class="tenure">2011-08 — 2011-09</span>
-
-                    <p>Study group formed by several members of the JavaScript community in Madrid
-                        to learn and debate about JavaScript ecosystem.</p>
-                </div>
-            </section>
-            <hr>
-            <section id="speaking">
-                <header> <span class="fa fa-lg fa-users"></span> 
-                     <h2>speaking</h2>
-
-                </header>
-                <div>
-                     <h3><em>Game development in JavaScript</em>, MadridJS Meetup</h3>
- <span class="tenure">2012</span>
-
-                    <p>It was a conference <a href="http://twitter.com/etnassoft">Carlos</a> and
-                        I did about Game Development in JavaScript. It was in CAMON, with around
-                        90 attendees. Here is the <a href="https://vimeo.com/39259983">video</a>,
-                        <a
-                        href="http://www.serginator.com/juegos-en-js/#/home">slides</a>and <a href="http://lanyrd.com/2012/madridjs/sdqxgc/">info about the session</a>.</p>
-                </div>
-                <div>
-                     <h3><em>Workshop: Game programming in JavaScript</em>, GameMe5</h3>
- <span class="tenure">2013</span>
-
-                    <p>Advanced workshop on how to develop a game without libraries, plain JavaScript,
-                        for the <a href="http://html5-spain.com/html5-spain/GameMe5/index.html">GameMe5 event</a>.
-                        In this workshop we showed and explained in four hours, step by step, a
-                        shootem up demo. The game can be played <a href="http://serginator.github.io/workshopGameMe5/">here</a> and
-                        the repo with more info can be watched <a href="https://github.com/serginator/workshopGameMe5">here</a>.</p>
-                </div>
-            </section>
-        </main>
+            </div>
+        </div>
+        <!-- JQUERY -->
+        <script src="//code.jquery.com/jquery-2.1.1.min.js"></script>
+        <!-- BOOTSTRAP -->
+        <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
     </body>
 
 </html>
