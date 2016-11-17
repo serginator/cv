@@ -16,7 +16,7 @@ Web: http://www.serginator.com
 
 ## EMPLOYMENT
 
-### *Analyst Programmer*, [AURIGAE](http://www.aurigae.com/) (2012-12 — Present)
+### *Programmer Analyst*, [AURIGAE](http://www.aurigae.com/) (2012-12 — Present)
 
 Software Developer at Telefónica I+D. I've worked mainly focused in full-stack javascript, continuous integration and evangelist of best practices, most of the time at video area.
 
