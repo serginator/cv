@@ -12,7 +12,8 @@
     "test": "hackmyresume VALIDATE resume.json",
     "analyze": "hackmyresume ANALYZE resume.json",
     "jsonresume-publish": "cd out/jsonresume && node ../../node_modules/resume-cli/index.js publish -t $(awk -F \"=\" '/html-theme/ {print $2}' ../../config | sed 's/node_modules\\/jsonresume-theme-//' $1)",
-    "deploy": "gh-pages -d dist -m 'Pushed gh-pages' && npm run jsonresume-publish"
+    "deploy": "gh-pages -d dist -m 'Pushed gh-pages' && npm run jsonresume-publish",
+    "full": "npm start && npm run generate-html && npm run deploy"
   },
   "repository": {
     "type": "git",

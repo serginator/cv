@@ -39,6 +39,9 @@ The file has the following structure:
 ## init repo
 `npm install`
 
+## generate all, then generate html to use other template and deploy to ghpages and jsonformat.org
+`npm run full`
+
 ## generate all formats
 `npm start`
 To generate all resumes. It uses theme configured in `config` file.
