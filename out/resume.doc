@@ -567,7 +567,7 @@
               <w:caps/>
               <w:color w:val="989898"/>
             </w:rPr>
-            <w:t>Web</w:t>
+            <w:t>Web Development</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -582,7 +582,7 @@
               <w:caps/>
               <w:spacing w:val="22"/>
             </w:rPr>
-            <w:t>HTML5  CSS3  JavaScript  REST  AJAX</w:t>
+            <w:t>HTML5  CSS3  LESS  JavaScript  REST  AJAX  Grunt.js</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -731,6 +731,80 @@
               <w:spacing w:val="22"/>
             </w:rPr>
             <w:t>Git  Github  SVN  TFS</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:pPr>
+            <w:jc w:val="right"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:caps/>
+              <w:color w:val="989898"/>
+            </w:rPr>
+            <w:t>Security</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:rPr>
+              <w:caps/>
+              <w:spacing w:val="22"/>
+            </w:rPr>
+            <w:t>nMap  netcat  Wireshark  ettercap  MSF  Nessus  OpenVAS  aircrack-ng  Nikto  </w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:pPr>
+            <w:jc w:val="right"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:caps/>
+              <w:color w:val="989898"/>
+            </w:rPr>
+            <w:t>Design</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:rPr>
+              <w:caps/>
+              <w:spacing w:val="22"/>
+            </w:rPr>
+            <w:t>Photoshop  Zbrush  Softimage|XSI  Terragen  Gimp 2  Inkscape</w:t>
           </w:r>
         </w:p>
       </w:tc>

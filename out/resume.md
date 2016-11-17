@@ -8,11 +8,13 @@ Web: http://www.serginator.com
 
 ## SKILLS
 
-  - Web: HTML5 CSS3 JavaScript REST AJAX 
+  - Web Development: HTML5 CSS3 LESS JavaScript REST AJAX Grunt.js 
   - JavaScript: jQuery AngularJS Node.js Zepto.js Underscore 
   - CI: Jenkins Sonar Grunt.js Unix Docker 
   - Databases: MySQL SQLite NoSQL MongoDB 
   - SCM: Git Github SVN TFS 
+  - Security: nMap netcat Wireshark ettercap MSF Nessus OpenVAS aircrack-ng Nikto  
+  - Design: Photoshop Zbrush Softimage|XSI Terragen Gimp 2 Inkscape 
 
 ## EMPLOYMENT
 

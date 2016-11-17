@@ -13,7 +13,7 @@ SECTIONS (10)
           projects:     11
          education:      7
            service:      -
-            skills:      5
+            skills:      7
            writing:      -
           speaking:      2
            reading:      -
@@ -30,13 +30,15 @@ COVERAGE (100.0%)
               Gaps:         []
           Overlaps:         []
 
-KEYWORDS (23)
+KEYWORDS (40)
 
              HTML5:     14 mentions
               CSS3:     11 mentions
+              LESS:      4 mentions
         JavaScript:     38 mentions
               REST:      6 mentions
               AJAX:     12 mentions
+          Grunt.js:     11 mentions
             jQuery:      8 mentions
          AngularJS:      6 mentions
            Node.js:      7 mentions
@@ -44,7 +46,6 @@ KEYWORDS (23)
         Underscore:      2 mentions
            Jenkins:     11 mentions
              Sonar:      9 mentions
-          Grunt.js:     10 mentions
               Unix:      8 mentions
             Docker:      4 mentions
              MySQL:      4 mentions
@@ -55,6 +56,22 @@ KEYWORDS (23)
             Github:     10 mentions
                SVN:      6 mentions
                TFS:      3 mentions
+              nMap:      1 mention
+            netcat:      1 mention
+         Wireshark:      1 mention
+          ettercap:      1 mention
+               MSF:      1 mention
+            Nessus:      1 mention
+           OpenVAS:      1 mention
+       aircrack-ng:      1 mention
+             Nikto:      1 mention
+                  :    172 mentions
+         Photoshop:      2 mentions
+            Zbrush:      1 mention
+     Softimage|XSI:      1 mention
+          Terragen:      1 mention
+            Gimp 2:      1 mention
+          Inkscape:      1 mention
     -------------------------------
-       23 KEYWORDS     190 mentions
+       40 KEYWORDS     383 mentions
 

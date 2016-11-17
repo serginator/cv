@@ -231,9 +231,9 @@
   "skills": {
     "sets": [
       {
-        "name": "Web",
+        "name": "Web Development",
         "level": "Advanced",
-        "skills": ["HTML5", "CSS3", "JavaScript", "REST", "AJAX"]
+        "skills": ["HTML5", "CSS3", "LESS", "JavaScript", "REST", "AJAX", "Grunt.js"]
       },
       {
         "name": "JavaScript",
@@ -254,6 +254,16 @@
         "name": "SCM",
         "level": "Advanced",
         "skills": ["Git", "Github", "SVN", "TFS"]
+      },
+      {
+        "name": "Security",
+        "level": "Intermediate",
+        "skills": ["nMap", "netcat", "Wireshark", "ettercap", "MSF", "Nessus", "OpenVAS", "aircrack-ng", "Nikto", ""]
+      },
+      {
+        "name": "Design",
+        "level": "Intermediate",
+        "skills": ["Photoshop", "Zbrush", "Softimage|XSI", "Terragen", "Gimp 2", "Inkscape"]
       }
     ],
     "list": [
@@ -264,6 +274,10 @@
       {
         "name": "CSS3",
         "level": "Advanced"
+      },
+      {
+        "name": "LESS",
+        "level": "Intermediate"
       },
       {
         "name": "JavaScript",

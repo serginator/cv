@@ -113,14 +113,16 @@
   ],
   "skills": [
     {
-      "name": "Web",
+      "name": "Web Development",
       "level": "Advanced",
       "keywords": [
         "HTML5",
         "CSS3",
+        "LESS",
         "JavaScript",
         "REST",
-        "AJAX"
+        "AJAX",
+        "Grunt.js"
       ]
     },
     {
@@ -163,6 +165,34 @@
         "Github",
         "SVN",
         "TFS"
+      ]
+    },
+    {
+      "name": "Security",
+      "level": "Intermediate",
+      "keywords": [
+        "nMap",
+        "netcat",
+        "Wireshark",
+        "ettercap",
+        "MSF",
+        "Nessus",
+        "OpenVAS",
+        "aircrack-ng",
+        "Nikto",
+        ""
+      ]
+    },
+    {
+      "name": "Design",
+      "level": "Intermediate",
+      "keywords": [
+        "Photoshop",
+        "Zbrush",
+        "Softimage|XSI",
+        "Terragen",
+        "Gimp 2",
+        "Inkscape"
       ]
     }
   ],
