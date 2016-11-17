@@ -1,5 +1,5 @@
 
-> cv@1.0.0 analyze /Users/serginator/projects/mine/cv
+> cv@1.0.0 analyze /home/serginator/projects/mine/cv
 > hackmyresume ANALYZE resume.json
 
 
@@ -25,8 +25,8 @@ SECTIONS (10)
 
 COVERAGE (99.9%)
 
-        Total Days:   1967
-          Employed:   1965
+        Total Days:   1973
+          Employed:   1971
               Gaps:      2  [1 1]
           Overlaps:         []
 

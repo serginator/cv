@@ -1593,6 +1593,19 @@
         <w:t>2016 — 2016</w:t>
       </w:r>
     </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r wsp:rsidRPr="000A3AF0">
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+        <w:t>Computer Science, Course</w:t>
+      </w:r>
+    </w:p>
 
 
   </wx:sub-section>
@@ -1622,6 +1635,19 @@
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
         <w:t>2016 — 2016</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r wsp:rsidRPr="000A3AF0">
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+        <w:t>Computer Science, Course</w:t>
       </w:r>
     </w:p>
 
@@ -1655,6 +1681,19 @@
         <w:t>2015 — 2016</w:t>
       </w:r>
     </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r wsp:rsidRPr="000A3AF0">
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+        <w:t>Computer Science, Course</w:t>
+      </w:r>
+    </w:p>
 
 
   </wx:sub-section>
@@ -1686,6 +1725,19 @@
         <w:t>2013 — 2013</w:t>
       </w:r>
     </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r wsp:rsidRPr="000A3AF0">
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+        <w:t>Computer Science, Course</w:t>
+      </w:r>
+    </w:p>
 
 
   </wx:sub-section>
@@ -1699,7 +1751,7 @@
           <w:tab w:val="right" w:pos="9360"/>
         </w:tabs>
       </w:pPr>
-      <w:hlink w:dest="https://en.wikipedia.org/wiki/Medfield_College">
+      <w:hlink w:dest="http://www.fundacion.uned.es/publico_calendario/3142">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
           <w:rPr>
             <w:rStyle w:val="Hyperlink"/>
@@ -1715,6 +1767,19 @@
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
         <w:t>2011 — 2012</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r wsp:rsidRPr="000A3AF0">
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+        <w:t>Computer Science, Course</w:t>
       </w:r>
     </w:p>
 
@@ -1748,6 +1813,19 @@
         <w:t>2010 — 2010</w:t>
       </w:r>
     </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r wsp:rsidRPr="000A3AF0">
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+        <w:t>Computer Science, Course</w:t>
+      </w:r>
+    </w:p>
 
 
   </wx:sub-section>
@@ -1777,6 +1855,19 @@
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
         <w:t>2005 — 2010</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r wsp:rsidRPr="000A3AF0">
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+        <w:t>Computer Science, Engineering</w:t>
       </w:r>
     </w:p>
 
@@ -1980,7 +2071,7 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>music lover</w:t>
+        <w:t>music</w:t>
       </w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">

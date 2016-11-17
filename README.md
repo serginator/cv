@@ -16,7 +16,8 @@ Output files created using [HackMyResume](http://please.hackmyresume.com/)
 - [PNG](out/resume.png)
 - [JSON](out/resume.json)
 - [YML](out/resume.yml)
-- [JSON Resume](out/resume-jrs.json)
+- [JSON Resume](out/jsonresume/resume.json)
+- [registry.jsonresume.org/serginator](https://registry.jsonresume.org/serginator)
 
 # DEV
 
@@ -41,3 +42,5 @@ The current stats are [here](resume-analyzed)
 ## deploy to gh-pages
 `npm run deploy`
 
+## deploy jsonresume format to jsonresume.org
+`npm run jsonresume-publish`

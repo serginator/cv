@@ -2,6 +2,7 @@
   "basics": {
     "name": "Sergio Ruiz",
     "label": "FullStack JavaScript Developer",
+    "class": "Programmer",
     "summary": "**FullStack JavaScript developer with 5+ years industry experience, since the age of 6 with computers and since the age of 12 dealing with code**, with strong skills in code quality, performance and continuous integration. Capacity to learn new languages and adaptability to new environments in no time thanks to his overall knowledge of languages and operative systems.",
     "website": "http://www.serginator.com",
     "email": "serginator@gmail.com",
@@ -70,7 +71,9 @@
         "deployment"
       ],
       "startDate": "2016-09",
-      "endDate": "2016-10"
+      "endDate": "2016-10",
+      "area": "Computer Science",
+      "studyType": "Course"
     },
     {
       "institution": "Imagina Formación",
@@ -85,7 +88,9 @@
         "foundation"
       ],
       "startDate": "2016-02",
-      "endDate": "2016-04"
+      "endDate": "2016-04",
+      "area": "Computer Science",
+      "studyType": "Course"
     },
     {
       "institution": "Imagina Formación",
@@ -98,7 +103,9 @@
         "animations"
       ],
       "startDate": "2015-12",
-      "endDate": "2016-02"
+      "endDate": "2016-02",
+      "area": "Computer Science",
+      "studyType": "Course"
     },
     {
       "institution": "Rice University",
@@ -108,7 +115,9 @@
         "python"
       ],
       "startDate": "2013",
-      "endDate": "2013"
+      "endDate": "2013",
+      "area": "Computer Science",
+      "studyType": "Course"
     },
     {
       "institution": "Universidad Nacional de Educación a Distancia - UNED",
@@ -120,17 +129,23 @@
         "Design"
       ],
       "startDate": "2011",
-      "endDate": "2012"
+      "endDate": "2012",
+      "area": "Computer Science",
+      "studyType": "Course"
     },
     {
       "institution": "Universidad Complutense de Madrid - UCM",
       "startDate": "2010",
-      "endDate": "2010"
+      "endDate": "2010",
+      "area": "Computer Science",
+      "studyType": "Course"
     },
     {
       "institution": "Universidad Complutense de Madrid - UCM",
       "startDate": "2005-10",
-      "endDate": "2010-12"
+      "endDate": "2010-12",
+      "area": "Computer Science",
+      "studyType": "Engineering"
     }
   ],
   "skills": [
@@ -206,7 +221,7 @@
       "summary": "I love to play video games, PC, consoles, handhelds... And make them!"
     },
     {
-      "name": "music lover",
+      "name": "music",
       "summary": "I think life without music has no meaning, so I try to listen music every time I can. Rock, blues, jazz, hard rock, heavy metal, classical music..."
     },
     {

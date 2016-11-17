@@ -110,7 +110,7 @@ Angular JS course
 A course by Rice University at Coursera, Graded with distinction: https://www.coursera.org/records/XKhb4VhWeYRPvHnc
 
 
-### [Universidad Nacional de Educación a Distancia - UNED](https://en.wikipedia.org/wiki/Medfield_College) (2011-01 — 2012-01)
+### [Universidad Nacional de Educación a Distancia - UNED](http://www.fundacion.uned.es/publico_calendario/3142) (2011-01 — 2012-01)
 
 Android development
 
@@ -172,7 +172,7 @@ I like movies and tv shows. Action, Sci-Fi, Fantastic, Horror...
 - VIDEO GAMES
 I love to play video games, PC, consoles, handhelds... And make them!
 
-- MUSIC LOVER
+- MUSIC
 I think life without music has no meaning, so I try to listen music every time I can. Rock, blues, jazz, hard rock, heavy metal, classical music...
 
 - GUITAR PLAYING

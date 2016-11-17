@@ -8,12 +8,14 @@
 
   "info": {
     "label": "FullStack JavaScript Developer",
-    "characterClass": "Programmer",
+    "class": "Programmer",
     "brief": "**FullStack JavaScript developer with 5+ years industry experience, since the age of 6 with computers and since the age of 12 dealing with code**, with strong skills in code quality, performance and continuous integration. Capacity to learn new languages and adaptability to new environments in no time thanks to his overall knowledge of languages and operative systems."
   },
 
   "disposition": {
     "travel": 10,
+    "authorization": "citizen",
+    "commitment": ["permanent"],
     "remote": true,
     "relocation": {
       "willing": "At the moment I just can work from Spain",
@@ -27,7 +29,7 @@
     "other": [
       {
         "label": "Work Email",
-        "flavor": "email",
+        "category": "email",
         "value": "sergio.ruiz@aurigae.com"
       }
     ]
@@ -69,6 +71,7 @@
         "position": "Analyst Programmer",
         "summary": "Software Developer at Telefónica I+D. I've worked mainly focused in full-stack javascript, continuous integration and evangelist of best practices, most of the time at video area.",
         "start": "2012-12-10",
+        "location": "Madrid",
         "keywords": ["HTML5","CSS3","JavaScript","Unix","AngularJS","Mocha","Sinon","Chai","LESS","Git","Github","Scrum","JIRA","Jenkins","Grunt.js","Jasmine","Google Cast SDK","SVN","jQuery","SVG","Sonar","AJAX","Node.js","APS","POA","PBA","Clean Code", "video", "opentv", "dth", "cable", "vod", "pvr", "stb"]
       },
       {
@@ -78,6 +81,7 @@
         "summary": "Programmer at System Integration, I've been developing a social network, Android apps, rest services at BBVA GAE project, sites with Google Sites for internal documentation at BBVA and Telepizza's mobile app.",
         "start": "2012-01-01",
         "end": "2012-12-09",
+        "location": "Madrid",
         "keywords": ["HTML","HTML5","CSS","CSS3","JavaScript","PHP","ELGG","Android","GAE","Java","Google Sites","C#","ASP.NET MVC 4","Zepto.js","jQuery","AJAX","JSON","REST","Apache","nginx"]
       },
       {
@@ -87,6 +91,7 @@
         "summary": "Junior Programmer at System Integration developing a social network.",
         "start": "2011-06-24",
         "end": "2011-12-31",
+        "location": "Madrid",
         "keywords": ["HTML","CSS","JavaScript","AJAX","PHP","ELGG","MySQL","Unix"]
       }
     ]
@@ -109,6 +114,7 @@
       "role": "developer",
       "url": "http://www.movistar.com",
       "start": "2015-01",
+      "location": "Madrid",
       "description": "A set-top box (STB) with satellital and internet connection for TVApps and VOD",
       "summary": "Development of the UI of a set-top box (STB) with satellital and internet connection for TVApps and VOD, using SVG and JavaScript to communicate with the middleware. Also I've installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.",
       "keywords": ["JavaScript", "jQuery", "jasmine", "AJAX", "SVG", "Unix", "Jenkins", "Sonar", "Docker", "Scrum", "JIRA", "SVN", "Git", "Github", "video", "opentv", "dth", "cable", "vod", "pvr", "stb"]
@@ -120,6 +126,7 @@
       "url": "http://www.movistar.com",
       "start": "2015-02",
       "end": "2015-03",
+      "location": "Madrid",
       "description": "Movistar TV web application, which allows to watch Live TV and VOD content, and handle your subscriptions, view the EPG and more.",
       "summary": "Movistar TV web application, which allows to watch Live TV and VOD content, and handle your subscriptions, view the EPG and more. Joined the team for one month to speed development of new features.",
       "keywords": ["JavaScript", "AngularJS", "Mocha", "Sinon", "Chai", "HTML5", "CSS3", "LESS", "AJAX", "Git", "Github", "Scrum", "JIRA", "Jenkins", "Grunt.js", "video", "vod", "pvr"]
@@ -130,6 +137,7 @@
       "role": "main developer",
       "url": "http://www.movistar.com",
       "start": "2015-01",
+      "location": "Madrid",
       "description": "Chromecast Receiver for the mobile applications of Movistar TV, which handles to play Live TV and VOD on Chromecast.",
       "summary": "Chromecast Receiver for the mobile applications of Movistar TV, which handles to play Live TV and VOD on Chromecast. Developed in Angular JS. Also installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.",
       "keywords": ["JavaScript", "AngularJS", "Jasmine", "HTML5", "CSS3", "Google Cast SDK", "AJAX", "Jenkins", "Sonar", "Grunt.js", "Docker", "video"]
@@ -141,6 +149,7 @@
       "url": "http://www.o2.co.uk/business/products-and-services/business-apps/mcafee-multi-access",
       "start": "2014-01",
       "end": "2014-11",
+      "location": "Madrid",
       "description": "CSB is a panel to manage users, assign resources or services, handle your account as a user... It uses Parallels (POA and PBA).",
       "summary": "CSB is a panel to manage users, assign resources or services, handle your account as a user... It uses Parallels (POA and PBA). Development of an APS 1.2 to integrate McAfee Multi Access in CSB, front-end (in Dojo Toolkit) and back-end (in Node.js), for O2 (UK and GER) and VIVO (Brazil). Also made all the ci environment.",
       "keywords": ["JavaScript", "HTML", "CSS", "Node.js", "Mocha", "Sinon", "Chai", "AJAX", "APS 1.2", "POA", "PBA", "Scrum", "JIRA", "Git", "Github", "Unix", "Jenkins", "Grunt.js"]
@@ -151,6 +160,7 @@
       "role": "developer",
       "start": "2013-07",
       "end": "2014-02",
+      "location": "Madrid",
       "description": "Web application connected to internal LDAP server which allows to send feedback to people personally or anonymously about projects, behaviour...",
       "summary": "Web application made with the magic of Meteor.js and Lungo.js, connected to our internal LDAP server to handle logins. After finishing it, we ported all the Lungo.js part to Firefox building blocks as some of the members of the team were members of Firefox OS and wanted to use it in their devices. This app allows to send feedback to people personally or anonymously about projects, behaviour...",
       "keywords": ["HTML5", "CSS3", "JavaScript", "Lungo.js", "Meteor.js", "Git", "Github", "LDAP"]
@@ -162,6 +172,7 @@
       "url": "http://www.movistar.com",
       "start": "2012-12",
       "end": "2013-12",
+      "location": "Madrid",
       "description": "A set-top box (STB) with satellital and internet connection for TVApps and VOD",
       "summary": "Development of the UI of a set-top box (STB) with satellital and internet connection for TVApps and VOD, using SVG and JavaScript to communicate with the middleware. Also I've installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.",
       "keywords": ["JavaScript", "jQuery", "jasmine", "AJAX", "SVG", "Unix", "Jenkins", "Sonar", "Scrum", "JIRA", "SVN", "Git", "Github", "video", "opentv", "dth", "cable", "vod", "pvr", "stb"]
@@ -173,6 +184,7 @@
       "url": "http://www.telepizza.es",
       "start": "2012-09",
       "end": "2012-12",
+      "location": "Madrid",
       "description": "Web application which ended being wrapped in phonegap to be the mobile application for Telepizza.",
       "summary": "Development of the Smartphone/Tablet application, with our own javascript framework to load all sections dynamically in a single page application.",
       "keywords": ["C#", "ASP.NET MVC 4", "HTML5", "CSS3", "JavaScript", "Zepto.js", "jQuery", "AJAX", "TFS"]
@@ -184,6 +196,7 @@
       "url": "http://tecnologia.elpais.com/tecnologia/2012/01/11/actualidad/1326276065_850215.html",
       "start": "2012-06",
       "end": "2012-09",
+      "location": "Madrid",
       "description": "Use of Google Apps inside the company to handle users, data, documents...",
       "summary": "Development of services and apps for BBVA using Google App Engine (GAE). After the development of several REST services, I created some documentation webs for internal projects using Google Sites and developing gadgets in Google Apps Script.",
       "keywords": ["Java", "Google App Engine", "REST", "JavaScript", "JSON", "Google Sites", "Google Apps Script", "PSD to HTML5/4 and CSS3/2"]
@@ -195,6 +208,7 @@
       "url": "http://www.heel.es",
       "start": "2012-02",
       "end": "2012-02",
+      "location": "Madrid",
       "description": "A Tablet application in Android for a pharmaceutical laboratory.",
       "summary": "Development of a tablet application (Android) for a pharmaceutical laboratory. This app is used to let pharmacists to fill and sign contracts of sale and purchase, with a pharmacy database. It captures the form as a digital image and stores the filled form in CVS format to post-process it.",
       "keywords": ["Java", "Android SDK", "SQLite"]
@@ -206,6 +220,7 @@
       "url": "http://www.tuyyou.com",
       "start": "2011-06",
       "end": "2012-06",
+      "location": "Madrid",
       "description": "Social network which pretends to join a buying platform with a professional network, offering the possibility to earn money from your referrals.",
       "summary": "Social network development using ELGG and modifying it's core. It was running for several years, being announced in several media around the country.",
       "keywords": ["PHP", "ELGG", "JavaScript", "JSON", "AJAX", "jQuery", "MySQL", "HTML", "CSS", "Unix", "LAMP", "SVN", "Photoshop CS5", "PSD to HTML/CSS", "Croww browsing (included IE7"]
@@ -344,6 +359,8 @@
         "institution": "Imagina Formación",
         "title": "Web development with Node.js",
         "url": "http://www.imaginaformacion.com",
+        "area": "Computer Science",
+        "studyType": "Course",
         "start": "2016-09",
         "end": "2016-10",
         "grade": "100%",
@@ -354,6 +371,8 @@
         "institution": "Imagina Formación",
         "title": "Responsive Frameworks",
         "url": "http://www.imaginaformacion.com",
+        "area": "Computer Science",
+        "studyType": "Course",
         "start": "2016-02",
         "end": "2016-04",
         "grade": "100%",
@@ -364,6 +383,8 @@
         "institution": "Imagina Formación",
         "title": "Web development with Angular JS",
         "url": "http://www.imaginaformacion.com",
+        "area": "Computer Science",
+        "studyType": "Course",
         "start": "2015-12",
         "end": "2016-02",
         "grade": "100%",
@@ -374,6 +395,8 @@
         "institution": "Rice University",
         "title": "An Introduction to Interactive Programming in Python",
         "url": "https://www.coursera.org",
+        "area": "Computer Science",
+        "studyType": "Course",
         "start": "2013",
         "end": "2013",
         "grade": "99.2%",
@@ -383,7 +406,9 @@
       {
         "institution": "Universidad Nacional de Educación a Distancia - UNED",
         "title": "Software development for Android devices",
-        "url": "https://en.wikipedia.org/wiki/Medfield_College",
+        "url": "http://www.fundacion.uned.es/publico_calendario/3142",
+        "area": "Computer Science",
+        "studyType": "Course",
         "start": "2011",
         "end": "2012",
         "grade": "10",
@@ -394,6 +419,8 @@
         "institution": "Universidad Complutense de Madrid - UCM",
         "title": "Dreamweaver CS4",
         "url": "https://www.ucm.es",
+        "area": "Computer Science",
+        "studyType": "Course",
         "start": "2010",
         "end": "2010",
         "summary": "Course certified by UCM about HTML4, CSS2 and Dreamweaver."
@@ -402,6 +429,8 @@
         "institution": "Universidad Complutense de Madrid - UCM",
         "title": "Engineering in Computer Science",
         "url": "https://www.ucm.es",
+        "area": "Computer Science",
+        "studyType": "Engineering",
         "start": "2005-10",
         "end": "2010-12",
         "summary": "Studied Engineering in Computer Science until 3rd grade, passed all programming labs."
@@ -499,13 +528,6 @@
       "end": "2013-07-06"
     },
     {
-      "title": "SmashingConf Barcelona 2015",
-      "activity": "Event plenty of conferences about JavaScript, CSS and Design. More info [here](http://lanyrd.com/2015/smashingconf-barcelona/) and [here](http://smashingconf.com/barcelona-2015/).",
-      "location": "Barcelona",
-      "start": "2015-10-20",
-      "end": "2015-10-21"
-    },
-    {
       "title": "XP Week 2013",
       "activity": "Workshops about XP, TDD, Clean Code, CI, Grunt... I made some [slides](http://www.serginator.com/xpweek/) to talk what I've learnt to my colleages at Telefonica I+D.",
       "location": "Madrid",
@@ -525,6 +547,13 @@
       "location": "Madrid",
       "start": "2015-05-19",
       "end": "2015-05-20"
+    },
+    {
+      "title": "SmashingConf Barcelona 2015",
+      "activity": "Event plenty of conferences about JavaScript, CSS and Design. More info [here](http://lanyrd.com/2015/smashingconf-barcelona/) and [here](http://smashingconf.com/barcelona-2015/).",
+      "location": "Barcelona",
+      "start": "2015-10-20",
+      "end": "2015-10-21"
     },
     {
       "title": "JSDayES 2016",
@@ -553,7 +582,7 @@
       "summary": "I love to play video games, PC, consoles, handhelds... And make them!"
     },
     {
-      "name": "music lover",
+      "name": "music",
       "summary": "I think life without music has no meaning, so I try to listen music every time I can. Rock, blues, jazz, hard rock, heavy metal, classical music..."
     },
     {
