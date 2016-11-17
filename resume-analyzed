@@ -30,7 +30,7 @@ COVERAGE (100.0%)
               Gaps:         []
           Overlaps:         []
 
-KEYWORDS (40)
+KEYWORDS (39)
 
              HTML5:     14 mentions
               CSS3:     11 mentions
@@ -65,7 +65,6 @@ KEYWORDS (40)
            OpenVAS:      1 mention
        aircrack-ng:      1 mention
              Nikto:      1 mention
-                  :    172 mentions
          Photoshop:      2 mentions
             Zbrush:      1 mention
      Softimage|XSI:      1 mention
@@ -73,5 +72,5 @@ KEYWORDS (40)
             Gimp 2:      1 mention
           Inkscape:      1 mention
     -------------------------------
-       40 KEYWORDS     383 mentions
+       39 KEYWORDS     211 mentions
 

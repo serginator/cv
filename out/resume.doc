@@ -767,7 +767,7 @@
               <w:caps/>
               <w:spacing w:val="22"/>
             </w:rPr>
-            <w:t>nMap  netcat  Wireshark  ettercap  MSF  Nessus  OpenVAS  aircrack-ng  Nikto  </w:t>
+            <w:t>nMap  netcat  Wireshark  ettercap  MSF  Nessus  OpenVAS  aircrack-ng  Nikto</w:t>
           </w:r>
         </w:p>
       </w:tc>

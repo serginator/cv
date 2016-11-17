@@ -258,7 +258,7 @@
       {
         "name": "Security",
         "level": "Intermediate",
-        "skills": ["nMap", "netcat", "Wireshark", "ettercap", "MSF", "Nessus", "OpenVAS", "aircrack-ng", "Nikto", ""]
+        "skills": ["nMap", "netcat", "Wireshark", "ettercap", "MSF", "Nessus", "OpenVAS", "aircrack-ng", "Nikto"]
       },
       {
         "name": "Design",

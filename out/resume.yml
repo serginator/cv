@@ -447,7 +447,6 @@ skills:
         - OpenVAS
         - aircrack-ng
         - Nikto
-        - ""
     -
       name: Design
       level: Intermediate

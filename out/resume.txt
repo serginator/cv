@@ -13,7 +13,7 @@ SKILLS -------------------------------------------------------------------------
 - CI: Jenkins Sonar Grunt.js Unix Docker 
 - Databases: MySQL SQLite NoSQL MongoDB 
 - SCM: Git Github SVN TFS 
-- Security: nMap netcat Wireshark ettercap MSF Nessus OpenVAS aircrack-ng Nikto  
+- Security: nMap netcat Wireshark ettercap MSF Nessus OpenVAS aircrack-ng Nikto 
 - Design: Photoshop Zbrush Softimage|XSI Terragen Gimp 2 Inkscape 
 
 EMPLOYMENT ---------------------------------------------------------------------
