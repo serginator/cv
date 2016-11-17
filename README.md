@@ -41,6 +41,7 @@ The file has the following structure:
 
 ## generate all formats
 `npm start`
+To generate all resumes. It uses theme configured in `config` file.
 To be able to create pdf you have to install [wkhtmltopdf](http://wkhtmltopdf.org/)
 
 ## generate just html
@@ -50,6 +51,7 @@ To generate just resume.html file in order to use another theme configured in `c
 ## generate just pdf
 `npm run generate-pdf`
 To generate just resume.pdf file in order to use another theme configured in `config` file.
+To be able to create pdf you have to install [wkhtmltopdf](http://wkhtmltopdf.org/)
 
 ## convert to JSON Resume
 `npm run to-jrs`
@@ -65,5 +67,5 @@ The current stats are [here](resume-analyzed)
 ## deploy to gh-pages
 `npm run deploy`
 
-## deploy jsonresume format to jsonresume.org
+## deploy jsonresume format to jsonresume.org using `html-theme` in `config` file
 `npm run jsonresume-publish`
