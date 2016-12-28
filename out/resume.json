@@ -58,6 +58,14 @@
   "education": [
     {
       "institution": "Imagina Formación",
+      "gpa": "90%",
+      "startDate": "2016-11",
+      "endDate": "2016-12",
+      "area": "Design and concepualization of videogames",
+      "studyType": "Course"
+    },
+    {
+      "institution": "Imagina Formación",
       "gpa": "100%",
       "startDate": "2016-09",
       "endDate": "2016-10",

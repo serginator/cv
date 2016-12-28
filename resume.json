@@ -372,6 +372,18 @@
     "history": [
       {
         "institution": "Imagina Formación",
+        "title": "Design and concepualization of videogames",
+        "url": "http://www.imaginaformacion.com",
+        "area": "Design and concepualization of videogames",
+        "studyType": "Course",
+        "start": "2016-11",
+        "end": "2016-12",
+        "grade": "90%",
+        "summary": "Course about design and conceptualization of videogames. It was about rewards, personalities, feedback, homo faber vs homo ludens, monetization, casual players vs hardcore players, QA, localization, equilibrium, interactive design...",
+        "keywords": ["games", "videogames", "design"]
+      },
+      {
+        "institution": "Imagina Formación",
         "title": "Web development with Node.js",
         "url": "http://www.imaginaformacion.com",
         "area": "Web development with Node.js",

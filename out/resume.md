@@ -92,6 +92,11 @@ Social network development using ELGG and modifying it's core. It was running fo
 
 ## EDUCATION
 
+### [Imagina Formación](http://www.imaginaformacion.com) (2016-11 — 2016-12)
+
+Course about design and conceptualization of videogames. It was about rewards, personalities, feedback, homo faber vs homo ludens, monetization, casual players vs hardcore players, QA, localization, equilibrium, interactive design...
+
+
 ### [Imagina Formación](http://www.imaginaformacion.com) (2016-09 — 2016-10)
 
 Node.js 5.4 course, with express, mongodb, template engines like Jade or Handlebars, using TDD with mocha, optimization with Grunt.js and deployment with Heroku.
