@@ -1,5 +1,5 @@
 
-> cv@1.0.0 analyze /home/ubuntu/workspace/cv
+> cv@1.0.0 analyze /home/serginator/projects/mine/cv
 > hackmyresume ANALYZE resume.json
 
 
@@ -25,8 +25,8 @@ SECTIONS (10)
 
 COVERAGE (100.0%)
 
-        Total Days:   2048
-          Employed:   2048
+        Total Days:   2079
+          Employed:   2079
               Gaps:         []
           Overlaps:         []
 
