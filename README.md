@@ -39,6 +39,10 @@ The file has the following structure:
 ## init repo
 `npm install`
 
+## jsonresume login
+`npm run login`
+To log in jsonresume and save token so full command will upload cv to jsonresume.org too.
+
 ## generate all, then generate html to use other template and deploy to ghpages and jsonformat.org
 `npm run full`
 
