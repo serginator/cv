@@ -1,7 +1,7 @@
 CV
 ==
 
-[![Build Status](https://travis-ci.org/serginator/cv.svg?branch=master)](https://travis-ci.org/serginator/cv)
+[![Build Status](https://travis-ci.org/serginator/cv.svg?branch=master)](https://travis-ci.org/serginator/cv) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/bd00a22c375847c694805bdf59d96a17)](https://www.codacy.com/app/serginator/cv?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=serginator/cv&amp;utm_campaign=Badge_Grade)
 
 My CV following [FRESH](https://github.com/fresh-standard/FRESCA) standard.
 Output files created using [HackMyResume](http://please.hackmyresume.com/)
