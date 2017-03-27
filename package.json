@@ -35,15 +35,15 @@
   },
   "homepage": "https://serginator.github.io/cv",
   "devDependencies": {
-    "gh-pages": "^0.11.0",
+    "gh-pages": "^0.12.0",
     "hackmyresume": "https://github.com/hacksalot/hackmyresume#dev",
-    "jsonresume-theme-elegant": "^1.6.10",
-    "jsonresume-theme-kendall": "^0.1.13",
+    "jsonresume-theme-elegant": "^1.10.2",
+    "jsonresume-theme-kendall": "^0.1.17",
     "jsonresume-theme-material": "^1.1.2",
     "jsonresume-theme-material-moon": "^0.1.18",
     "jsonresume-theme-moon": "^1.7.22",
     "jsonresume-theme-stackoverflow": "^1.0.4",
     "phantomjs": "^2.1.7",
-    "resume-cli": "^0.4.14"
+    "resume-cli": "^0.4.19"
   }
 }
