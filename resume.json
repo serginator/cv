@@ -110,6 +110,17 @@
       "keywords": ["JavaScript", "HTML5", "CSS3"]
     },
     {
+      "title": "Movistar TV - DTH Hybrid HTML",
+      "category": "commercial",
+      "role": "developer",
+      "url": "http://www.movistar.com",
+      "start": "2017-01",
+      "location": "Madrid",
+      "description": "A set-top box (STB) with satellital and internet connection for TVApps and VOD",
+      "summary": "Development of the UI of a set-top box (STB) with satellital and internet connection for TVApps and VOD, using HTML and JavaScript to communicate with the middleware. Also I've installed and configured all the continuous integration environment with Webpack, Jenkins and Sonar, and made the npm tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.",
+      "keywords": ["JavaScript", "Vue.js", "lodash", "jest", "AJAX", "HTML", "LESS", "Webpack", "npm", "Unix", "Jenkins", "Sonar", "Docker", "Scrum", "JIRA", "Git", "Github", "video", "opentv", "dth", "cable", "vod", "pvr", "stb"]
+    },
+    {
       "title": "Movistar TV - DTH Hybrid",
       "category": "commercial",
       "role": "developer",
@@ -238,12 +249,12 @@
       {
         "name": "JavaScript",
         "level": "Expert",
-        "skills": ["jQuery", "AngularJS", "Node.js", "Zepto.js", "Underscore"]
+        "skills": ["jQuery", "AngularJS", "Vue.js", "ReactJS", "Node.js", "Zepto.js", "Underscore", "lodash"]
       },
       {
         "name": "CI",
         "level": "Advanced",
-        "skills": ["Jenkins", "Sonar", "Grunt.js", "Unix", "Docker"]
+        "skills": ["Jenkins", "Sonar", "Grunt.js", "Webpack", "npm", "Unix", "Docker"]
       },
       {
         "name": "Databases",
@@ -300,6 +311,14 @@
         "level": "Intermediate"
       },
       {
+        "name": "ReactJS",
+        "level": "Intermediate"
+      },
+      {
+        "name": "Vue.js",
+        "level": "Intermediate"
+      },
+      {
         "name": "Node.js",
         "level": "Intermediate"
       },
@@ -312,6 +331,10 @@
         "level": "Intermediate"
       },
       {
+        "name": "lodash",
+        "level": "Intermediate"
+      },
+      {
         "name": "Jenkins",
         "level": "Advanced"
       },
@@ -321,6 +344,14 @@
       },
       {
         "name": "Grunt.js",
+        "level": "Expert"
+      },
+      {
+        "name": "Webpack",
+        "level": "Expert"
+      },
+      {
+        "name": "npm",
         "level": "Expert"
       },
       {
@@ -356,6 +387,10 @@
         "level": "Expert"
       },
       {
+        "name": "Bitbucket",
+        "level": "Expert"
+      },
+      {
         "name": "SVN",
         "level": "Basic"
       },
@@ -370,6 +405,18 @@
     "summary": "Using computers since age of 6, surfing the internet in early 90s and focused on security and programming, I've studied Computer Science at Universidad Complutense de Madrid, but in 3rd year I felt I wasn't learning **as much as I should** to be a **great developer**, so I left it and studied on my own, and **in a short time I was working**. I've completed courses, gave **presentations** and **workshops**, and became an **important asset** at every company I've worked for. I've also been specialized in clean code, code quality, best practices.",
     "level": "some-college",
     "history": [
+      {
+        "institution": "Imagina Formación",
+        "title": "Web Development with React JS",
+        "url": "http://www.imaginaformacion.com",
+        "area": "Web Development with React JS",
+        "studyType": "Course",
+        "start": "2017-05",
+        "end": "2017-06",
+        "grade": "98%",
+        "summary": "React JS course.",
+        "keywords": ["reactjs", "javascript", "html5", "css3", "animations", "foundation", "jest", "git", "heroku", "webpack"]
+      },
       {
         "institution": "Imagina Formación",
         "title": "Design and concepualization of videogames",
@@ -598,6 +645,13 @@
       "location": "Madrid",
       "start": "2017-02-18",
       "end": "2017-02-18"
+    },
+    {
+      "title": "JSDayES 2017",
+      "activity": "Development conference about JavaScript",
+      "location": "Madrid",
+      "start": "2017-05-12",
+      "end": "2017-05-13"
     }
   ],
 

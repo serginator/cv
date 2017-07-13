@@ -10,8 +10,8 @@ Analyzing FRESH resume: resume.json
 SECTIONS (10)
 
         employment:      3
-          projects:     11
-         education:      8
+          projects:     12
+         education:      9
            service:      -
             skills:      7
            writing:      -
@@ -25,35 +25,40 @@ SECTIONS (10)
 
 COVERAGE (100.0%)
 
-        Total Days:   2083
-          Employed:   2083
+        Total Days:   2211
+          Employed:   2211
               Gaps:         []
           Overlaps:         []
 
-KEYWORDS (39)
+KEYWORDS (44)
 
-             HTML5:     14 mentions
-              CSS3:     11 mentions
-              LESS:      4 mentions
-        JavaScript:     38 mentions
+             HTML5:     15 mentions
+              CSS3:     12 mentions
+              LESS:      5 mentions
+        JavaScript:     42 mentions
               REST:      6 mentions
-              AJAX:     12 mentions
+              AJAX:     13 mentions
           Grunt.js:     11 mentions
             jQuery:      8 mentions
          AngularJS:      6 mentions
+            Vue.js:      3 mentions
+           ReactJS:      3 mentions
            Node.js:      7 mentions
           Zepto.js:      4 mentions
         Underscore:      2 mentions
-           Jenkins:     11 mentions
-             Sonar:      9 mentions
-              Unix:      8 mentions
-            Docker:      4 mentions
+            lodash:      3 mentions
+           Jenkins:     13 mentions
+             Sonar:     11 mentions
+           Webpack:      5 mentions
+               npm:      4 mentions
+              Unix:      9 mentions
+            Docker:      5 mentions
              MySQL:      4 mentions
             SQLite:      3 mentions
              NoSQL:      2 mentions
            MongoDB:      4 mentions
-               Git:      8 mentions
-            Github:     10 mentions
+               Git:     10 mentions
+            Github:     11 mentions
                SVN:      6 mentions
                TFS:      3 mentions
               nMap:      1 mention
@@ -72,5 +77,5 @@ KEYWORDS (39)
             Gimp 2:      1 mention
           Inkscape:      1 mention
     -------------------------------
-       39 KEYWORDS     211 mentions
+       44 KEYWORDS     246 mentions
 

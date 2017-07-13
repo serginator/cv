@@ -58,6 +58,14 @@
   "education": [
     {
       "institution": "Imagina Formación",
+      "gpa": "98%",
+      "startDate": "2017-05",
+      "endDate": "2017-06",
+      "area": "Web Development with React JS",
+      "studyType": "Course"
+    },
+    {
+      "institution": "Imagina Formación",
       "gpa": "90%",
       "startDate": "2016-11",
       "endDate": "2016-12",
@@ -139,9 +147,12 @@
       "keywords": [
         "jQuery",
         "AngularJS",
+        "Vue.js",
+        "ReactJS",
         "Node.js",
         "Zepto.js",
-        "Underscore"
+        "Underscore",
+        "lodash"
       ]
     },
     {
@@ -151,6 +162,8 @@
         "Jenkins",
         "Sonar",
         "Grunt.js",
+        "Webpack",
+        "npm",
         "Unix",
         "Docker"
       ]

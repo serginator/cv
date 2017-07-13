@@ -9,8 +9,8 @@ Web: http://www.serginator.com
 SKILLS -------------------------------------------------------------------------
 
 - Web Development: HTML5 CSS3 LESS JavaScript REST AJAX Grunt.js 
-- JavaScript: jQuery AngularJS Node.js Zepto.js Underscore 
-- CI: Jenkins Sonar Grunt.js Unix Docker 
+- JavaScript: jQuery AngularJS Vue.js ReactJS Node.js Zepto.js Underscore lodash 
+- CI: Jenkins Sonar Grunt.js Webpack npm Unix Docker 
 - Databases: MySQL SQLite NoSQL MongoDB 
 - SCM: Git Github SVN TFS 
 - Security: nMap netcat Wireshark ettercap MSF Nessus OpenVAS aircrack-ng Nikto 
@@ -33,6 +33,10 @@ PROJECTS -----------------------------------------------------------------------
 JS Test Lab, creator (2011-03 — Present)
 A website I made as a portfolio for a Japanese company I was going to work for before the tsunami in 2011.
 An arcade machine
+
+Movistar TV - DTH Hybrid HTML, developer (2017-01 — Present)
+A set-top box (STB) with satellital and internet connection for TVApps and VOD
+Development of the UI of a set-top box (STB) with satellital and internet connection for TVApps and VOD, using HTML and JavaScript to communicate with the middleware. Also I've installed and configured all the continuous integration environment with Webpack, Jenkins and Sonar, and made the npm tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.
 
 Movistar TV - DTH Hybrid, developer (2015-01 — Present)
 A set-top box (STB) with satellital and internet connection for TVApps and VOD
@@ -77,6 +81,9 @@ Social network development using ELGG and modifying it's core. It was running fo
 
 
 EDUCATION ----------------------------------------------------------------------
+
+Imagina Formación (2017-05 — 2017-06)
+React JS course.
 
 Imagina Formación (2016-11 — 2016-12)
 Course about design and conceptualization of videogames. It was about rewards, personalities, feedback, homo faber vs homo ludens, monetization, casual players vs hardcore players, QA, localization, equilibrium, interactive design...

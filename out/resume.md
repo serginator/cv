@@ -9,8 +9,8 @@ Web: http://www.serginator.com
 ## SKILLS
 
   - Web Development: HTML5 CSS3 LESS JavaScript REST AJAX Grunt.js 
-  - JavaScript: jQuery AngularJS Node.js Zepto.js Underscore 
-  - CI: Jenkins Sonar Grunt.js Unix Docker 
+  - JavaScript: jQuery AngularJS Vue.js ReactJS Node.js Zepto.js Underscore lodash 
+  - CI: Jenkins Sonar Grunt.js Webpack npm Unix Docker 
   - Databases: MySQL SQLite NoSQL MongoDB 
   - SCM: Git Github SVN TFS 
   - Security: nMap netcat Wireshark ettercap MSF Nessus OpenVAS aircrack-ng Nikto 
@@ -37,6 +37,11 @@ Junior Programmer at System Integration developing a social network.
 
 A website I made as a portfolio for a Japanese company I was going to work for before the tsunami in 2011.
 An arcade machine
+
+### *Developer*, [Movistar TV - DTH Hybrid HTML](http://www.movistar.com) (2017-01 — Present)
+
+A set-top box (STB) with satellital and internet connection for TVApps and VOD
+Development of the UI of a set-top box (STB) with satellital and internet connection for TVApps and VOD, using HTML and JavaScript to communicate with the middleware. Also I've installed and configured all the continuous integration environment with Webpack, Jenkins and Sonar, and made the npm tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.
 
 ### *Developer*, [Movistar TV - DTH Hybrid](http://www.movistar.com) (2015-01 — Present)
 
@@ -91,6 +96,11 @@ Social network development using ELGG and modifying it's core. It was running fo
 
 
 ## EDUCATION
+
+### [Imagina Formación](http://www.imaginaformacion.com) (2017-05 — 2017-06)
+
+React JS course.
+
 
 ### [Imagina Formación](http://www.imaginaformacion.com) (2016-11 — 2016-12)
 
