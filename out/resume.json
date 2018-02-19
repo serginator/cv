@@ -1,17 +1,19 @@
 {
   "basics": {
-    "name": "Sergio Ruiz",
     "label": "FullStack JavaScript Developer",
     "class": "Programmer",
-    "summary": "**FullStack JavaScript developer with 5+ years industry experience, since the age of 6 with computers and since the age of 12 dealing with code**, with strong skills in code quality, performance and continuous integration. Capacity to learn new languages and adaptability to new environments in no time thanks to his overall knowledge of languages and operative systems.",
     "website": "http://www.serginator.com",
     "email": "serginator@gmail.com",
+    "other": [
+      {
+        "label": "Work Email",
+        "category": "email",
+        "value": "sergio.ruiz@aurigae.com"
+      }
+    ],
+    "name": "Sergio Ruiz",
+    "summary": "**FullStack JavaScript developer with 5+ years industry experience, since the age of 6 with computers and since the age of 12 dealing with code**, with strong skills in code quality, performance and continuous integration. Capacity to learn new languages and adaptability to new environments in no time thanks to his overall knowledge of languages and operative systems.",
     "picture": "https://s.gravatar.com/avatar/8ed40a0d594ec378fdcfb59daa4150a5?s=250",
-    "location": {
-      "postalCode": "28045",
-      "city": "Madrid",
-      "countryCode": "ES"
-    },
     "profiles": [
       {
         "network": "GitHub",

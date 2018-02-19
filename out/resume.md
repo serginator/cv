@@ -83,7 +83,7 @@ Development of the Smartphone/Tablet application, with our own javascript framew
 Use of Google Apps inside the company to handle users, data, documents...
 Development of services and apps for BBVA using Google App Engine (GAE). After the development of several REST services, I created some documentation webs for internal projects using Google Sites and developing gadgets in Google Apps Script.
 
-### *Main developer*, [HEEL - Android application](http://www.heel.es) (2012-02 — 2012-02)
+### *Main developer*, [HEEL - Android application](http://www.heel.es) (2012-02)
 
 A Tablet application in Android for a pharmaceutical laboratory.
 Development of a tablet application (Android) for a pharmaceutical laboratory. This app is used to let pharmacists to fill and sign contracts of sale and purchase, with a pharmacy database. It captures the form as a digital image and stores the filled form in CVS format to post-process it.
@@ -122,7 +122,7 @@ Responsive Frameworks course using some frameworks like Base, Bootstrap and Foun
 Angular JS course.
 
 
-### [Rice University](https://www.coursera.org) (2013-01 — 2013-01)
+### [Rice University](https://www.coursera.org) (2013-01)
 
 A course by Rice University at Coursera, Graded with distinction: https://www.coursera.org/records/XKhb4VhWeYRPvHnc
 
@@ -132,7 +132,7 @@ A course by Rice University at Coursera, Graded with distinction: https://www.co
 Android development, giving some hints about design and UX.
 
 
-### [Universidad Complutense de Madrid - UCM](https://www.ucm.es) (2010-01 — 2010-01)
+### [Universidad Complutense de Madrid - UCM](https://www.ucm.es) (2010-01)
 
 Course certified by UCM about HTML4, CSS2 and Dreamweaver.
 
@@ -160,6 +160,39 @@ Study group formed by several members of the JavaScript community in Madrid to l
 
 
 
+
+
+
+## EXTRACURRICULAR
+
+### Codemotion ES 2012, Event plenty of conferences about development. More info [here](http://lanyrd.com/2012/codemotion-espana/) (2012-03)
+
+
+### SpainJS 2012, Event plenty of conferences about JavaScript. More info [here](http://lanyrd.com/2012/spainjs/) (2012-07)
+
+
+### SpainJS 2013, Event plenty of conferences about JavaScript. More info [here](http://lanyrd.com/2013/spainjs/) (2013-07)
+
+
+### XP Week 2013, Workshops about XP, TDD, Clean Code, CI, Grunt... I made some [slides](http://www.serginator.com/xpweek/) to talk what I've learnt to my colleages at Telefonica I+D. (2013-04)
+
+
+### DEVCON 2013, Development conference for Telefonica I+D (2013-11)
+
+
+### TEFCON 2015, Development conferences for Telefonica I+D (2015-05)
+
+
+### SmashingConf Barcelona 2015, Event plenty of conferences about JavaScript, CSS and Design. More info [here](http://lanyrd.com/2015/smashingconf-barcelona/) and [here](http://smashingconf.com/barcelona-2015/). (2015-10)
+
+
+### JSDayES 2016, Development conference about JavaScript (2016-04)
+
+
+### FrontFest 2017, Development conference about FrontEnd (2017-02)
+
+
+### JSDayES 2017, Development conference about JavaScript (2017-05)
 
 
 
