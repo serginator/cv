@@ -116,8 +116,8 @@
       "url": "http://www.movistar.com",
       "start": "2017-01",
       "location": "Madrid",
-      "description": "A set-top box (STB) with satellital/cable and internet connection for TVApps and VOD",
-      "summary": "Development of the UI of a set-top box (STB) with satellital/cable and internet connection for TVApps and VOD, using HTML and JavaScript to communicate with the middleware. Also I've installed and configured all the continuous integration environment with Webpack, Jenkins and Sonar, and made the npm tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.",
+      "description": "A set-top box (STB) with satellite/cable and internet connection for TVApps and VOD",
+      "summary": "Development of the UI of a set-top box (STB) with satellite/cable and internet connection for TVApps and VOD, using HTML and JavaScript to communicate with the middleware. Also I've installed and configured all the continuous integration environment with Webpack, Jenkins and Sonar, and made the npm tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.",
       "keywords": ["JavaScript", "Vue.js", "lodash", "jest", "AJAX", "HTML", "LESS", "Webpack", "npm", "Unix", "Jenkins", "Sonar", "Docker", "Scrum", "JIRA", "Git", "Github", "video", "opentv", "dth", "cable", "vod", "pvr", "stb"]
     },
     {
@@ -127,8 +127,8 @@
       "url": "http://www.movistar.com",
       "start": "2015-01",
       "location": "Madrid",
-      "description": "A set-top box (STB) with satellital/cable and internet connection for TVApps and VOD",
-      "summary": "Development of the UI of a set-top box (STB) with satellital/cable and internet connection for TVApps and VOD, using SVG and JavaScript to communicate with the middleware. Also I've installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.",
+      "description": "A set-top box (STB) with satellite/cable and internet connection for TVApps and VOD",
+      "summary": "Development of the UI of a set-top box (STB) with satellite/cable and internet connection for TVApps and VOD, using SVG and JavaScript to communicate with the middleware. Also I've installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.",
       "keywords": ["JavaScript", "jQuery", "jasmine", "AJAX", "SVG", "Unix", "Jenkins", "Sonar", "Docker", "Scrum", "JIRA", "SVN", "Git", "Github", "video", "opentv", "dth", "cable", "vod", "pvr", "stb"]
     },
     {
@@ -185,8 +185,8 @@
       "start": "2012-12",
       "end": "2013-12",
       "location": "Madrid",
-      "description": "A set-top box (STB) with satellital/cable and internet connection for TVApps and VOD",
-      "summary": "Development of the UI of a set-top box (STB) with satellital/cable and internet connection for TVApps and VOD, using SVG and JavaScript to communicate with the middleware. Also I've installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.",
+      "description": "A set-top box (STB) with satellite/cable and internet connection for TVApps and VOD",
+      "summary": "Development of the UI of a set-top box (STB) with satellite/cable and internet connection for TVApps and VOD, using SVG and JavaScript to communicate with the middleware. Also I've installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.",
       "keywords": ["JavaScript", "jQuery", "jasmine", "AJAX", "SVG", "Unix", "Jenkins", "Sonar", "Scrum", "JIRA", "SVN", "Git", "Github", "video", "opentv", "dth", "cable", "vod", "pvr", "stb"]
     },
     {

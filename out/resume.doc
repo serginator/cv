@@ -1073,7 +1073,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Development of the UI of a set-top box (STB) with satellital/cable and internet connection for TVApps and VOD, using HTML and JavaScript to communicate with the middleware. Also I&amp;apos;ve installed and configured all the continuous integration environment with Webpack, Jenkins and Sonar, and made the npm tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Development of the UI of a set-top box (STB) with satellite/cable and internet connection for TVApps and VOD, using HTML and JavaScript to communicate with the middleware. Also I&amp;apos;ve installed and configured all the continuous integration environment with Webpack, Jenkins and Sonar, and made the npm tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.</w:t></w:r>
     </w:p>
 
 
@@ -1115,7 +1115,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Development of the UI of a set-top box (STB) with satellital/cable and internet connection for TVApps and VOD, using SVG and JavaScript to communicate with the middleware. Also I&amp;apos;ve installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Development of the UI of a set-top box (STB) with satellite/cable and internet connection for TVApps and VOD, using SVG and JavaScript to communicate with the middleware. Also I&amp;apos;ve installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.</w:t></w:r>
     </w:p>
 
 
@@ -1322,7 +1322,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Development of the UI of a set-top box (STB) with satellital/cable and internet connection for TVApps and VOD, using SVG and JavaScript to communicate with the middleware. Also I&amp;apos;ve installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Development of the UI of a set-top box (STB) with satellite/cable and internet connection for TVApps and VOD, using SVG and JavaScript to communicate with the middleware. Also I&amp;apos;ve installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.</w:t></w:r>
     </w:p>
 
 
