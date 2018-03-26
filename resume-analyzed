@@ -3,7 +3,7 @@
 > hackmyresume ANALYZE resume.json
 
 
-*** HackMyResume v1.9.0 ***
+*** HackMyResume v1.9.0-beta ***
 Reading FRESH resume: resume.json
 Analyzing FRESH resume: resume.json
 
@@ -25,8 +25,8 @@ SECTIONS (10)
 
 COVERAGE (100.0%)
 
-        Total Days:   2432
-          Employed:   2432
+        Total Days:   2467
+          Employed:   2467
               Gaps:         []
           Overlaps:         []
 

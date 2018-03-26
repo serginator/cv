@@ -38,15 +38,15 @@ Junior Programmer at System Integration developing a social network.
 A website I made as a portfolio for a Japanese company I was going to work for before the tsunami in 2011.
 An arcade machine
 
-### *Developer*, [Movistar TV - DTH Hybrid HTML](http://www.movistar.com) (2017-01 — Present)
+### *Developer*, [Movistar TV - Hybrid HTML](http://www.movistar.com) (2017-01 — Present)
 
-A set-top box (STB) with satellital and internet connection for TVApps and VOD
-Development of the UI of a set-top box (STB) with satellital and internet connection for TVApps and VOD, using HTML and JavaScript to communicate with the middleware. Also I've installed and configured all the continuous integration environment with Webpack, Jenkins and Sonar, and made the npm tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.
+A set-top box (STB) with satellital/cable and internet connection for TVApps and VOD
+Development of the UI of a set-top box (STB) with satellital/cable and internet connection for TVApps and VOD, using HTML and JavaScript to communicate with the middleware. Also I've installed and configured all the continuous integration environment with Webpack, Jenkins and Sonar, and made the npm tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.
 
-### *Developer*, [Movistar TV - DTH Hybrid](http://www.movistar.com) (2015-01 — Present)
+### *Developer*, [Movistar TV - Hybrid](http://www.movistar.com) (2015-01 — Present)
 
-A set-top box (STB) with satellital and internet connection for TVApps and VOD
-Development of the UI of a set-top box (STB) with satellital and internet connection for TVApps and VOD, using SVG and JavaScript to communicate with the middleware. Also I've installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.
+A set-top box (STB) with satellital/cable and internet connection for TVApps and VOD
+Development of the UI of a set-top box (STB) with satellital/cable and internet connection for TVApps and VOD, using SVG and JavaScript to communicate with the middleware. Also I've installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.
 
 ### *Developer*, [Movistar TV - GO](http://www.movistar.com) (2015-02 — 2015-03)
 
@@ -68,10 +68,10 @@ CSB is a panel to manage users, assign resources or services, handle your accoun
 Web application connected to internal LDAP server which allows to send feedback to people personally or anonymously about projects, behavior...
 Web application made with the magic of Meteor.js and Lungo.js, connected to our internal LDAP server to handle logins. After finishing it, we ported all the Lungo.js part to Firefox building blocks as some of the members of the team were members of Firefox OS and wanted to use it in their devices. This app allows to send feedback to people personally or anonymously about projects, behavior...
 
-### *Developer*, [Movistar TV - DTH Hybrid](http://www.movistar.com) (2012-12 — 2013-12)
+### *Developer*, [Movistar TV - Hybrid](http://www.movistar.com) (2012-12 — 2013-12)
 
-A set-top box (STB) with satellital and internet connection for TVApps and VOD
-Development of the UI of a set-top box (STB) with satellital and internet connection for TVApps and VOD, using SVG and JavaScript to communicate with the middleware. Also I've installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.
+A set-top box (STB) with satellital/cable and internet connection for TVApps and VOD
+Development of the UI of a set-top box (STB) with satellital/cable and internet connection for TVApps and VOD, using SVG and JavaScript to communicate with the middleware. Also I've installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.
 
 ### *Developer*, [Telepizza - Mobile app development](http://www.telepizza.es) (2012-09 — 2012-12)
 
