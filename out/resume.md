@@ -4,7 +4,7 @@ Email: serginator@gmail.com
 
 Web: http://www.serginator.com
 
-**FullStack JavaScript developer with 5+ years industry experience, since the age of 6 with computers and since the age of 12 dealing with code**, with strong skills in code quality, performance and continuous integration. Capacity to learn new languages and adaptability to new environments in no time thanks to his overall knowledge of languages and operative systems.
+**FullStack JavaScript developer with 7+ years industry experience, since the age of 6 with computers and since the age of 12 dealing with code**, with strong skills in code quality, performance and continuous integration. Capacity to learn new languages and adaptability to new environments in no time thanks to his overall knowledge of languages and operative systems.
 
 ## SKILLS
 
@@ -193,6 +193,9 @@ Study group formed by several members of the JavaScript community in Madrid to l
 
 
 ### JSDayES 2017, Development conference about JavaScript (2017-05)
+
+
+### FrontFest 2018, Development conference about FrontEnd (2018-02)
 
 
 

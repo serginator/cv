@@ -6,7 +6,7 @@ info:
   label: 'FullStack JavaScript Developer'
   class: Programmer
   image: 'https://s.gravatar.com/avatar/8ed40a0d594ec378fdcfb59daa4150a5?s=250'
-  brief: '**FullStack JavaScript developer with 5+ years industry experience, since the age of 6 with computers and since the age of 12 dealing with code**, with strong skills in code quality, performance and continuous integration. Capacity to learn new languages and adaptability to new environments in no time thanks to his overall knowledge of languages and operative systems.'
+  brief: '**FullStack JavaScript developer with 7+ years industry experience, since the age of 6 with computers and since the age of 12 dealing with code**, with strong skills in code quality, performance and continuous integration. Capacity to learn new languages and adaptability to new environments in no time thanks to his overall knowledge of languages and operative systems.'
 disposition:
   travel: 10
   authorization: citizen
@@ -760,7 +760,7 @@ languages:
   -
     language: English
     level: '8'
-    years: 20
+    years: 25
     fluency: professional
   -
     language: Japanese
@@ -850,6 +850,12 @@ extracurricular:
     location: Madrid
     start: '2017-05-12'
     end: '2017-05-13'
+  -
+    title: 'FrontFest 2018'
+    activity: 'Development conference about FrontEnd'
+    location: Madrid
+    start: '2018-02-17'
+    end: '2018-02-17'
 interests:
   -
     name: travelling
