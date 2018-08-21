@@ -25,12 +25,12 @@ SECTIONS (10)
 
 COVERAGE (100.0%)
 
-        Total Days:   2602
-          Employed:   2602
+        Total Days:   2615
+          Employed:   2615
               Gaps:         []
           Overlaps:         []
 
-KEYWORDS (44)
+KEYWORDS (45)
 
              HTML5:     15 mentions
               CSS3:     12 mentions
@@ -41,8 +41,9 @@ KEYWORDS (44)
           Grunt.js:     11 mentions
             jQuery:      8 mentions
          AngularJS:      6 mentions
-            Vue.js:      3 mentions
+            Vue.js:      4 mentions
            ReactJS:      3 mentions
+     WebComponents:      4 mentions
            Node.js:      7 mentions
           Zepto.js:      4 mentions
         Underscore:      2 mentions
@@ -77,5 +78,5 @@ KEYWORDS (44)
             Gimp 2:      1 mention
           Inkscape:      1 mention
     -------------------------------
-       44 KEYWORDS     246 mentions
+       45 KEYWORDS     251 mentions
 

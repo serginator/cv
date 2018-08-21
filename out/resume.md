@@ -9,7 +9,7 @@ Web: http://www.serginator.com
 ## SKILLS
 
   - Web Development: HTML5 CSS3 LESS JavaScript REST AJAX Grunt.js 
-  - JavaScript: jQuery AngularJS Vue.js ReactJS Node.js Zepto.js Underscore lodash 
+  - JavaScript: jQuery AngularJS Vue.js ReactJS WebComponents Node.js Zepto.js Underscore lodash 
   - CI: Jenkins Sonar Grunt.js Webpack npm Unix Docker 
   - Databases: MySQL SQLite NoSQL MongoDB 
   - SCM: Git Github SVN TFS 
@@ -22,11 +22,11 @@ Web: http://www.serginator.com
 
 Software Developer at Telefónica I+D. I've worked mainly focused in full-stack javascript, continuous integration and evangelist of best practices, most of the time at video area.
 
-### *Systems Integration Consultant - Programmer*, [CIBER](http://www.ciber.com/es) (2012-01 — 2012-12)
+### *Systems Integration Consultant - Programmer*, [CIBER](http://www.ciber.es) (2012-01 — 2012-12)
 
 Programmer at System Integration, I've been developing a social network, Android apps, rest services at BBVA GAE project, sites with Google Sites for internal documentation at BBVA and Telepizza's mobile app.
 
-### *Systems Integration Consultant - Junior Programmer*, [CIBER](http://www.ciber.com/es) (2011-06 — 2012-01)
+### *Systems Integration Consultant - Junior Programmer*, [CIBER](http://www.ciber.es) (2011-06 — 2012-01)
 
 Junior Programmer at System Integration developing a social network.
 
@@ -43,7 +43,7 @@ An arcade machine
 A set-top box (STB) with satellite/cable and internet connection for TVApps and VOD
 Development of the UI of a set-top box (STB) with satellite/cable and internet connection for TVApps and VOD, using HTML and JavaScript to communicate with the middleware. Also I've installed and configured all the continuous integration environment with Webpack, Jenkins and Sonar, and made the npm tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.
 
-### *Developer*, [Movistar TV - Hybrid](http://www.movistar.com) (2015-01 — Present)
+### *Developer*, [Movistar TV - Hybrid SVG](http://www.movistar.com) (2015-01 — Present)
 
 A set-top box (STB) with satellite/cable and internet connection for TVApps and VOD
 Development of the UI of a set-top box (STB) with satellite/cable and internet connection for TVApps and VOD, using SVG and JavaScript to communicate with the middleware. Also I've installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.
@@ -88,7 +88,7 @@ Development of services and apps for BBVA using Google App Engine (GAE). After t
 A Tablet application in Android for a pharmaceutical laboratory.
 Development of a tablet application (Android) for a pharmaceutical laboratory. This app is used to let pharmacists to fill and sign contracts of sale and purchase, with a pharmacy database. It captures the form as a digital image and stores the filled form in CVS format to post-process it.
 
-### *Developer*, [TUYYOU - Development of a Social Network](http://www.tuyyou.com) (2011-06 — 2012-06)
+### *Developer*, [TUYYOU - Development of a Social Network](https://www.facebook.com/tuyyoupuntocom/) (2011-06 — 2012-06)
 
 Social network which pretends to join a buying platform with a professional network, offering the possibility to earn money from your referrals.
 Social network development using ELGG and modifying it's core. It was running for several years, being announced in several media around the country.

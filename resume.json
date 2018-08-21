@@ -64,7 +64,7 @@
   ],
 
   "employment": {
-    "summary": "5+ years industry IT and software development experience.",
+    "summary": "7+ years industry IT and software development experience.",
     "history": [
       {
         "employer": "AURIGAE",
@@ -73,11 +73,11 @@
         "summary": "Software Developer at Telefónica I+D. I've worked mainly focused in full-stack javascript, continuous integration and evangelist of best practices, most of the time at video area.",
         "start": "2012-12-10",
         "location": "Madrid",
-        "keywords": ["HTML5","CSS3","JavaScript","Unix","AngularJS","Mocha","Sinon","Chai","LESS","Git","Github","Scrum","JIRA","Jenkins","Grunt.js","Jasmine","Google Cast SDK","SVN","jQuery","SVG","Sonar","AJAX","Node.js","APS","POA","PBA","Clean Code", "video", "opentv", "dth", "cable", "vod", "pvr", "stb"]
+        "keywords": ["HTML5","CSS3","JavaScript","Unix","AngularJS","Vue.js","WebComponents","Mocha","Sinon","Chai","LESS","Git","Github","Scrum","JIRA","Jenkins","Grunt.js","Jasmine","Google Cast SDK","SVN","jQuery","SVG","Sonar","AJAX","Node.js","APS","POA","PBA","Clean Code", "video", "opentv", "dth", "cable", "vod", "pvr", "stb"]
       },
       {
         "employer": "CIBER",
-        "url": "http://www.ciber.com/es",
+        "url": "http://www.ciber.es",
         "position": "Systems Integration Consultant - Programmer",
         "summary": "Programmer at System Integration, I've been developing a social network, Android apps, rest services at BBVA GAE project, sites with Google Sites for internal documentation at BBVA and Telepizza's mobile app.",
         "start": "2012-01-01",
@@ -87,7 +87,7 @@
       },
       {
         "employer": "CIBER",
-        "url": "http://www.ciber.com/es",
+        "url": "http://www.ciber.es",
         "position": "Systems Integration Consultant - Junior Programmer",
         "summary": "Junior Programmer at System Integration developing a social network.",
         "start": "2011-06-24",
@@ -118,10 +118,10 @@
       "location": "Madrid",
       "description": "A set-top box (STB) with satellite/cable and internet connection for TVApps and VOD",
       "summary": "Development of the UI of a set-top box (STB) with satellite/cable and internet connection for TVApps and VOD, using HTML and JavaScript to communicate with the middleware. Also I've installed and configured all the continuous integration environment with Webpack, Jenkins and Sonar, and made the npm tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.",
-      "keywords": ["JavaScript", "Vue.js", "lodash", "jest", "AJAX", "HTML", "LESS", "Webpack", "npm", "Unix", "Jenkins", "Sonar", "Docker", "Scrum", "JIRA", "Git", "Github", "video", "opentv", "dth", "cable", "vod", "pvr", "stb"]
+      "keywords": ["JavaScript", "Vue.js", "WebComponents", "lodash", "jest", "AJAX", "HTML", "LESS", "Webpack", "npm", "Unix", "Jenkins", "Sonar", "Docker", "Scrum", "JIRA", "Git", "Github", "video", "opentv", "dth", "cable", "vod", "pvr", "stb"]
     },
     {
-      "title": "Movistar TV - Hybrid",
+      "title": "Movistar TV - Hybrid SVG",
       "category": "commercial",
       "role": "developer",
       "url": "http://www.movistar.com",
@@ -229,7 +229,7 @@
       "title": "TUYYOU - Development of a Social Network",
       "category": "commercial",
       "role": "developer",
-      "url": "http://www.tuyyou.com",
+      "url": "https://www.facebook.com/tuyyoupuntocom/",
       "start": "2011-06",
       "end": "2012-06",
       "location": "Madrid",
@@ -249,7 +249,7 @@
       {
         "name": "JavaScript",
         "level": "Expert",
-        "skills": ["jQuery", "AngularJS", "Vue.js", "ReactJS", "Node.js", "Zepto.js", "Underscore", "lodash"]
+        "skills": ["jQuery", "AngularJS", "Vue.js", "ReactJS", "WebComponents", "Node.js", "Zepto.js", "Underscore", "lodash"]
       },
       {
         "name": "CI",
@@ -316,6 +316,10 @@
       },
       {
         "name": "Vue.js",
+        "level": "Intermediate"
+      },
+      {
+        "name": "WebComponents",
         "level": "Intermediate"
       },
       {

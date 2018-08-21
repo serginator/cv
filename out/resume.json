@@ -42,7 +42,7 @@
     },
     {
       "company": "CIBER",
-      "website": "http://www.ciber.com/es",
+      "website": "http://www.ciber.es",
       "position": "Systems Integration Consultant - Programmer",
       "startDate": "2012-01-01",
       "endDate": "2012-12-10",
@@ -50,7 +50,7 @@
     },
     {
       "company": "CIBER",
-      "website": "http://www.ciber.com/es",
+      "website": "http://www.ciber.es",
       "position": "Systems Integration Consultant - Junior Programmer",
       "startDate": "2011-06-24",
       "endDate": "2012-01-01",
@@ -151,6 +151,7 @@
         "AngularJS",
         "Vue.js",
         "ReactJS",
+        "WebComponents",
         "Node.js",
         "Zepto.js",
         "Underscore",

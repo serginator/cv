@@ -45,7 +45,7 @@ social:
     user: serginator
     url: 'https://www.linkedin.com/in/serginator'
 employment:
-  summary: '5+ years industry IT and software development experience.'
+  summary: '7+ years industry IT and software development experience.'
   history:
     -
       employer: AURIGAE
@@ -60,6 +60,8 @@ employment:
         - JavaScript
         - Unix
         - AngularJS
+        - Vue.js
+        - WebComponents
         - Mocha
         - Sinon
         - Chai
@@ -91,7 +93,7 @@ employment:
         - stb
     -
       employer: CIBER
-      url: 'http://www.ciber.com/es'
+      url: 'http://www.ciber.es'
       position: 'Systems Integration Consultant - Programmer'
       summary: 'Programmer at System Integration, I''ve been developing a social network, Android apps, rest services at BBVA GAE project, sites with Google Sites for internal documentation at BBVA and Telepizza''s mobile app.'
       start: '2012-01-01'
@@ -120,7 +122,7 @@ employment:
         - nginx
     -
       employer: CIBER
-      url: 'http://www.ciber.com/es'
+      url: 'http://www.ciber.es'
       position: 'Systems Integration Consultant - Junior Programmer'
       summary: 'Junior Programmer at System Integration developing a social network.'
       start: '2011-06-24'
@@ -160,6 +162,7 @@ projects:
     keywords:
       - JavaScript
       - Vue.js
+      - WebComponents
       - lodash
       - jest
       - AJAX
@@ -183,7 +186,7 @@ projects:
       - pvr
       - stb
   -
-    title: 'Movistar TV - Hybrid'
+    title: 'Movistar TV - Hybrid SVG'
     category: commercial
     role: developer
     url: 'http://www.movistar.com'
@@ -399,7 +402,7 @@ projects:
     title: 'TUYYOU - Development of a Social Network'
     category: commercial
     role: developer
-    url: 'http://www.tuyyou.com'
+    url: 'https://www.facebook.com/tuyyoupuntocom/'
     start: 2011-06
     end: 2012-06
     location: Madrid
@@ -442,6 +445,7 @@ skills:
         - AngularJS
         - Vue.js
         - ReactJS
+        - WebComponents
         - Node.js
         - Zepto.js
         - Underscore
@@ -526,6 +530,9 @@ skills:
       level: Intermediate
     -
       name: Vue.js
+      level: Intermediate
+    -
+      name: WebComponents
       level: Intermediate
     -
       name: Node.js

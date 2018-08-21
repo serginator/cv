@@ -619,7 +619,7 @@
               <w:caps/>
               <w:spacing w:val="22"/>
             </w:rPr>
-            <w:t>jQuery  AngularJS  Vue.js  ReactJS  Node.js  Zepto.js  Underscore  lodash</w:t>
+            <w:t>jQuery  AngularJS  Vue.js  ReactJS  WebComponents  Node.js  Zepto.js  Underscore  lodash</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -894,7 +894,7 @@
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
         <w:t>Systems Integration Consultant - Programmer, </w:t>
       </w:r>
-      <w:hlink w:dest="http://www.ciber.com/es">
+      <w:hlink w:dest="http://www.ciber.es">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
           <w:rPr>
             <w:rStyle w:val="Hyperlink"/>
@@ -936,7 +936,7 @@
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
         <w:t>Systems Integration Consultant - Junior Programmer, </w:t>
       </w:r>
-      <w:hlink w:dest="http://www.ciber.com/es">
+      <w:hlink w:dest="http://www.ciber.es">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
           <w:rPr>
             <w:rStyle w:val="Hyperlink"/>
@@ -1096,7 +1096,7 @@
           <w:rPr>
             <w:rStyle w:val="Hyperlink"/>
           </w:rPr>
-          <w:t>Movistar TV - Hybrid</w:t>
+          <w:t>Movistar TV - Hybrid SVG</w:t>
         </w:r>
       </w:hlink>
       <w:r wsp:rsidR="00EA0B64">
@@ -1466,7 +1466,7 @@
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
         <w:t>developer, </w:t>
       </w:r>
-      <w:hlink w:dest="http://www.tuyyou.com">
+      <w:hlink w:dest="https://www.facebook.com/tuyyoupuntocom/">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
           <w:rPr>
             <w:rStyle w:val="Hyperlink"/>
