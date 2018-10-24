@@ -17,7 +17,7 @@ Output files created using [HackMyResume](http://please.hackmyresume.com/)
 - [JSON](out/resume.json)
 - [YML](out/resume.yml)
 - [JSON Resume](out/jsonresume/resume.json)
-- [http://serginator.js.org/cv/](http://serginator.js.org/cv/)
+- [https://registry.jsonresume.org/serginator](https://registry.jsonresume.org/serginator)
 
 # DEV
 
