@@ -44,6 +44,8 @@
     "jsonresume-theme-moon": "^1.7.22",
     "jsonresume-theme-stackoverflow": "^1.4.0",
     "phantomjs": "^2.1.7",
-    "resume-cli": "^0.4.19"
+    "resume-cli": "^0.4.19",
+    "hoek": "^4.2.1",
+    "superagent": "^3.7.0"
   }
 }
