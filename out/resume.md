@@ -20,7 +20,7 @@ Web: http://www.serginator.com
 
 ### *Programmer Analyst*, [AURIGAE](http://www.aurigae.com/) (2012-12 — Present)
 
-Software Developer at Telefónica I+D. I've worked mainly focused in full-stack javascript, continuous integration and evangelist of best practices, most of the time at video area.
+Software Developer at Telefónica I+D. I've worked mainly focused in full-stack javascript, continuous integration and evangelist of best practices, most of the time at video area developing the UI of Movistar TV set-top-boxes for LATAM.
 
 ### *Systems Integration Consultant - Programmer*, [CIBER](http://www.ciber.es) (2012-01 — 2012-12)
 
@@ -217,7 +217,7 @@ Advanced workshop on how to develop a game without libraries, plain JavaScript, 
 Culture and landscapes everywhere!
 
 - READING
-I love to read, books, comics or manga. Action, Sci-Fi, Fantastic, Horror...
+I love to read books, comics or manga. Action, Sci-Fi, Fantastic, Horror...
 
 - WATCHING MOVIES AND TV SHOWS
 I like movies and tv shows. Action, Sci-Fi, Fantastic, Horror...
