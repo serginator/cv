@@ -244,12 +244,12 @@
       {
         "name": "Web Development",
         "level": "Advanced",
-        "skills": ["HTML5", "CSS3", "LESS", "JavaScript", "REST", "AJAX", "Grunt.js"]
+        "skills": ["HTML5", "CSS3", "LESS", "JavaScript", "REST", "AJAX"]
       },
       {
         "name": "JavaScript",
         "level": "Expert",
-        "skills": ["jQuery", "AngularJS", "Vue.js", "ReactJS", "WebComponents", "Node.js", "Zepto.js", "Underscore", "lodash"]
+        "skills": ["ES6", "jQuery", "AngularJS", "Vue.js", "ReactJS", "WebComponents", "Polymer", "Node.js", "Zepto.js", "Underscore", "lodash"]
       },
       {
         "name": "CI",
@@ -295,6 +295,10 @@
         "level": "Expert"
       },
       {
+        "name": "ES6",
+        "level": "Advanced"
+      },
+      {
         "name": "REST",
         "level": "Advanced"
       },
@@ -320,6 +324,10 @@
       },
       {
         "name": "WebComponents",
+        "level": "Intermediate"
+      },
+      {
+        "name": "Polymer",
         "level": "Intermediate"
       },
       {
@@ -409,6 +417,18 @@
     "summary": "Using computers since age of 6, surfing the internet in early 90s and focused on security and programming, I've studied Computer Science at Universidad Complutense de Madrid, but in 3rd year I felt I wasn't learning **as much as I should** to be a **great developer**, so I left it and studied on my own, and **in a short time I was working**. I've completed courses, gave **presentations** and **workshops**, and became an **important asset** at every company I've worked for. I've also been specialized in clean code, code quality, best practices.",
     "level": "some-college",
     "history": [
+      {
+        "institution": "Imagina Formación",
+        "title": "ES6, Polymer and WebComponents",
+        "url": "http://www.imaginaformacion.com",
+        "area": "ES6, Polymer and WebComponents",
+        "studyType": "Course",
+        "start": "2018-10",
+        "end": "2018-12",
+        "grade": "100%",
+        "summary": "ES6, Polymer and Webcomponents course.",
+        "keywords": ["polymer", "webcomponents", "javascript", "es6", "html5", "css3", "git"]
+      },
       {
         "institution": "Imagina Formación",
         "title": "Web Development with React JS",
