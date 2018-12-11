@@ -11,7 +11,7 @@ SECTIONS (10)
 
         employment:      3
           projects:     12
-         education:      9
+         education:     10
            service:      -
             skills:      7
            writing:      -
@@ -25,31 +25,33 @@ SECTIONS (10)
 
 COVERAGE (100.0%)
 
-        Total Days:   2700
-          Employed:   2700
+        Total Days:   2727
+          Employed:   2727
               Gaps:         []
           Overlaps:         []
 
-KEYWORDS (45)
+KEYWORDS (47)
 
-             HTML5:     15 mentions
-              CSS3:     12 mentions
+             HTML5:     16 mentions
+              CSS3:     13 mentions
               LESS:      5 mentions
-        JavaScript:     42 mentions
+        JavaScript:     43 mentions
               REST:      6 mentions
               AJAX:     13 mentions
-          Grunt.js:     11 mentions
+               ES6:      6 mentions
             jQuery:      8 mentions
          AngularJS:      6 mentions
             Vue.js:      4 mentions
            ReactJS:      3 mentions
-     WebComponents:      4 mentions
+     WebComponents:      8 mentions
+           Polymer:      6 mentions
            Node.js:      7 mentions
           Zepto.js:      4 mentions
         Underscore:      2 mentions
             lodash:      3 mentions
            Jenkins:     13 mentions
              Sonar:     11 mentions
+          Grunt.js:     10 mentions
            Webpack:      5 mentions
                npm:      4 mentions
               Unix:      9 mentions
@@ -58,7 +60,7 @@ KEYWORDS (45)
             SQLite:      3 mentions
              NoSQL:      2 mentions
            MongoDB:      4 mentions
-               Git:     10 mentions
+               Git:     11 mentions
             Github:     11 mentions
                SVN:      6 mentions
                TFS:      3 mentions
@@ -78,5 +80,5 @@ KEYWORDS (45)
             Gimp 2:      1 mention
           Inkscape:      1 mention
     -------------------------------
-       45 KEYWORDS     251 mentions
+       47 KEYWORDS     270 mentions
 

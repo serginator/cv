@@ -60,6 +60,14 @@
   "education": [
     {
       "institution": "Imagina Formación",
+      "gpa": "100%",
+      "startDate": "2018-10",
+      "endDate": "2018-12",
+      "area": "ES6, Polymer and WebComponents",
+      "studyType": "Course"
+    },
+    {
+      "institution": "Imagina Formación",
       "gpa": "98%",
       "startDate": "2017-05",
       "endDate": "2017-06",
@@ -139,19 +147,20 @@
         "LESS",
         "JavaScript",
         "REST",
-        "AJAX",
-        "Grunt.js"
+        "AJAX"
       ]
     },
     {
       "name": "JavaScript",
       "level": "Expert",
       "keywords": [
+        "ES6",
         "jQuery",
         "AngularJS",
         "Vue.js",
         "ReactJS",
         "WebComponents",
+        "Polymer",
         "Node.js",
         "Zepto.js",
         "Underscore",

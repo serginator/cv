@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "npm run analyze > resume-analyzed && npm run to-jrs && npm run generate-all && mkdir -p dist && cp out/resume.html dist/index.html",
-    "generate-all": "hackmyresume BUILD resume.json TO out/resume.all -t $(awk -F \"=\" '/all-theme/ {print $2}' config)",
-    "generate-html": "hackmyresume BUILD resume.json TO out/resume.html -t $(awk -F \"=\" '/html-theme/ {print $2}' config)  && mkdir -p dist && cp out/resume.html dist/index.html",
+    "generate-all": "hackmyresume BUILD resume.json TO out/resume.all -t $(awk -F \"=\" '/all-theme/ {print $2}' config) && sh fix-html.sh",
+    "generate-html": "hackmyresume BUILD resume.json TO out/resume.html -t $(awk -F \"=\" '/html-theme/ {print $2}' config)  && mkdir -p dist && cp out/resume.html dist/index.html && sh fix-html.sh",
     "generate-pdf": "hackmyresume BUILD resume.json TO out/resume.pdf -t $(awk -F \"=\" '/pdf-theme/ {print $2}' config)",
     "to-jrs": "hackmyresume CONVERT resume.json out/jsonresume/resume.json",
     "test": "hackmyresume VALIDATE resume.json",

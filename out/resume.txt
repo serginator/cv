@@ -10,8 +10,8 @@ Web: http://www.serginator.com
 
 SKILLS -------------------------------------------------------------------------
 
-- Web Development: HTML5 CSS3 LESS JavaScript REST AJAX Grunt.js 
-- JavaScript: jQuery AngularJS Vue.js ReactJS WebComponents Node.js Zepto.js Underscore lodash 
+- Web Development: HTML5 CSS3 LESS JavaScript REST AJAX 
+- JavaScript: ES6 jQuery AngularJS Vue.js ReactJS WebComponents Polymer Node.js Zepto.js Underscore lodash 
 - CI: Jenkins Sonar Grunt.js Webpack npm Unix Docker 
 - Databases: MySQL SQLite NoSQL MongoDB 
 - SCM: Git Github SVN TFS 
@@ -84,6 +84,9 @@ Social network development using ELGG and modifying it's core. It was running fo
 
 
 EDUCATION ----------------------------------------------------------------------
+
+Imagina Formación (2018-10 — 2018-12)
+ES6, Polymer and Webcomponents course.
 
 Imagina Formación (2017-05 — 2017-06)
 React JS course.
