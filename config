@@ -1,4 +1,4 @@
 [config]
   all-theme=positive
-  html-theme=positive
+  html-theme=node_modules/jsonresume-theme-kendall
   pdf-theme=positive
