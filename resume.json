@@ -138,7 +138,7 @@
       "role": "developer",
       "url": "http://www.movistar.com",
       "start": "2017-01",
-      "end": "2019-01","
+      "end": "2019-01",
       "location": "Madrid",
       "description": "A set-top box (STB) with satellite/cable and internet connection for TVApps and VOD",
       "summary": "Development of the UI of a set-top box (STB) with satellite/cable and internet connection for TVApps and VOD, using HTML and JavaScript to communicate with the middleware. Also I've installed and configured all the continuous integration environment with Webpack, Jenkins and Sonar, and made the npm tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.",
