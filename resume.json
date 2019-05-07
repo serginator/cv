@@ -110,11 +110,35 @@
       "keywords": ["JavaScript", "HTML5", "CSS3"]
     },
     {
+      "title": "CSB - Cloud Service Broker",
+      "category": "commercial",
+      "role": "main developer",
+      "url": "http://www.telefonica.com",
+      "start": "2019-03",
+      "location": "Madrid",
+      "description": "CSB is a panel to manage users, assign resources or services, handle your account as a user... It uses Cloud Blue (POA and PBA).",
+      "summary": "CSB is a panel to manage users, assign resources or services, handle your account as a user... It uses Cloud Blue (POA and PBA). Development of an APS 2.2 to integrate Huawei Cloud services in CSB, front-end (in Dojo Toolkit) and back-end (in Node.js), for O2 (UK and GER) and VIVO (Brazil).",
+      "keywords": ["JavaScript", "HTML5", "CSS3", "Node.js", "AJAX", "APS 2.2", "POA", "PBA", "Scrum", "JIRA", "Git", "Github", "Unix", "NPM"]
+    },
+    {
+      "title": "Bankia - Centralized log",
+      "category": "commercial",
+      "role": "developer",
+      "start": "2019-01",
+      "end": "2019-03",
+      "location": "Madrid",
+      "url": "http://www.bankia.com/",
+      "description": "Application to check fraudulent usage in ATMs",
+      "summary": "A simple Angular 1.x application to check fraudulent usage in ATMs",
+      "keywords": ["JavaScript", "AngularJS", "Jest", "HTML5", "CSS3", "AJAX", "ES6", "Webpack"]
+    },
+    {
       "title": "Movistar TV - Hybrid HTML",
       "category": "commercial",
       "role": "developer",
       "url": "http://www.movistar.com",
       "start": "2017-01",
+      "end": "2019-01","
       "location": "Madrid",
       "description": "A set-top box (STB) with satellite/cable and internet connection for TVApps and VOD",
       "summary": "Development of the UI of a set-top box (STB) with satellite/cable and internet connection for TVApps and VOD, using HTML and JavaScript to communicate with the middleware. Also I've installed and configured all the continuous integration environment with Webpack, Jenkins and Sonar, and made the npm tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.",
@@ -126,6 +150,7 @@
       "role": "developer",
       "url": "http://www.movistar.com",
       "start": "2015-01",
+      "end": "2019-01",
       "location": "Madrid",
       "description": "A set-top box (STB) with satellite/cable and internet connection for TVApps and VOD",
       "summary": "Development of the UI of a set-top box (STB) with satellite/cable and internet connection for TVApps and VOD, using SVG and JavaScript to communicate with the middleware. Also I've installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.",
@@ -149,6 +174,7 @@
       "role": "main developer",
       "url": "http://www.movistar.com",
       "start": "2015-01",
+      "end": "2019-01",
       "location": "Madrid",
       "description": "Chromecast Receiver for the mobile applications of Movistar TV, which handles to play Live TV and VOD on Chromecast.",
       "summary": "Chromecast Receiver for the mobile applications of Movistar TV, which handles to play Live TV and VOD on Chromecast. Developed in Angular JS. Also installed and configured all the continuous integration environment with Jenkins and Sonar, and made the Grunt.js tasks to automate everything, from linting or testing to opening pull requests automagically integrating Crowdin with new translations from the OBs.",
